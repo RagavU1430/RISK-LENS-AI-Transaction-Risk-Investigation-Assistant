@@ -1,0 +1,518 @@
+{
+  "version": 1,
+  "analyses": {
+    "INV-F0481": {
+      "generated_at": "2026-09-05T07:38:01.683785+00:00",
+      "model": "gemini-3.5-flash-lite",
+      "context_hash": "d85de26354ca7379afe5384672d89ed64d1db23d4640ce9db093f9dc65a0acd0",
+      "report": {
+        "investigation_id": "INV-F0481",
+        "customer_id": "C014",
+        "generated_at": "2026-09-05T07:38:01.683785+00:00",
+        "status": "complete",
+        "executive_summary": "Transaction TX000012 for customer C014 was flagged by rule R01 as an unusually large transaction compared with historical values. The transaction represents a bank transfer amount significantly higher than the customer's median baseline. The available evidence is insufficient to determine intent.",
+        "what_happened": "On 2026-03-01 at 10:32:00, customer C014 executed a bank transfer transaction (TX000012) in the amount of 108968.15 through channel BANK_TRANSFER with payee Employer and description Monthly salary credit. Related transactions on the same date include TX000047, TX000049, and TX000050.",
+        "why_flagged": "Rule R01 (Unusually Large Transaction) triggered because the transaction amount of 108968.15 exceeded the threshold of 18339.8. The supplied calculation used the formula amount / customer_median with a multiplier of 5.0, resulting in a ratio of 29.71 against the customer median of 3667.96.",
+        "behavioral_comparison": "The observed transaction amount of 108968.15 differs from the customer's established behavior, contrasting with the customer's baseline median transaction amount of 3667.96 and average amount of 7568.47. The ratio of 29.71 exceeds the threshold of 18339.8.",
+        "rule_explanations": [
+          {
+            "rule_id": "R01",
+            "rule_name": "Unusually Large Transaction",
+            "triggered": true,
+            "explanation": "Rule triggered because transaction TX000012 amount of 108968.15 resulted in a ratio of 29.71 against the customer median of 3667.96, exceeding the threshold of 18339.8.",
+            "transaction_ids": [
+              "TX000012"
+            ],
+            "evidence_references": [
+              "F0481"
+            ]
+          }
+        ],
+        "key_evidence": [
+          {
+            "title": "Unusually Large Transaction Finding",
+            "observation": "Transaction TX000012 had an observed amount of 108968.15.",
+            "supporting_transaction_ids": [
+              "TX000012"
+            ],
+            "baseline_reference": "Customer median transaction amount is 3667.96.",
+            "calculation_reference": "Formula amount / customer_median yielded a result of 29.71 against threshold 18339.8."
+          }
+        ],
+        "analyst_considerations": [
+          "Verify the legitimacy of the Employer payee and the monthly salary credit description for transaction TX000012.",
+          "Review related transactions TX000047, TX000049, and TX000050 to understand surrounding activity on 2026-03-01."
+        ],
+        "uncertainty": "The available evidence is insufficient to determine intent.",
+        "source_references": [
+          {
+            "source_type": "finding",
+            "source_id": "F0481",
+            "transaction_ids": [
+              "TX000012"
+            ],
+            "description": "Finding record for rule R01 assessing transaction TX000012."
+          },
+          {
+            "source_type": "transaction",
+            "source_id": "TX000012",
+            "transaction_ids": [
+              "TX000012"
+            ],
+            "description": "Primary transaction evaluated by rule R01."
+          }
+        ],
+        "model_metadata": {
+          "model": "gemini-3.5-flash-lite",
+          "context_hash": "d85de26354ca7379afe5384672d89ed64d1db23d4640ce9db093f9dc65a0acd0"
+        },
+        "cached": false
+      }
+    },
+    "INV-F0007": {
+      "generated_at": "2026-09-05T08:20:08.573256+00:00",
+      "model": "gemini-3.5-flash-lite",
+      "context_hash": "270a9fb7334e037d1a086120101bc2572c3e47d2e6a1825ce8271ed44ad3b55a",
+      "report": {
+        "investigation_id": "INV-F0007",
+        "customer_id": "C001",
+        "generated_at": "2026-09-05T08:20:08.573256+00:00",
+        "status": "complete",
+        "executive_summary": "Transaction TX001515 triggered rule R01 for being unusually large compared to customer C001's historical transaction size. The available evidence is insufficient to determine intent, and the transaction requires investigation. Rule triggered.",
+        "what_happened": "On 2026-04-01 at 10:17:00, customer C001 (Aarav Mehta) executed transaction TX001515 for an amount of 41379.53 via BANK_TRANSFER to payee Employer with the description 'Monthly salary credit'.",
+        "why_flagged": "Rule R01 ('Unusually Large Transaction') triggered because transaction TX001515 exceeded the established threshold. The supplied calculation used the formula 'amount / customer_median' with a multiplier of 5.0, resulting in a ratio of 12.53 against a threshold of 16509.65 based on a customer median of 3301.93.",
+        "behavioral_comparison": "Transaction TX001515 has an observed amount of 41379.53, which differs from the customer's established behavior where the median transaction amount is 3301.93 and the typical monthly amount is 38283.9. The activity differs from the customer's established behavior.",
+        "rule_explanations": [
+          {
+            "rule_id": "R01",
+            "rule_name": "Unusually Large Transaction",
+            "triggered": true,
+            "explanation": "Rule triggered as transaction TX001515 exceeded the threshold of 16509.65 with a ratio of 12.53.",
+            "transaction_ids": [
+              "TX001515"
+            ],
+            "evidence_references": [
+              "F0007"
+            ]
+          }
+        ],
+        "key_evidence": [
+          {
+            "title": "Unusually Large Transaction",
+            "observation": "Transaction TX001515 of amount 41379.53 to payee Employer via BANK_TRANSFER on 2026-04-01T10:17:00.",
+            "supporting_transaction_ids": [
+              "TX001515"
+            ],
+            "baseline_reference": "Customer median transaction amount is 3301.93.",
+            "calculation_reference": "Ratio: 12.53, Threshold: 16509.65, Formula: amount / customer_median with multiplier 5.0."
+          }
+        ],
+        "analyst_considerations": [
+          "Verify if the payee 'Employer' corresponds to the customer's known salary source.",
+          "Review related transactions surrounding 2026-04-01 for contextual pattern alignment."
+        ],
+        "uncertainty": "The available evidence is insufficient to determine intent.",
+        "source_references": [
+          {
+            "source_type": "transaction",
+            "source_id": "TX001515",
+            "transaction_ids": [
+              "TX001515"
+            ],
+            "description": "Primary transaction evaluated by rule R01."
+          },
+          {
+            "source_type": "finding",
+            "source_id": "F0007",
+            "transaction_ids": [
+              "TX001515"
+            ],
+            "description": "Finding for Unusually Large Transaction."
+          }
+        ],
+        "model_metadata": {
+          "model": "gemini-3.5-flash-lite",
+          "context_hash": "270a9fb7334e037d1a086120101bc2572c3e47d2e6a1825ce8271ed44ad3b55a"
+        },
+        "cached": false
+      }
+    },
+    "INV-F0674": {
+      "generated_at": "2026-09-05T08:23:58.125236+00:00",
+      "model": "gemini-3.5-flash-lite",
+      "context_hash": "c635c384918ab97503d4aba587861b875c3d9741db12aa46496cf45b178450d4",
+      "report": {
+        "investigation_id": "INV-F0674",
+        "customer_id": "C018",
+        "generated_at": "2026-09-05T08:23:58.125236+00:00",
+        "status": "complete",
+        "executive_summary": "Transaction TX008921 triggered Rule R01 for being an unusually large transaction compared with the customer's historical transaction size for customer C018 (Tanvi Bose). The transaction requires investigation as the activity differs from the customer's established behavior. Potentially unusual activity was detected via finding F0674, and the available evidence is insufficient to determine intent.",
+        "what_happened": "On 2026-08-31 at 08:31:00, customer C018 executed transaction TX008921 with an amount of 21863.04 through the CARD channel, categorized as a TRANSFER type with the payee Bank Transfer and description Fund transfer.",
+        "why_flagged": "Rule R01 (Unusually Large Transaction) triggered because transaction TX008921 exceeded the threshold. The supplied calculation used the formula amount / customer_median with a multiplier of 5.0, resulting in a ratio of 6.1, which is above the threshold of 17924.65 based on the customer median of 3584.93.",
+        "behavioral_comparison": "The observed transaction amount of 21863.04 compares to the customer's median transaction amount of 3584.93, yielding a ratio of 6.1 against a threshold of 17924.65. The transaction occurred at 08:31:00, falling within the 06:00-10:00 time distribution bucket which accounts for 12.2 percent of the customer's activity, whereas the customer's typical transaction hour is 10 and median transaction hour is 14.",
+        "rule_explanations": [
+          {
+            "rule_id": "R01",
+            "rule_name": "Unusually Large Transaction",
+            "triggered": true,
+            "explanation": "Rule triggered because transaction TX008921 had an amount of 21863.04, resulting in a ratio of 6.1 using the formula amount / customer_median with a threshold of 17924.65.",
+            "transaction_ids": [
+              "TX008921"
+            ],
+            "evidence_references": [
+              "F0674"
+            ]
+          }
+        ],
+        "key_evidence": [
+          {
+            "title": "Unusually Large Transaction Finding",
+            "observation": "Transaction TX008921 was logged with an amount of 21863.04 on 2026-08-31 at 08:31:00.",
+            "supporting_transaction_ids": [
+              "TX008921"
+            ],
+            "baseline_reference": "Customer median transaction amount is 3584.93.",
+            "calculation_reference": "Formula amount / customer_median resulted in a ratio of 6.1 with a threshold of 17924.65."
+          }
+        ],
+        "analyst_considerations": [
+          "Verify whether the customer authorized transaction TX008921.",
+          "Review related transactions TX008958, TX008942, TX008960, and TX008907 for context on customer activity around 2026-08-31.",
+          "Check if the payee Bank Transfer has an established history with customer C018."
+        ],
+        "uncertainty": "The available evidence is insufficient to determine intent.",
+        "source_references": [
+          {
+            "source_type": "transaction",
+            "source_id": "TX008921",
+            "transaction_ids": [
+              "TX008921"
+            ],
+            "description": "Primary transaction evaluated by rule R01."
+          },
+          {
+            "source_type": "finding",
+            "source_id": "F0674",
+            "transaction_ids": [
+              "TX008921"
+            ],
+            "description": "Finding generated for rule R01."
+          },
+          {
+            "source_type": "baseline",
+            "source_id": "CUSTOMER-C018",
+            "transaction_ids": [],
+            "description": "Customer profile and baseline median metrics for C018."
+          }
+        ],
+        "model_metadata": {
+          "model": "gemini-3.5-flash-lite",
+          "context_hash": "c635c384918ab97503d4aba587861b875c3d9741db12aa46496cf45b178450d4"
+        },
+        "cached": false
+      }
+    },
+    "INV-F0675": {
+      "generated_at": "2026-09-05T10:05:51.904927+00:00",
+      "model": "gemini-3.5-flash-lite",
+      "context_hash": "d00fa2f5aaaa7b6fe9098e4fc682b246af8715861243a2199ba0a91f90991b97",
+      "report": {
+        "investigation_id": "INV-F0675",
+        "customer_id": "C018",
+        "generated_at": "2026-09-05T10:05:51.904927+00:00",
+        "status": "complete",
+        "executive_summary": "Investigation INV-F0675 was initiated for customer C018 (Tanvi Bose) following a rule trigger on transaction TX008958. Rule R01 triggered because the transaction amount exceeded the customer's median transaction baseline by a significant ratio. The available evidence indicates activity that differs from the customer's established behavior.",
+        "what_happened": "On 2026-08-31 at 21:05:00, primary transaction TX008958 occurred via BANK_TRANSFER with an amount of 21968.1 to payee Bank Transfer. Additionally, related transactions TX008921 (CARD, amount 21863.04), TX008942 (UPI, amount 10112.55), and TX008960 (CARD, amount 6704.62) were recorded on the same date.",
+        "why_flagged": "Rule R01 ('Unusually Large Transaction') triggered for transaction TX008958. Based on the calculation formula 'amount / customer_median' with a multiplier of 5.0, the resulting ratio was 6.13 against a threshold of 17924.65, where the observed amount was 21968.1 and the customer median was 3584.93.",
+        "behavioral_comparison": "The observed transaction amount of 21968.1 for TX008958 differs from the customer's baseline median transaction amount of 3584.93, producing a ratio of 6.13. The customer's typical monthly amount is 16982.31 across approximately 69 transactions, while the transaction timestamp fell within the 18:00-22:00 time distribution bucket.",
+        "rule_explanations": [
+          {
+            "rule_id": "R01",
+            "rule_name": "Unusually Large Transaction",
+            "triggered": true,
+            "explanation": "Triggered because transaction TX008958 amount 21968.1 exceeded the threshold 17924.65 derived from the customer median 3584.93 multiplied by 5.0, resulting in a ratio of 6.13.",
+            "transaction_ids": [
+              "TX008958"
+            ],
+            "evidence_references": [
+              "F0675"
+            ]
+          }
+        ],
+        "key_evidence": [
+          {
+            "title": "Primary Transaction Deviation",
+            "observation": "Transaction TX008958 of amount 21968.1 via BANK_TRANSFER to Bank Transfer.",
+            "supporting_transaction_ids": [
+              "TX008958"
+            ],
+            "baseline_reference": "Customer median amount: 3584.93",
+            "calculation_reference": "Ratio: 6.13, Threshold: 17924.65"
+          }
+        ],
+        "analyst_considerations": [
+          "Verify whether the customer authorized transaction TX008958.",
+          "Review related transactions TX008921, TX008942, and TX008960 to check overall daily activity patterns."
+        ],
+        "uncertainty": "The available evidence is insufficient to determine intent.",
+        "source_references": [
+          {
+            "source_type": "transaction",
+            "source_id": "TX008958",
+            "transaction_ids": [
+              "TX008958"
+            ],
+            "description": "Primary transaction evaluated by rule R01."
+          },
+          {
+            "source_type": "finding",
+            "source_id": "F0675",
+            "transaction_ids": [
+              "TX008958"
+            ],
+            "description": "Finding record for rule R01."
+          },
+          {
+            "source_type": "baseline",
+            "source_id": "CUSTOMER-C018",
+            "transaction_ids": [],
+            "description": "Customer baseline profile for C018."
+          }
+        ],
+        "model_metadata": {
+          "model": "gemini-3.5-flash-lite",
+          "context_hash": "d00fa2f5aaaa7b6fe9098e4fc682b246af8715861243a2199ba0a91f90991b97"
+        },
+        "cached": false
+      }
+    },
+    "INV-F0062": {
+      "generated_at": "2026-09-05T10:24:28.601371+00:00",
+      "model": "gemini-3.5-flash-lite",
+      "context_hash": "25e2f2e01ae9d34d4931ec772fa6a49e821fff2a6acd9737c3ebdfad29291c1e",
+      "report": {
+        "investigation_id": "INV-F0062",
+        "customer_id": "C002",
+        "generated_at": "2026-09-05T10:24:28.601371+00:00",
+        "status": "complete",
+        "executive_summary": "Investigation INV-F0062 evaluated transaction TX004241 for customer Diya Sharma (C002) following a rule engine evaluation. Rule R01 triggered because the transaction amount exceeded the established baseline threshold. The available evidence indicates potentionally unusual activity that differs from the customer's established behavior.",
+        "what_happened": "On 2026-05-26 at 20:04:00, customer Diya Sharma (C002) executed transaction TX004241 for the amount of 22294.71 via NET_BANKING with the payee 'Bank Transfer' and description 'Bank transfer'. Related transactions include TX004221 (3960.68 via UPI to Grocery Store on 2026-05-26) and TX004198 (697.75 via UPI to Zomato on 2026-05-25).",
+        "why_flagged": "Rule R01 ('Unusually Large Transaction') triggered for finding F0062. The calculation formula used was 'amount / customer_median' with a multiplier of 5.0. The observed amount was 22294.71 against a customer median baseline of 3433.81, yielding a result ratio of 6.49 against a threshold of 17169.05.",
+        "behavioral_comparison": "The customer's typical monthly amount is 76542.34 across a typical monthly transaction count of 71. The customer's overall median transaction amount is 3433.81 with an average amount of 6905.09 and standard deviation of 11423.25. The primary channel for transaction TX004241 was NET_BANKING, whereas the customer's primary profile channel is UPI and normal channels include UPI, BANK_TRANSFER, CARD, NET_BANKING, and ATM.",
+        "rule_explanations": [
+          {
+            "rule_id": "R01",
+            "rule_name": "Unusually Large Transaction",
+            "triggered": true,
+            "explanation": "Rule triggered because the transaction amount of 22294.71 for transaction TX004241 exceeded the established threshold of 17169.05, resulting in a ratio of 6.49 against the customer median baseline of 3433.81.",
+            "transaction_ids": [
+              "TX004241"
+            ],
+            "evidence_references": [
+              "F0062"
+            ]
+          }
+        ],
+        "key_evidence": [
+          {
+            "title": "Large Transaction Deviation",
+            "observation": "Transaction TX004241 had an observed amount of 22294.71, which differs significantly from the customer's median transaction amount.",
+            "supporting_transaction_ids": [
+              "TX004241"
+            ],
+            "baseline_reference": "Customer median amount: 3433.81",
+            "calculation_reference": "Result ratio: 6.49, Threshold: 17169.05, Formula: amount / customer_median"
+          }
+        ],
+        "analyst_considerations": [
+          "Verify whether the customer authorized transaction TX004241 via NET_BANKING.",
+          "Review historical interactions with the payee 'Bank Transfer' to see if amounts of this scale have occurred previously outside the median.",
+          "Examine nearby transactions TX004221 and TX004198 to establish overall account activity context on 2026-05-25 and 2026-05-26."
+        ],
+        "uncertainty": "The available evidence is insufficient to determine intent.",
+        "source_references": [
+          {
+            "source_type": "transaction",
+            "source_id": "TX004241",
+            "transaction_ids": [
+              "TX004241"
+            ],
+            "description": "Primary investigated transaction for 22294.71 via NET_BANKING."
+          },
+          {
+            "source_type": "finding",
+            "source_id": "F0062",
+            "transaction_ids": [
+              "TX004241"
+            ],
+            "description": "Finding generated under rule R01 for unusually large transaction."
+          },
+          {
+            "source_type": "baseline",
+            "source_id": "CUSTOMER-C002",
+            "transaction_ids": [
+              "TX004241"
+            ],
+            "description": "Customer baseline profile containing historical median amount of 3433.81."
+          }
+        ],
+        "model_metadata": {
+          "model": "gemini-3.5-flash-lite",
+          "context_hash": "25e2f2e01ae9d34d4931ec772fa6a49e821fff2a6acd9737c3ebdfad29291c1e"
+        },
+        "cached": false
+      }
+    },
+    "INV-F0001": {
+      "generated_at": "2026-09-05T10:24:43.168381+00:00",
+      "model": "gemini-3.5-flash-lite",
+      "context_hash": "1b65a7f32fbfe55ead6d43e16b4ae9d6dd662f9124133b35fb3b00cdb73a3b0d",
+      "report": {
+        "investigation_id": "INV-F0001",
+        "customer_id": "C001",
+        "generated_at": "2026-09-05T10:24:43.168381+00:00",
+        "status": "complete",
+        "executive_summary": "Investigation INV-F0001 reviews transaction TX000006 for customer Aarav Mehta (C001), which triggered rule R01 for an unusually large transaction amount. The available evidence is insufficient to determine intent, and the activity differs from the customer's established behavior. Transaction requires investigation.",
+        "what_happened": "On 2026-03-01 at 09:16:00, customer Aarav Mehta (C001) executed transaction TX000006 through the BANK_TRANSFER channel for an amount of 42108.6 with the payee Employer and description Monthly salary credit. A related transaction TX000005 occurred on 2026-03-01 at 09:13:00 via UPI for an amount of 3893.78 with payee Uber.",
+        "why_flagged": "Rule R01 ('Unusually Large Transaction') triggered because transaction TX000006 exceeded the threshold. The supplied calculation used the formula amount / customer_median with a multiplier of 5.0, resulting in a ratio of 12.75 against the threshold of 16509.65.",
+        "behavioral_comparison": "The observed transaction amount of 42108.6 for TX000006 compares against the customer's median transaction amount baseline of 3301.93. The resulting ratio is 12.75, which exceeds the threshold of 16509.65. The transaction occurred on a Sunday at 09:16:00 in the 06:00-10:00 time bucket, while the customer's typical transaction hour is 11.",
+        "rule_explanations": [
+          {
+            "rule_id": "R01",
+            "rule_name": "Unusually Large Transaction",
+            "triggered": true,
+            "explanation": "Rule triggered due to an unusually large transaction compared with the customer's historical transaction size. The observed amount was 42108.6 against a customer median of 3301.93, yielding a ratio of 12.75 which exceeded the threshold of 16509.65.",
+            "transaction_ids": [
+              "TX000006"
+            ],
+            "evidence_references": [
+              "F0001"
+            ]
+          }
+        ],
+        "key_evidence": [
+          {
+            "title": "Unusually Large Transaction Amount",
+            "observation": "Transaction TX000006 had an amount of 42108.6.",
+            "supporting_transaction_ids": [
+              "TX000006"
+            ],
+            "baseline_reference": "Customer median transaction amount baseline is 3301.93.",
+            "calculation_reference": "Formula amount / customer_median with multiplier 5.0 yielded result 12.75 against threshold 16509.65."
+          }
+        ],
+        "analyst_considerations": [
+          "Verify the authenticity of the salary credit from Employer for transaction TX000006.",
+          "Review historical Employer transactions and payee context to confirm expected timing and amounts.",
+          "Check related transactions such as TX000005 to establish customer presence and intent."
+        ],
+        "uncertainty": "The available evidence is insufficient to determine intent.",
+        "source_references": [
+          {
+            "source_type": "transaction",
+            "source_id": "TX000006",
+            "transaction_ids": [
+              "TX000006"
+            ],
+            "description": "Primary salary transfer transaction of 42108.6"
+          },
+          {
+            "source_type": "finding",
+            "source_id": "F0001",
+            "transaction_ids": [
+              "TX000006"
+            ],
+            "description": "Finding for rule R01 Unusually Large Transaction"
+          },
+          {
+            "source_type": "baseline",
+            "source_id": "CUSTOMER-C001",
+            "transaction_ids": [],
+            "description": "Customer median baseline amount of 3301.93"
+          },
+          {
+            "source_type": "evidence",
+            "source_id": "F0001",
+            "transaction_ids": [
+              "TX000006"
+            ],
+            "description": "Calculation evidence package for rule R01"
+          }
+        ],
+        "model_metadata": {
+          "model": "gemini-3.5-flash-lite",
+          "context_hash": "1b65a7f32fbfe55ead6d43e16b4ae9d6dd662f9124133b35fb3b00cdb73a3b0d"
+        },
+        "cached": false
+      }
+    },
+    "INV-F0708": {
+      "generated_at": "2026-09-05T10:32:35.832998+00:00",
+      "model": "gemini-3.5-flash-lite",
+      "context_hash": "894e4fdfb6983cae7bc5984933628fa080dea9a4f02ecbbfe3113ff5cbe9a262",
+      "report": {
+        "investigation_id": "INV-F0708",
+        "customer_id": "C019",
+        "generated_at": "2026-09-05T10:32:35.832998+00:00",
+        "status": "complete",
+        "executive_summary": "Transaction TX007632 for customer Karan Malhotra (C019) triggered finding F0708 under rule R01 for an unusually large transaction. The transaction amount of 34095.0 exceeded the established threshold of 16884.7. The available evidence is insufficient to determine intent.",
+        "what_happened": "On 2026-08-04 at 13:27:00, customer C019 executed transaction TX007632 via BANK_TRANSFER for an amount of 34095.0 to payee Rent with the description Monthly apartment rent and transaction type RENT.",
+        "why_flagged": "Rule R01 (Unusually Large Transaction) triggered via finding F0708 because the transaction amount of 34095.0 compared to the customer median of 3376.94 resulted in a ratio of 10.1, exceeding the threshold of 16884.7 calculated using the formula amount / customer_median with a multiplier of 5.0.",
+        "behavioral_comparison": "The observed transaction amount of 34095.0 is 10.1 times the customer's median amount of 3376.94, which exceeds the threshold of 16884.7. The transaction occurred at 13:27:00 on a Tuesday, which falls within the customer's typical transaction hour of 11 and the anchor time distribution bucket of 10:00-14:00 (31.25 percent).",
+        "rule_explanations": [
+          {
+            "rule_id": "R01",
+            "rule_name": "Unusually Large Transaction",
+            "triggered": true,
+            "explanation": "Rule triggered because transaction TX007632 had an amount of 34095.0, resulting in a ratio of 10.1 against the customer median of 3376.94, exceeding the threshold of 16884.7.",
+            "transaction_ids": [
+              "TX007632"
+            ],
+            "evidence_references": [
+              "F0708"
+            ]
+          }
+        ],
+        "key_evidence": [
+          {
+            "title": "Unusually Large Transaction",
+            "observation": "Transaction TX007632 was recorded with an amount of 34095.0 via BANK_TRANSFER to payee Rent.",
+            "supporting_transaction_ids": [
+              "TX007632"
+            ],
+            "baseline_reference": "Customer median transaction amount is 3376.94.",
+            "calculation_reference": "Formula amount / customer_median yielded a ratio of 10.1 against threshold 16884.7."
+          }
+        ],
+        "analyst_considerations": [
+          "Verify whether recurring rent payments of this magnitude align with the customer's business owner profile and lease agreements.",
+          "Review related transactions within the 24-hour window (TX007612, TX007651, TX007661, TX007684) to assess overall account activity."
+        ],
+        "uncertainty": "The available evidence is insufficient to determine intent.",
+        "source_references": [
+          {
+            "source_type": "transaction",
+            "source_id": "TX007632",
+            "transaction_ids": [
+              "TX007632"
+            ],
+            "description": "Primary transaction flagged by rule R01."
+          },
+          {
+            "source_type": "finding",
+            "source_id": "F0708",
+            "transaction_ids": [
+              "TX007632"
+            ],
+            "description": "Finding record for Unusually Large Transaction."
+          }
+        ],
+        "model_metadata": {
+          "model": "gemini-3.5-flash-lite",
+          "context_hash": "894e4fdfb6983cae7bc5984933628fa080dea9a4f02ecbbfe3113ff5cbe9a262"
+        },
+        "cached": false
+      }
+    }
+  }
+}
