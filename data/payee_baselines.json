@@ -1,0 +1,2982 @@
+{
+  "C001": {
+    "ATM": {
+      "transactions": 36,
+      "total_amount": 443659.43,
+      "average_amount": 12323.87,
+      "first_seen": "2026-03-08T11:29:00",
+      "last_seen": "2026-08-23T15:19:00"
+    },
+    "Amazon": {
+      "transactions": 40,
+      "total_amount": 242688.91,
+      "average_amount": 6067.22,
+      "first_seen": "2026-03-06T08:55:00",
+      "last_seen": "2026-08-23T19:31:00"
+    },
+    "Bank Transfer": {
+      "transactions": 38,
+      "total_amount": 589234.97,
+      "average_amount": 15506.18,
+      "first_seen": "2026-03-04T13:29:00",
+      "last_seen": "2026-08-29T14:22:00"
+    },
+    "Education": {
+      "transactions": 7,
+      "total_amount": 50564.25,
+      "average_amount": 7223.46,
+      "first_seen": "2026-03-30T19:12:00",
+      "last_seen": "2026-08-31T18:08:00"
+    },
+    "Electricity Board": {
+      "transactions": 28,
+      "total_amount": 146712.88,
+      "average_amount": 5239.75,
+      "first_seen": "2026-03-02T14:34:00",
+      "last_seen": "2026-08-31T19:55:00"
+    },
+    "Employer": {
+      "transactions": 6,
+      "total_amount": 248260.65,
+      "average_amount": 41376.78,
+      "first_seen": "2026-03-01T09:16:00",
+      "last_seen": "2026-08-01T10:07:00"
+    },
+    "Flipkart": {
+      "transactions": 55,
+      "total_amount": 363916.97,
+      "average_amount": 6616.67,
+      "first_seen": "2026-03-11T22:40:00",
+      "last_seen": "2026-08-31T01:46:00"
+    },
+    "FreshMart": {
+      "transactions": 43,
+      "total_amount": 105528.67,
+      "average_amount": 2454.16,
+      "first_seen": "2026-03-07T19:43:00",
+      "last_seen": "2026-08-31T23:11:00"
+    },
+    "Fuel Station": {
+      "transactions": 42,
+      "total_amount": 114876.1,
+      "average_amount": 2735.15,
+      "first_seen": "2026-03-04T18:04:00",
+      "last_seen": "2026-08-28T19:02:00"
+    },
+    "Grocery Store": {
+      "transactions": 36,
+      "total_amount": 81002.02,
+      "average_amount": 2250.06,
+      "first_seen": "2026-03-02T19:29:00",
+      "last_seen": "2026-08-26T18:12:00"
+    },
+    "Insurance": {
+      "transactions": 3,
+      "total_amount": 19700.12,
+      "average_amount": 6566.71,
+      "first_seen": "2026-03-03T14:55:00",
+      "last_seen": "2026-06-04T15:52:00"
+    },
+    "Internet Provider": {
+      "transactions": 8,
+      "total_amount": 35970.44,
+      "average_amount": 4496.31,
+      "first_seen": "2026-03-31T19:03:00",
+      "last_seen": "2026-08-16T20:56:00"
+    },
+    "Mobile Provider": {
+      "transactions": 14,
+      "total_amount": 46020.23,
+      "average_amount": 3287.16,
+      "first_seen": "2026-03-09T11:40:00",
+      "last_seen": "2026-08-17T12:41:00"
+    },
+    "Netflix": {
+      "transactions": 14,
+      "total_amount": 7763.36,
+      "average_amount": 554.53,
+      "first_seen": "2026-03-11T19:25:00",
+      "last_seen": "2026-08-25T21:39:00"
+    },
+    "Ola": {
+      "transactions": 19,
+      "total_amount": 74189.66,
+      "average_amount": 3904.72,
+      "first_seen": "2026-03-19T12:16:00",
+      "last_seen": "2026-08-16T21:47:00"
+    },
+    "Rent": {
+      "transactions": 6,
+      "total_amount": 84744.54,
+      "average_amount": 14124.09,
+      "first_seen": "2026-03-02T11:47:00",
+      "last_seen": "2026-08-02T13:03:00"
+    },
+    "Spotify": {
+      "transactions": 10,
+      "total_amount": 4844.92,
+      "average_amount": 484.49,
+      "first_seen": "2026-03-23T10:03:00",
+      "last_seen": "2026-08-26T20:29:00"
+    },
+    "Swiggy": {
+      "transactions": 25,
+      "total_amount": 45790.13,
+      "average_amount": 1831.61,
+      "first_seen": "2026-03-09T13:09:00",
+      "last_seen": "2026-08-11T14:48:00"
+    },
+    "Uber": {
+      "transactions": 29,
+      "total_amount": 122761.49,
+      "average_amount": 4233.15,
+      "first_seen": "2026-03-01T09:13:00",
+      "last_seen": "2026-08-27T22:28:00"
+    },
+    "Utility Payment": {
+      "transactions": 5,
+      "total_amount": 10318.49,
+      "average_amount": 2063.7,
+      "first_seen": "2026-04-08T13:16:00",
+      "last_seen": "2026-08-29T18:49:00"
+    },
+    "Zomato": {
+      "transactions": 37,
+      "total_amount": 56881.12,
+      "average_amount": 1537.33,
+      "first_seen": "2026-03-03T08:53:00",
+      "last_seen": "2026-08-27T14:21:00"
+    }
+  },
+  "C002": {
+    "ATM": {
+      "transactions": 18,
+      "total_amount": 214937.31,
+      "average_amount": 11940.96,
+      "first_seen": "2026-03-04T14:42:00",
+      "last_seen": "2026-08-17T06:52:00"
+    },
+    "Amazon": {
+      "transactions": 47,
+      "total_amount": 372888.27,
+      "average_amount": 7933.79,
+      "first_seen": "2026-03-02T12:43:00",
+      "last_seen": "2026-08-31T15:01:00"
+    },
+    "Bank Transfer": {
+      "transactions": 42,
+      "total_amount": 568981.21,
+      "average_amount": 13547.17,
+      "first_seen": "2026-03-06T08:42:00",
+      "last_seen": "2026-08-28T22:11:00"
+    },
+    "Education": {
+      "transactions": 6,
+      "total_amount": 64831.59,
+      "average_amount": 10805.27,
+      "first_seen": "2026-03-20T21:48:00",
+      "last_seen": "2026-07-22T18:42:00"
+    },
+    "Electricity Board": {
+      "transactions": 15,
+      "total_amount": 66557.41,
+      "average_amount": 4437.16,
+      "first_seen": "2026-03-03T19:13:00",
+      "last_seen": "2026-08-26T08:52:00"
+    },
+    "Employer": {
+      "transactions": 6,
+      "total_amount": 527108.39,
+      "average_amount": 87851.4,
+      "first_seen": "2026-03-01T09:44:00",
+      "last_seen": "2026-08-01T10:03:00"
+    },
+    "Flipkart": {
+      "transactions": 34,
+      "total_amount": 290478.05,
+      "average_amount": 8543.47,
+      "first_seen": "2026-03-02T19:55:00",
+      "last_seen": "2026-08-30T21:09:00"
+    },
+    "FreshMart": {
+      "transactions": 36,
+      "total_amount": 109726.1,
+      "average_amount": 3047.95,
+      "first_seen": "2026-03-03T18:49:00",
+      "last_seen": "2026-08-25T18:19:00"
+    },
+    "Fuel Station": {
+      "transactions": 32,
+      "total_amount": 84126.73,
+      "average_amount": 2628.96,
+      "first_seen": "2026-03-06T18:09:00",
+      "last_seen": "2026-08-30T11:04:00"
+    },
+    "Grocery Store": {
+      "transactions": 30,
+      "total_amount": 77572.68,
+      "average_amount": 2585.76,
+      "first_seen": "2026-03-04T17:49:00",
+      "last_seen": "2026-08-14T22:07:00"
+    },
+    "Insurance": {
+      "transactions": 7,
+      "total_amount": 77242.81,
+      "average_amount": 11034.69,
+      "first_seen": "2026-04-22T11:15:00",
+      "last_seen": "2026-08-10T12:24:00"
+    },
+    "Internet Provider": {
+      "transactions": 4,
+      "total_amount": 13386.76,
+      "average_amount": 3346.69,
+      "first_seen": "2026-03-08T22:18:00",
+      "last_seen": "2026-08-27T14:01:00"
+    },
+    "Mobile Provider": {
+      "transactions": 11,
+      "total_amount": 30939.72,
+      "average_amount": 2812.7,
+      "first_seen": "2026-03-14T17:16:00",
+      "last_seen": "2026-08-20T10:12:00"
+    },
+    "Netflix": {
+      "transactions": 14,
+      "total_amount": 8972.63,
+      "average_amount": 640.9,
+      "first_seen": "2026-03-06T19:42:00",
+      "last_seen": "2026-08-12T18:43:00"
+    },
+    "Ola": {
+      "transactions": 20,
+      "total_amount": 82251.14,
+      "average_amount": 4112.56,
+      "first_seen": "2026-03-24T16:13:00",
+      "last_seen": "2026-08-31T17:50:00"
+    },
+    "Rent": {
+      "transactions": 6,
+      "total_amount": 155232.55,
+      "average_amount": 25872.09,
+      "first_seen": "2026-03-03T12:15:00",
+      "last_seen": "2026-08-02T12:22:00"
+    },
+    "Spotify": {
+      "transactions": 9,
+      "total_amount": 4626.76,
+      "average_amount": 514.08,
+      "first_seen": "2026-03-13T09:38:00",
+      "last_seen": "2026-07-18T07:50:00"
+    },
+    "Swiggy": {
+      "transactions": 37,
+      "total_amount": 60434.16,
+      "average_amount": 1633.36,
+      "first_seen": "2026-03-04T20:50:00",
+      "last_seen": "2026-08-29T14:55:00"
+    },
+    "Uber": {
+      "transactions": 12,
+      "total_amount": 45047.35,
+      "average_amount": 3753.95,
+      "first_seen": "2026-04-01T15:44:00",
+      "last_seen": "2026-08-12T07:20:00"
+    },
+    "Utility Payment": {
+      "transactions": 2,
+      "total_amount": 2629.31,
+      "average_amount": 1314.65,
+      "first_seen": "2026-03-14T13:22:00",
+      "last_seen": "2026-08-11T10:42:00"
+    },
+    "Zomato": {
+      "transactions": 32,
+      "total_amount": 42168.97,
+      "average_amount": 1317.78,
+      "first_seen": "2026-03-04T20:23:00",
+      "last_seen": "2026-08-29T19:57:00"
+    }
+  },
+  "C003": {
+    "ATM": {
+      "transactions": 23,
+      "total_amount": 236641.65,
+      "average_amount": 10288.77,
+      "first_seen": "2026-03-03T06:25:00",
+      "last_seen": "2026-08-24T19:42:00"
+    },
+    "Amazon": {
+      "transactions": 44,
+      "total_amount": 292992.0,
+      "average_amount": 6658.91,
+      "first_seen": "2026-03-03T05:12:00",
+      "last_seen": "2026-08-29T23:30:00"
+    },
+    "Bank Transfer": {
+      "transactions": 58,
+      "total_amount": 882147.91,
+      "average_amount": 15209.45,
+      "first_seen": "2026-03-02T10:49:00",
+      "last_seen": "2026-08-31T19:52:00"
+    },
+    "Education": {
+      "transactions": 8,
+      "total_amount": 50990.18,
+      "average_amount": 6373.77,
+      "first_seen": "2026-03-11T08:49:00",
+      "last_seen": "2026-08-27T21:26:00"
+    },
+    "Electricity Board": {
+      "transactions": 20,
+      "total_amount": 100962.24,
+      "average_amount": 5048.11,
+      "first_seen": "2026-03-06T18:20:00",
+      "last_seen": "2026-08-11T13:00:00"
+    },
+    "Employer": {
+      "transactions": 6,
+      "total_amount": 492994.64,
+      "average_amount": 82165.77,
+      "first_seen": "2026-03-01T10:07:00",
+      "last_seen": "2026-08-01T09:48:00"
+    },
+    "Flipkart": {
+      "transactions": 49,
+      "total_amount": 312550.58,
+      "average_amount": 6378.58,
+      "first_seen": "2026-03-02T21:18:00",
+      "last_seen": "2026-08-28T19:12:00"
+    },
+    "FreshMart": {
+      "transactions": 34,
+      "total_amount": 88983.57,
+      "average_amount": 2617.16,
+      "first_seen": "2026-03-02T19:17:00",
+      "last_seen": "2026-08-28T09:23:00"
+    },
+    "Fuel Station": {
+      "transactions": 28,
+      "total_amount": 81338.46,
+      "average_amount": 2904.95,
+      "first_seen": "2026-03-06T07:57:00",
+      "last_seen": "2026-08-31T05:06:00"
+    },
+    "Grocery Store": {
+      "transactions": 30,
+      "total_amount": 78027.44,
+      "average_amount": 2600.91,
+      "first_seen": "2026-03-18T20:36:00",
+      "last_seen": "2026-08-13T16:45:00"
+    },
+    "Insurance": {
+      "transactions": 1,
+      "total_amount": 10476.72,
+      "average_amount": 10476.72,
+      "first_seen": "2026-03-14T20:01:00",
+      "last_seen": "2026-03-14T20:01:00"
+    },
+    "Internet Provider": {
+      "transactions": 3,
+      "total_amount": 12928.51,
+      "average_amount": 4309.5,
+      "first_seen": "2026-03-17T12:27:00",
+      "last_seen": "2026-08-01T13:57:00"
+    },
+    "Mobile Provider": {
+      "transactions": 20,
+      "total_amount": 67506.68,
+      "average_amount": 3375.33,
+      "first_seen": "2026-03-09T11:15:00",
+      "last_seen": "2026-08-27T14:09:00"
+    },
+    "Netflix": {
+      "transactions": 15,
+      "total_amount": 10208.27,
+      "average_amount": 680.55,
+      "first_seen": "2026-03-11T19:18:00",
+      "last_seen": "2026-08-28T12:59:00"
+    },
+    "Ola": {
+      "transactions": 24,
+      "total_amount": 84368.06,
+      "average_amount": 3515.34,
+      "first_seen": "2026-03-10T12:43:00",
+      "last_seen": "2026-08-31T19:27:00"
+    },
+    "Rent": {
+      "transactions": 6,
+      "total_amount": 116464.49,
+      "average_amount": 19410.75,
+      "first_seen": "2026-03-03T11:01:00",
+      "last_seen": "2026-08-03T11:35:00"
+    },
+    "Spotify": {
+      "transactions": 15,
+      "total_amount": 7189.8,
+      "average_amount": 479.32,
+      "first_seen": "2026-03-11T14:01:00",
+      "last_seen": "2026-08-20T15:16:00"
+    },
+    "Swiggy": {
+      "transactions": 29,
+      "total_amount": 38558.15,
+      "average_amount": 1329.59,
+      "first_seen": "2026-03-07T20:54:00",
+      "last_seen": "2026-08-22T10:43:00"
+    },
+    "Uber": {
+      "transactions": 26,
+      "total_amount": 103418.53,
+      "average_amount": 3977.64,
+      "first_seen": "2026-03-14T10:36:00",
+      "last_seen": "2026-08-20T21:12:00"
+    },
+    "Utility Payment": {
+      "transactions": 2,
+      "total_amount": 4529.52,
+      "average_amount": 2264.76,
+      "first_seen": "2026-03-08T20:03:00",
+      "last_seen": "2026-08-02T17:04:00"
+    },
+    "Zomato": {
+      "transactions": 42,
+      "total_amount": 68408.94,
+      "average_amount": 1628.78,
+      "first_seen": "2026-03-09T15:44:00",
+      "last_seen": "2026-08-26T08:09:00"
+    }
+  },
+  "C004": {
+    "ATM": {
+      "transactions": 24,
+      "total_amount": 271950.34,
+      "average_amount": 11331.26,
+      "first_seen": "2026-03-06T11:00:00",
+      "last_seen": "2026-08-30T12:56:00"
+    },
+    "Amazon": {
+      "transactions": 35,
+      "total_amount": 284065.81,
+      "average_amount": 8116.17,
+      "first_seen": "2026-03-04T21:11:00",
+      "last_seen": "2026-08-28T12:20:00"
+    },
+    "Bank Transfer": {
+      "transactions": 23,
+      "total_amount": 340968.24,
+      "average_amount": 14824.71,
+      "first_seen": "2026-03-16T21:05:00",
+      "last_seen": "2026-08-16T17:23:00"
+    },
+    "Education": {
+      "transactions": 4,
+      "total_amount": 8850.82,
+      "average_amount": 2212.7,
+      "first_seen": "2026-04-12T18:24:00",
+      "last_seen": "2026-08-24T10:11:00"
+    },
+    "Electricity Board": {
+      "transactions": 11,
+      "total_amount": 46682.76,
+      "average_amount": 4243.89,
+      "first_seen": "2026-03-11T14:35:00",
+      "last_seen": "2026-08-14T13:55:00"
+    },
+    "Employer": {
+      "transactions": 6,
+      "total_amount": 250015.64,
+      "average_amount": 41669.27,
+      "first_seen": "2026-03-01T11:33:00",
+      "last_seen": "2026-08-01T11:12:00"
+    },
+    "Flipkart": {
+      "transactions": 30,
+      "total_amount": 177985.58,
+      "average_amount": 5932.85,
+      "first_seen": "2026-03-14T13:37:00",
+      "last_seen": "2026-08-29T16:59:00"
+    },
+    "FreshMart": {
+      "transactions": 35,
+      "total_amount": 90320.65,
+      "average_amount": 2580.59,
+      "first_seen": "2026-03-04T12:34:00",
+      "last_seen": "2026-08-30T08:49:00"
+    },
+    "Fuel Station": {
+      "transactions": 27,
+      "total_amount": 70459.03,
+      "average_amount": 2609.59,
+      "first_seen": "2026-03-13T16:44:00",
+      "last_seen": "2026-08-24T21:31:00"
+    },
+    "Grocery Store": {
+      "transactions": 26,
+      "total_amount": 70937.69,
+      "average_amount": 2728.37,
+      "first_seen": "2026-03-04T15:25:00",
+      "last_seen": "2026-08-31T15:31:00"
+    },
+    "Insurance": {
+      "transactions": 4,
+      "total_amount": 32195.11,
+      "average_amount": 8048.78,
+      "first_seen": "2026-03-12T09:46:00",
+      "last_seen": "2026-07-30T08:47:00"
+    },
+    "Internet Provider": {
+      "transactions": 1,
+      "total_amount": 5413.29,
+      "average_amount": 5413.29,
+      "first_seen": "2026-06-04T18:21:00",
+      "last_seen": "2026-06-04T18:21:00"
+    },
+    "Mobile Provider": {
+      "transactions": 15,
+      "total_amount": 42180.87,
+      "average_amount": 2812.06,
+      "first_seen": "2026-03-02T08:14:00",
+      "last_seen": "2026-08-24T14:12:00"
+    },
+    "Netflix": {
+      "transactions": 11,
+      "total_amount": 7482.55,
+      "average_amount": 680.23,
+      "first_seen": "2026-03-10T17:14:00",
+      "last_seen": "2026-08-12T17:14:00"
+    },
+    "Ola": {
+      "transactions": 15,
+      "total_amount": 71783.8,
+      "average_amount": 4785.59,
+      "first_seen": "2026-03-20T17:07:00",
+      "last_seen": "2026-08-19T11:01:00"
+    },
+    "Rent": {
+      "transactions": 6,
+      "total_amount": 76744.18,
+      "average_amount": 12790.7,
+      "first_seen": "2026-03-02T14:30:00",
+      "last_seen": "2026-08-04T14:48:00"
+    },
+    "Spotify": {
+      "transactions": 11,
+      "total_amount": 5482.37,
+      "average_amount": 498.4,
+      "first_seen": "2026-04-11T19:16:00",
+      "last_seen": "2026-08-11T11:59:00"
+    },
+    "Swiggy": {
+      "transactions": 26,
+      "total_amount": 41264.73,
+      "average_amount": 1587.11,
+      "first_seen": "2026-03-05T17:42:00",
+      "last_seen": "2026-08-31T13:54:00"
+    },
+    "Uber": {
+      "transactions": 21,
+      "total_amount": 74935.57,
+      "average_amount": 3568.36,
+      "first_seen": "2026-03-02T20:03:00",
+      "last_seen": "2026-08-26T23:23:00"
+    },
+    "Utility Payment": {
+      "transactions": 3,
+      "total_amount": 18504.66,
+      "average_amount": 6168.22,
+      "first_seen": "2026-06-01T10:35:00",
+      "last_seen": "2026-08-26T12:33:00"
+    },
+    "Zomato": {
+      "transactions": 28,
+      "total_amount": 35501.86,
+      "average_amount": 1267.92,
+      "first_seen": "2026-03-05T14:23:00",
+      "last_seen": "2026-08-17T10:46:00"
+    }
+  },
+  "C005": {
+    "ATM": {
+      "transactions": 26,
+      "total_amount": 304654.78,
+      "average_amount": 11717.49,
+      "first_seen": "2026-03-04T16:31:00",
+      "last_seen": "2026-08-21T10:25:00"
+    },
+    "Amazon": {
+      "transactions": 61,
+      "total_amount": 384521.47,
+      "average_amount": 6303.63,
+      "first_seen": "2026-03-05T09:26:00",
+      "last_seen": "2026-08-28T07:21:00"
+    },
+    "Bank Transfer": {
+      "transactions": 35,
+      "total_amount": 568934.3,
+      "average_amount": 16255.27,
+      "first_seen": "2026-03-04T17:48:00",
+      "last_seen": "2026-08-29T11:59:00"
+    },
+    "Education": {
+      "transactions": 5,
+      "total_amount": 42285.87,
+      "average_amount": 8457.17,
+      "first_seen": "2026-04-29T07:15:00",
+      "last_seen": "2026-07-17T22:20:00"
+    },
+    "Electricity Board": {
+      "transactions": 22,
+      "total_amount": 101333.34,
+      "average_amount": 4606.06,
+      "first_seen": "2026-03-06T12:06:00",
+      "last_seen": "2026-08-27T07:41:00"
+    },
+    "Employer": {
+      "transactions": 6,
+      "total_amount": 415952.19,
+      "average_amount": 69325.37,
+      "first_seen": "2026-03-01T11:18:00",
+      "last_seen": "2026-08-01T10:19:00"
+    },
+    "Flipkart": {
+      "transactions": 47,
+      "total_amount": 382106.89,
+      "average_amount": 8129.93,
+      "first_seen": "2026-03-06T14:45:00",
+      "last_seen": "2026-08-30T10:22:00"
+    },
+    "FreshMart": {
+      "transactions": 31,
+      "total_amount": 73627.15,
+      "average_amount": 2375.07,
+      "first_seen": "2026-03-06T12:52:00",
+      "last_seen": "2026-08-31T13:32:00"
+    },
+    "Fuel Station": {
+      "transactions": 38,
+      "total_amount": 107248.25,
+      "average_amount": 2822.32,
+      "first_seen": "2026-03-03T14:11:00",
+      "last_seen": "2026-08-31T16:44:00"
+    },
+    "Grocery Store": {
+      "transactions": 43,
+      "total_amount": 111187.52,
+      "average_amount": 2585.76,
+      "first_seen": "2026-03-02T06:14:00",
+      "last_seen": "2026-08-27T10:43:00"
+    },
+    "Insurance": {
+      "transactions": 8,
+      "total_amount": 64576.65,
+      "average_amount": 8072.08,
+      "first_seen": "2026-04-06T22:21:00",
+      "last_seen": "2026-08-23T20:42:00"
+    },
+    "Internet Provider": {
+      "transactions": 10,
+      "total_amount": 52448.99,
+      "average_amount": 5244.9,
+      "first_seen": "2026-03-04T17:21:00",
+      "last_seen": "2026-08-07T19:16:00"
+    },
+    "Mobile Provider": {
+      "transactions": 26,
+      "total_amount": 130977.71,
+      "average_amount": 5037.6,
+      "first_seen": "2026-03-04T17:35:00",
+      "last_seen": "2026-08-25T19:27:00"
+    },
+    "Netflix": {
+      "transactions": 13,
+      "total_amount": 7928.35,
+      "average_amount": 609.87,
+      "first_seen": "2026-03-01T19:04:00",
+      "last_seen": "2026-08-18T06:35:00"
+    },
+    "Ola": {
+      "transactions": 25,
+      "total_amount": 91819.38,
+      "average_amount": 3672.78,
+      "first_seen": "2026-03-04T22:58:00",
+      "last_seen": "2026-08-25T22:54:00"
+    },
+    "Rent": {
+      "transactions": 6,
+      "total_amount": 104567.26,
+      "average_amount": 17427.88,
+      "first_seen": "2026-03-02T12:19:00",
+      "last_seen": "2026-08-03T12:55:00"
+    },
+    "Spotify": {
+      "transactions": 12,
+      "total_amount": 6233.9,
+      "average_amount": 519.49,
+      "first_seen": "2026-03-06T11:54:00",
+      "last_seen": "2026-08-13T12:53:00"
+    },
+    "Swiggy": {
+      "transactions": 33,
+      "total_amount": 55123.06,
+      "average_amount": 1670.4,
+      "first_seen": "2026-03-04T08:13:00",
+      "last_seen": "2026-08-26T08:07:00"
+    },
+    "Uber": {
+      "transactions": 25,
+      "total_amount": 107581.3,
+      "average_amount": 4303.25,
+      "first_seen": "2026-03-04T11:28:00",
+      "last_seen": "2026-08-18T13:31:00"
+    },
+    "Utility Payment": {
+      "transactions": 11,
+      "total_amount": 47552.98,
+      "average_amount": 4323.0,
+      "first_seen": "2026-03-02T18:02:00",
+      "last_seen": "2026-08-13T15:51:00"
+    },
+    "Zomato": {
+      "transactions": 37,
+      "total_amount": 59128.01,
+      "average_amount": 1598.05,
+      "first_seen": "2026-03-09T12:44:00",
+      "last_seen": "2026-08-26T11:21:00"
+    }
+  },
+  "C006": {
+    "ATM": {
+      "transactions": 28,
+      "total_amount": 241721.08,
+      "average_amount": 8632.9,
+      "first_seen": "2026-03-05T10:56:00",
+      "last_seen": "2026-08-31T14:51:00"
+    },
+    "Amazon": {
+      "transactions": 35,
+      "total_amount": 283105.49,
+      "average_amount": 8088.73,
+      "first_seen": "2026-03-04T09:21:00",
+      "last_seen": "2026-08-31T08:03:00"
+    },
+    "Bank Transfer": {
+      "transactions": 42,
+      "total_amount": 530966.6,
+      "average_amount": 12642.06,
+      "first_seen": "2026-03-01T18:31:00",
+      "last_seen": "2026-08-30T12:48:00"
+    },
+    "Education": {
+      "transactions": 2,
+      "total_amount": 14152.52,
+      "average_amount": 7076.26,
+      "first_seen": "2026-04-22T11:37:00",
+      "last_seen": "2026-04-27T14:26:00"
+    },
+    "Electricity Board": {
+      "transactions": 19,
+      "total_amount": 89530.31,
+      "average_amount": 4712.12,
+      "first_seen": "2026-03-15T19:29:00",
+      "last_seen": "2026-08-25T20:14:00"
+    },
+    "Employer": {
+      "transactions": 6,
+      "total_amount": 563645.94,
+      "average_amount": 93940.99,
+      "first_seen": "2026-03-01T10:43:00",
+      "last_seen": "2026-08-01T09:12:00"
+    },
+    "Flipkart": {
+      "transactions": 41,
+      "total_amount": 294881.33,
+      "average_amount": 7192.23,
+      "first_seen": "2026-03-02T16:56:00",
+      "last_seen": "2026-08-24T09:59:00"
+    },
+    "FreshMart": {
+      "transactions": 35,
+      "total_amount": 85972.09,
+      "average_amount": 2456.35,
+      "first_seen": "2026-03-02T18:29:00",
+      "last_seen": "2026-08-30T10:55:00"
+    },
+    "Fuel Station": {
+      "transactions": 38,
+      "total_amount": 95689.76,
+      "average_amount": 2518.15,
+      "first_seen": "2026-03-03T10:41:00",
+      "last_seen": "2026-08-30T07:52:00"
+    },
+    "Grocery Store": {
+      "transactions": 46,
+      "total_amount": 112004.21,
+      "average_amount": 2434.87,
+      "first_seen": "2026-03-13T10:44:00",
+      "last_seen": "2026-08-27T19:23:00"
+    },
+    "Insurance": {
+      "transactions": 5,
+      "total_amount": 42196.3,
+      "average_amount": 8439.26,
+      "first_seen": "2026-04-02T09:48:00",
+      "last_seen": "2026-08-24T08:59:00"
+    },
+    "Internet Provider": {
+      "transactions": 10,
+      "total_amount": 40303.86,
+      "average_amount": 4030.39,
+      "first_seen": "2026-03-11T15:29:00",
+      "last_seen": "2026-07-20T11:42:00"
+    },
+    "Mobile Provider": {
+      "transactions": 18,
+      "total_amount": 66129.05,
+      "average_amount": 3673.84,
+      "first_seen": "2026-03-09T11:17:00",
+      "last_seen": "2026-08-21T14:28:00"
+    },
+    "Netflix": {
+      "transactions": 15,
+      "total_amount": 8498.02,
+      "average_amount": 566.53,
+      "first_seen": "2026-03-08T13:22:00",
+      "last_seen": "2026-08-15T22:35:00"
+    },
+    "Ola": {
+      "transactions": 17,
+      "total_amount": 71697.11,
+      "average_amount": 4217.48,
+      "first_seen": "2026-03-25T14:57:00",
+      "last_seen": "2026-08-27T06:10:00"
+    },
+    "Rent": {
+      "transactions": 6,
+      "total_amount": 72385.08,
+      "average_amount": 12064.18,
+      "first_seen": "2026-03-04T10:25:00",
+      "last_seen": "2026-08-03T13:18:00"
+    },
+    "Spotify": {
+      "transactions": 15,
+      "total_amount": 8866.45,
+      "average_amount": 591.1,
+      "first_seen": "2026-03-10T16:24:00",
+      "last_seen": "2026-08-12T19:26:00"
+    },
+    "Swiggy": {
+      "transactions": 30,
+      "total_amount": 47709.47,
+      "average_amount": 1590.32,
+      "first_seen": "2026-03-06T14:03:00",
+      "last_seen": "2026-08-30T17:28:00"
+    },
+    "Uber": {
+      "transactions": 27,
+      "total_amount": 110520.93,
+      "average_amount": 4093.37,
+      "first_seen": "2026-03-02T09:30:00",
+      "last_seen": "2026-08-23T15:14:00"
+    },
+    "Utility Payment": {
+      "transactions": 7,
+      "total_amount": 30382.68,
+      "average_amount": 4340.38,
+      "first_seen": "2026-03-10T23:31:00",
+      "last_seen": "2026-08-05T11:00:00"
+    },
+    "Zomato": {
+      "transactions": 38,
+      "total_amount": 64677.62,
+      "average_amount": 1702.04,
+      "first_seen": "2026-03-08T16:22:00",
+      "last_seen": "2026-08-30T15:49:00"
+    }
+  },
+  "C007": {
+    "ATM": {
+      "transactions": 19,
+      "total_amount": 248818.3,
+      "average_amount": 13095.7,
+      "first_seen": "2026-03-17T14:35:00",
+      "last_seen": "2026-08-09T16:37:00"
+    },
+    "Amazon": {
+      "transactions": 46,
+      "total_amount": 288937.81,
+      "average_amount": 6281.26,
+      "first_seen": "2026-03-01T18:48:00",
+      "last_seen": "2026-08-30T13:47:00"
+    },
+    "Bank Transfer": {
+      "transactions": 43,
+      "total_amount": 599270.99,
+      "average_amount": 13936.53,
+      "first_seen": "2026-03-17T11:39:00",
+      "last_seen": "2026-08-27T10:54:00"
+    },
+    "Education": {
+      "transactions": 12,
+      "total_amount": 89802.07,
+      "average_amount": 7483.51,
+      "first_seen": "2026-03-03T17:40:00",
+      "last_seen": "2026-08-05T10:04:00"
+    },
+    "Electricity Board": {
+      "transactions": 19,
+      "total_amount": 91568.16,
+      "average_amount": 4819.38,
+      "first_seen": "2026-03-06T14:30:00",
+      "last_seen": "2026-08-14T16:18:00"
+    },
+    "Employer": {
+      "transactions": 6,
+      "total_amount": 542560.04,
+      "average_amount": 90426.67,
+      "first_seen": "2026-03-01T11:12:00",
+      "last_seen": "2026-08-01T10:53:00"
+    },
+    "Flipkart": {
+      "transactions": 41,
+      "total_amount": 294498.62,
+      "average_amount": 7182.89,
+      "first_seen": "2026-03-08T11:31:00",
+      "last_seen": "2026-08-31T07:33:00"
+    },
+    "FreshMart": {
+      "transactions": 36,
+      "total_amount": 94274.44,
+      "average_amount": 2618.73,
+      "first_seen": "2026-03-05T18:55:00",
+      "last_seen": "2026-08-29T16:25:00"
+    },
+    "Fuel Station": {
+      "transactions": 28,
+      "total_amount": 64029.08,
+      "average_amount": 2286.75,
+      "first_seen": "2026-03-04T22:22:00",
+      "last_seen": "2026-08-18T10:16:00"
+    },
+    "Grocery Store": {
+      "transactions": 33,
+      "total_amount": 83109.88,
+      "average_amount": 2518.48,
+      "first_seen": "2026-03-01T08:50:00",
+      "last_seen": "2026-08-19T14:13:00"
+    },
+    "Insurance": {
+      "transactions": 7,
+      "total_amount": 66048.24,
+      "average_amount": 9435.46,
+      "first_seen": "2026-04-21T14:37:00",
+      "last_seen": "2026-08-27T11:25:00"
+    },
+    "Internet Provider": {
+      "transactions": 4,
+      "total_amount": 10360.59,
+      "average_amount": 2590.15,
+      "first_seen": "2026-04-13T21:37:00",
+      "last_seen": "2026-08-03T13:50:00"
+    },
+    "Mobile Provider": {
+      "transactions": 19,
+      "total_amount": 90246.56,
+      "average_amount": 4749.82,
+      "first_seen": "2026-03-17T17:01:00",
+      "last_seen": "2026-08-14T21:56:00"
+    },
+    "Netflix": {
+      "transactions": 10,
+      "total_amount": 5586.64,
+      "average_amount": 558.66,
+      "first_seen": "2026-03-12T13:18:00",
+      "last_seen": "2026-08-18T20:50:00"
+    },
+    "Ola": {
+      "transactions": 12,
+      "total_amount": 52314.41,
+      "average_amount": 4359.53,
+      "first_seen": "2026-03-08T18:06:00",
+      "last_seen": "2026-08-18T19:42:00"
+    },
+    "Rent": {
+      "transactions": 6,
+      "total_amount": 205166.55,
+      "average_amount": 34194.43,
+      "first_seen": "2026-03-04T14:54:00",
+      "last_seen": "2026-08-04T14:38:00"
+    },
+    "Spotify": {
+      "transactions": 13,
+      "total_amount": 6786.53,
+      "average_amount": 522.04,
+      "first_seen": "2026-03-15T15:13:00",
+      "last_seen": "2026-08-18T10:05:00"
+    },
+    "Swiggy": {
+      "transactions": 45,
+      "total_amount": 72274.2,
+      "average_amount": 1606.09,
+      "first_seen": "2026-03-03T15:40:00",
+      "last_seen": "2026-08-28T20:51:00"
+    },
+    "Uber": {
+      "transactions": 25,
+      "total_amount": 83707.76,
+      "average_amount": 3348.31,
+      "first_seen": "2026-03-04T17:57:00",
+      "last_seen": "2026-08-24T11:30:00"
+    },
+    "Utility Payment": {
+      "transactions": 9,
+      "total_amount": 37548.88,
+      "average_amount": 4172.1,
+      "first_seen": "2026-03-10T08:11:00",
+      "last_seen": "2026-08-06T16:11:00"
+    },
+    "Zomato": {
+      "transactions": 24,
+      "total_amount": 39469.64,
+      "average_amount": 1644.57,
+      "first_seen": "2026-03-03T18:26:00",
+      "last_seen": "2026-08-27T17:50:00"
+    }
+  },
+  "C008": {
+    "ATM": {
+      "transactions": 16,
+      "total_amount": 182871.61,
+      "average_amount": 11429.48,
+      "first_seen": "2026-03-02T18:14:00",
+      "last_seen": "2026-08-19T21:26:00"
+    },
+    "Amazon": {
+      "transactions": 41,
+      "total_amount": 256655.59,
+      "average_amount": 6259.89,
+      "first_seen": "2026-03-04T11:00:00",
+      "last_seen": "2026-08-24T12:00:00"
+    },
+    "Bank Transfer": {
+      "transactions": 43,
+      "total_amount": 586183.24,
+      "average_amount": 13632.17,
+      "first_seen": "2026-03-13T19:38:00",
+      "last_seen": "2026-08-30T20:26:00"
+    },
+    "Education": {
+      "transactions": 3,
+      "total_amount": 28455.32,
+      "average_amount": 9485.11,
+      "first_seen": "2026-03-12T22:21:00",
+      "last_seen": "2026-08-14T15:42:00"
+    },
+    "Electricity Board": {
+      "transactions": 15,
+      "total_amount": 67474.8,
+      "average_amount": 4498.32,
+      "first_seen": "2026-03-13T06:52:00",
+      "last_seen": "2026-08-15T15:43:00"
+    },
+    "Employer": {
+      "transactions": 6,
+      "total_amount": 397349.06,
+      "average_amount": 66224.84,
+      "first_seen": "2026-03-01T10:38:00",
+      "last_seen": "2026-08-01T11:51:00"
+    },
+    "Flipkart": {
+      "transactions": 40,
+      "total_amount": 273572.12,
+      "average_amount": 6839.3,
+      "first_seen": "2026-03-01T17:00:00",
+      "last_seen": "2026-08-27T21:48:00"
+    },
+    "FreshMart": {
+      "transactions": 26,
+      "total_amount": 65871.43,
+      "average_amount": 2533.52,
+      "first_seen": "2026-03-02T19:52:00",
+      "last_seen": "2026-08-21T21:05:00"
+    },
+    "Fuel Station": {
+      "transactions": 30,
+      "total_amount": 86411.24,
+      "average_amount": 2880.37,
+      "first_seen": "2026-03-05T21:14:00",
+      "last_seen": "2026-08-22T20:21:00"
+    },
+    "Grocery Store": {
+      "transactions": 33,
+      "total_amount": 78082.73,
+      "average_amount": 2366.14,
+      "first_seen": "2026-03-03T12:38:00",
+      "last_seen": "2026-08-26T18:04:00"
+    },
+    "Insurance": {
+      "transactions": 4,
+      "total_amount": 31044.32,
+      "average_amount": 7761.08,
+      "first_seen": "2026-03-28T09:53:00",
+      "last_seen": "2026-06-11T19:42:00"
+    },
+    "Internet Provider": {
+      "transactions": 5,
+      "total_amount": 18333.07,
+      "average_amount": 3666.61,
+      "first_seen": "2026-04-13T14:17:00",
+      "last_seen": "2026-08-06T15:31:00"
+    },
+    "Mobile Provider": {
+      "transactions": 17,
+      "total_amount": 72589.07,
+      "average_amount": 4269.95,
+      "first_seen": "2026-03-03T15:34:00",
+      "last_seen": "2026-08-24T12:25:00"
+    },
+    "Netflix": {
+      "transactions": 13,
+      "total_amount": 9299.12,
+      "average_amount": 715.32,
+      "first_seen": "2026-03-12T19:53:00",
+      "last_seen": "2026-08-18T10:25:00"
+    },
+    "Ola": {
+      "transactions": 17,
+      "total_amount": 66318.32,
+      "average_amount": 3901.08,
+      "first_seen": "2026-03-04T11:27:00",
+      "last_seen": "2026-08-20T22:27:00"
+    },
+    "Rent": {
+      "transactions": 6,
+      "total_amount": 94895.26,
+      "average_amount": 15815.88,
+      "first_seen": "2026-03-03T14:13:00",
+      "last_seen": "2026-08-04T13:23:00"
+    },
+    "Spotify": {
+      "transactions": 7,
+      "total_amount": 3237.13,
+      "average_amount": 462.45,
+      "first_seen": "2026-03-14T11:16:00",
+      "last_seen": "2026-08-17T08:18:00"
+    },
+    "Swiggy": {
+      "transactions": 37,
+      "total_amount": 56565.18,
+      "average_amount": 1528.79,
+      "first_seen": "2026-03-07T13:09:00",
+      "last_seen": "2026-08-31T08:48:00"
+    },
+    "Uber": {
+      "transactions": 18,
+      "total_amount": 74460.39,
+      "average_amount": 4136.69,
+      "first_seen": "2026-03-07T19:59:00",
+      "last_seen": "2026-08-22T14:07:00"
+    },
+    "Utility Payment": {
+      "transactions": 4,
+      "total_amount": 19480.8,
+      "average_amount": 4870.2,
+      "first_seen": "2026-04-01T19:36:00",
+      "last_seen": "2026-07-20T20:58:00"
+    },
+    "Zomato": {
+      "transactions": 35,
+      "total_amount": 55176.47,
+      "average_amount": 1576.47,
+      "first_seen": "2026-03-02T07:44:00",
+      "last_seen": "2026-08-25T17:07:00"
+    }
+  },
+  "C009": {
+    "ATM": {
+      "transactions": 19,
+      "total_amount": 228494.21,
+      "average_amount": 12026.01,
+      "first_seen": "2026-03-04T23:22:00",
+      "last_seen": "2026-08-31T21:27:00"
+    },
+    "Amazon": {
+      "transactions": 25,
+      "total_amount": 188054.24,
+      "average_amount": 7522.17,
+      "first_seen": "2026-03-01T19:25:00",
+      "last_seen": "2026-08-31T20:23:00"
+    },
+    "Bank Transfer": {
+      "transactions": 26,
+      "total_amount": 391221.45,
+      "average_amount": 15046.98,
+      "first_seen": "2026-03-03T08:57:00",
+      "last_seen": "2026-08-25T15:37:00"
+    },
+    "Education": {
+      "transactions": 4,
+      "total_amount": 26363.36,
+      "average_amount": 6590.84,
+      "first_seen": "2026-05-03T15:56:00",
+      "last_seen": "2026-07-13T16:26:00"
+    },
+    "Electricity Board": {
+      "transactions": 11,
+      "total_amount": 64882.12,
+      "average_amount": 5898.37,
+      "first_seen": "2026-03-14T19:24:00",
+      "last_seen": "2026-08-17T11:10:00"
+    },
+    "Employer": {
+      "transactions": 6,
+      "total_amount": 576064.62,
+      "average_amount": 96010.77,
+      "first_seen": "2026-03-01T09:34:00",
+      "last_seen": "2026-08-01T09:03:00"
+    },
+    "Flipkart": {
+      "transactions": 35,
+      "total_amount": 227803.37,
+      "average_amount": 6508.67,
+      "first_seen": "2026-03-09T21:09:00",
+      "last_seen": "2026-08-30T09:08:00"
+    },
+    "FreshMart": {
+      "transactions": 26,
+      "total_amount": 74792.57,
+      "average_amount": 2876.64,
+      "first_seen": "2026-03-04T14:11:00",
+      "last_seen": "2026-08-31T17:42:00"
+    },
+    "Fuel Station": {
+      "transactions": 23,
+      "total_amount": 59888.89,
+      "average_amount": 2603.86,
+      "first_seen": "2026-03-07T12:13:00",
+      "last_seen": "2026-08-20T22:57:00"
+    },
+    "Grocery Store": {
+      "transactions": 30,
+      "total_amount": 92594.23,
+      "average_amount": 3086.47,
+      "first_seen": "2026-03-14T08:50:00",
+      "last_seen": "2026-08-27T15:37:00"
+    },
+    "Insurance": {
+      "transactions": 5,
+      "total_amount": 23173.21,
+      "average_amount": 4634.64,
+      "first_seen": "2026-05-05T08:06:00",
+      "last_seen": "2026-08-18T22:32:00"
+    },
+    "Internet Provider": {
+      "transactions": 5,
+      "total_amount": 19290.36,
+      "average_amount": 3858.07,
+      "first_seen": "2026-03-25T18:38:00",
+      "last_seen": "2026-08-03T09:08:00"
+    },
+    "Mobile Provider": {
+      "transactions": 12,
+      "total_amount": 29645.45,
+      "average_amount": 2470.45,
+      "first_seen": "2026-03-16T23:45:00",
+      "last_seen": "2026-08-12T17:21:00"
+    },
+    "Netflix": {
+      "transactions": 12,
+      "total_amount": 6791.43,
+      "average_amount": 565.95,
+      "first_seen": "2026-03-07T12:13:00",
+      "last_seen": "2026-08-25T16:48:00"
+    },
+    "Ola": {
+      "transactions": 10,
+      "total_amount": 52934.29,
+      "average_amount": 5293.43,
+      "first_seen": "2026-04-03T13:42:00",
+      "last_seen": "2026-08-11T08:53:00"
+    },
+    "Rent": {
+      "transactions": 6,
+      "total_amount": 136133.09,
+      "average_amount": 22688.85,
+      "first_seen": "2026-03-04T13:47:00",
+      "last_seen": "2026-08-03T14:30:00"
+    },
+    "Spotify": {
+      "transactions": 8,
+      "total_amount": 3057.21,
+      "average_amount": 382.15,
+      "first_seen": "2026-04-08T14:26:00",
+      "last_seen": "2026-08-21T07:46:00"
+    },
+    "Swiggy": {
+      "transactions": 20,
+      "total_amount": 32728.04,
+      "average_amount": 1636.4,
+      "first_seen": "2026-03-01T10:18:00",
+      "last_seen": "2026-08-05T22:27:00"
+    },
+    "Uber": {
+      "transactions": 11,
+      "total_amount": 50539.34,
+      "average_amount": 4594.49,
+      "first_seen": "2026-03-03T11:07:00",
+      "last_seen": "2026-08-05T14:48:00"
+    },
+    "Utility Payment": {
+      "transactions": 3,
+      "total_amount": 18564.49,
+      "average_amount": 6188.16,
+      "first_seen": "2026-07-17T09:24:00",
+      "last_seen": "2026-08-23T22:49:00"
+    },
+    "Zomato": {
+      "transactions": 32,
+      "total_amount": 47580.97,
+      "average_amount": 1486.91,
+      "first_seen": "2026-03-07T09:53:00",
+      "last_seen": "2026-08-28T13:45:00"
+    }
+  },
+  "C010": {
+    "ATM": {
+      "transactions": 26,
+      "total_amount": 288280.37,
+      "average_amount": 11087.71,
+      "first_seen": "2026-03-01T09:23:00",
+      "last_seen": "2026-08-28T19:49:00"
+    },
+    "Amazon": {
+      "transactions": 44,
+      "total_amount": 319793.98,
+      "average_amount": 7268.05,
+      "first_seen": "2026-03-02T13:06:00",
+      "last_seen": "2026-08-27T20:29:00"
+    },
+    "Bank Transfer": {
+      "transactions": 41,
+      "total_amount": 611289.76,
+      "average_amount": 14909.51,
+      "first_seen": "2026-03-03T15:40:00",
+      "last_seen": "2026-08-29T12:40:00"
+    },
+    "Education": {
+      "transactions": 5,
+      "total_amount": 32395.24,
+      "average_amount": 6479.05,
+      "first_seen": "2026-04-02T08:31:00",
+      "last_seen": "2026-08-02T17:45:00"
+    },
+    "Electricity Board": {
+      "transactions": 18,
+      "total_amount": 94540.28,
+      "average_amount": 5252.24,
+      "first_seen": "2026-03-12T17:24:00",
+      "last_seen": "2026-08-14T11:53:00"
+    },
+    "Employer": {
+      "transactions": 6,
+      "total_amount": 95785.94,
+      "average_amount": 15964.32,
+      "first_seen": "2026-03-01T11:55:00",
+      "last_seen": "2026-08-01T10:45:00"
+    },
+    "Flipkart": {
+      "transactions": 32,
+      "total_amount": 227003.54,
+      "average_amount": 7093.86,
+      "first_seen": "2026-03-08T19:47:00",
+      "last_seen": "2026-08-22T18:40:00"
+    },
+    "FreshMart": {
+      "transactions": 34,
+      "total_amount": 91722.42,
+      "average_amount": 2697.72,
+      "first_seen": "2026-03-03T16:42:00",
+      "last_seen": "2026-08-23T23:07:00"
+    },
+    "Fuel Station": {
+      "transactions": 40,
+      "total_amount": 124926.37,
+      "average_amount": 3123.16,
+      "first_seen": "2026-03-07T15:47:00",
+      "last_seen": "2026-08-30T17:23:00"
+    },
+    "Grocery Store": {
+      "transactions": 44,
+      "total_amount": 114098.49,
+      "average_amount": 2593.15,
+      "first_seen": "2026-03-08T18:03:00",
+      "last_seen": "2026-08-29T10:00:00"
+    },
+    "Insurance": {
+      "transactions": 6,
+      "total_amount": 54264.83,
+      "average_amount": 9044.14,
+      "first_seen": "2026-04-05T20:54:00",
+      "last_seen": "2026-08-27T10:34:00"
+    },
+    "Internet Provider": {
+      "transactions": 9,
+      "total_amount": 37262.75,
+      "average_amount": 4140.31,
+      "first_seen": "2026-03-11T05:10:00",
+      "last_seen": "2026-08-22T21:31:00"
+    },
+    "Mobile Provider": {
+      "transactions": 22,
+      "total_amount": 82112.84,
+      "average_amount": 3732.4,
+      "first_seen": "2026-03-02T09:45:00",
+      "last_seen": "2026-08-19T16:53:00"
+    },
+    "Netflix": {
+      "transactions": 13,
+      "total_amount": 7411.53,
+      "average_amount": 570.12,
+      "first_seen": "2026-03-06T06:50:00",
+      "last_seen": "2026-08-21T19:52:00"
+    },
+    "Ola": {
+      "transactions": 24,
+      "total_amount": 122873.35,
+      "average_amount": 5119.72,
+      "first_seen": "2026-03-01T17:39:00",
+      "last_seen": "2026-08-23T14:26:00"
+    },
+    "Rent": {
+      "transactions": 6,
+      "total_amount": 46861.28,
+      "average_amount": 7810.21,
+      "first_seen": "2026-03-04T10:53:00",
+      "last_seen": "2026-08-04T14:21:00"
+    },
+    "Spotify": {
+      "transactions": 16,
+      "total_amount": 6368.4,
+      "average_amount": 398.03,
+      "first_seen": "2026-03-09T12:18:00",
+      "last_seen": "2026-08-16T14:35:00"
+    },
+    "Swiggy": {
+      "transactions": 32,
+      "total_amount": 44434.14,
+      "average_amount": 1388.57,
+      "first_seen": "2026-03-07T11:02:00",
+      "last_seen": "2026-08-26T19:38:00"
+    },
+    "Uber": {
+      "transactions": 21,
+      "total_amount": 98202.74,
+      "average_amount": 4676.32,
+      "first_seen": "2026-03-02T21:53:00",
+      "last_seen": "2026-08-25T12:23:00"
+    },
+    "Utility Payment": {
+      "transactions": 5,
+      "total_amount": 18512.06,
+      "average_amount": 3702.41,
+      "first_seen": "2026-04-21T20:15:00",
+      "last_seen": "2026-07-23T20:48:00"
+    },
+    "Zomato": {
+      "transactions": 33,
+      "total_amount": 58561.19,
+      "average_amount": 1774.58,
+      "first_seen": "2026-03-01T16:41:00",
+      "last_seen": "2026-08-28T19:25:00"
+    }
+  },
+  "C011": {
+    "ATM": {
+      "transactions": 31,
+      "total_amount": 299290.79,
+      "average_amount": 9654.54,
+      "first_seen": "2026-03-15T12:48:00",
+      "last_seen": "2026-08-28T16:41:00"
+    },
+    "Amazon": {
+      "transactions": 64,
+      "total_amount": 473856.16,
+      "average_amount": 7404.0,
+      "first_seen": "2026-03-03T08:12:00",
+      "last_seen": "2026-08-27T11:32:00"
+    },
+    "Bank Transfer": {
+      "transactions": 35,
+      "total_amount": 482115.69,
+      "average_amount": 13774.73,
+      "first_seen": "2026-03-01T11:38:00",
+      "last_seen": "2026-08-31T07:35:00"
+    },
+    "Education": {
+      "transactions": 11,
+      "total_amount": 93543.89,
+      "average_amount": 8503.99,
+      "first_seen": "2026-03-08T12:04:00",
+      "last_seen": "2026-08-20T12:50:00"
+    },
+    "Electricity Board": {
+      "transactions": 19,
+      "total_amount": 96562.55,
+      "average_amount": 5082.24,
+      "first_seen": "2026-03-04T19:25:00",
+      "last_seen": "2026-08-29T13:41:00"
+    },
+    "Employer": {
+      "transactions": 6,
+      "total_amount": 485488.36,
+      "average_amount": 80914.73,
+      "first_seen": "2026-03-01T10:49:00",
+      "last_seen": "2026-08-01T09:50:00"
+    },
+    "Flipkart": {
+      "transactions": 41,
+      "total_amount": 253814.25,
+      "average_amount": 6190.59,
+      "first_seen": "2026-03-07T19:49:00",
+      "last_seen": "2026-08-15T20:08:00"
+    },
+    "FreshMart": {
+      "transactions": 42,
+      "total_amount": 120542.09,
+      "average_amount": 2870.05,
+      "first_seen": "2026-03-03T19:38:00",
+      "last_seen": "2026-08-23T10:52:00"
+    },
+    "Fuel Station": {
+      "transactions": 37,
+      "total_amount": 109657.36,
+      "average_amount": 2963.71,
+      "first_seen": "2026-03-03T17:46:00",
+      "last_seen": "2026-08-29T17:48:00"
+    },
+    "Grocery Store": {
+      "transactions": 33,
+      "total_amount": 91398.32,
+      "average_amount": 2769.65,
+      "first_seen": "2026-03-01T11:08:00",
+      "last_seen": "2026-08-24T23:28:00"
+    },
+    "Insurance": {
+      "transactions": 7,
+      "total_amount": 44453.31,
+      "average_amount": 6350.47,
+      "first_seen": "2026-04-07T18:21:00",
+      "last_seen": "2026-08-24T12:20:00"
+    },
+    "Internet Provider": {
+      "transactions": 6,
+      "total_amount": 26353.56,
+      "average_amount": 4392.26,
+      "first_seen": "2026-03-31T12:46:00",
+      "last_seen": "2026-08-31T21:03:00"
+    },
+    "Mobile Provider": {
+      "transactions": 17,
+      "total_amount": 76849.75,
+      "average_amount": 4520.57,
+      "first_seen": "2026-03-13T13:26:00",
+      "last_seen": "2026-08-27T19:00:00"
+    },
+    "Netflix": {
+      "transactions": 12,
+      "total_amount": 6541.2,
+      "average_amount": 545.1,
+      "first_seen": "2026-03-04T13:58:00",
+      "last_seen": "2026-08-29T23:38:00"
+    },
+    "Ola": {
+      "transactions": 28,
+      "total_amount": 126646.68,
+      "average_amount": 4523.1,
+      "first_seen": "2026-03-01T20:44:00",
+      "last_seen": "2026-08-31T22:56:00"
+    },
+    "Rent": {
+      "transactions": 6,
+      "total_amount": 134379.0,
+      "average_amount": 22396.5,
+      "first_seen": "2026-03-02T12:16:00",
+      "last_seen": "2026-08-04T11:28:00"
+    },
+    "Spotify": {
+      "transactions": 16,
+      "total_amount": 5774.05,
+      "average_amount": 360.88,
+      "first_seen": "2026-03-02T08:09:00",
+      "last_seen": "2026-08-24T12:35:00"
+    },
+    "Swiggy": {
+      "transactions": 38,
+      "total_amount": 66697.2,
+      "average_amount": 1755.19,
+      "first_seen": "2026-03-18T15:17:00",
+      "last_seen": "2026-08-20T18:33:00"
+    },
+    "Uber": {
+      "transactions": 28,
+      "total_amount": 105910.63,
+      "average_amount": 3782.52,
+      "first_seen": "2026-03-03T21:38:00",
+      "last_seen": "2026-08-30T19:34:00"
+    },
+    "Utility Payment": {
+      "transactions": 4,
+      "total_amount": 15627.68,
+      "average_amount": 3906.92,
+      "first_seen": "2026-04-22T17:16:00",
+      "last_seen": "2026-08-13T12:00:00"
+    },
+    "Zomato": {
+      "transactions": 59,
+      "total_amount": 81000.07,
+      "average_amount": 1372.88,
+      "first_seen": "2026-03-08T07:58:00",
+      "last_seen": "2026-08-28T19:27:00"
+    }
+  },
+  "C012": {
+    "ATM": {
+      "transactions": 29,
+      "total_amount": 319915.28,
+      "average_amount": 11031.56,
+      "first_seen": "2026-03-10T06:28:00",
+      "last_seen": "2026-08-31T14:05:00"
+    },
+    "Amazon": {
+      "transactions": 33,
+      "total_amount": 272239.27,
+      "average_amount": 8249.67,
+      "first_seen": "2026-03-01T06:24:00",
+      "last_seen": "2026-08-30T08:33:00"
+    },
+    "Bank Transfer": {
+      "transactions": 36,
+      "total_amount": 505170.78,
+      "average_amount": 14032.52,
+      "first_seen": "2026-03-02T18:27:00",
+      "last_seen": "2026-08-31T21:53:00"
+    },
+    "Education": {
+      "transactions": 11,
+      "total_amount": 92928.45,
+      "average_amount": 8448.04,
+      "first_seen": "2026-03-09T07:06:00",
+      "last_seen": "2026-08-25T20:08:00"
+    },
+    "Electricity Board": {
+      "transactions": 15,
+      "total_amount": 77014.83,
+      "average_amount": 5134.32,
+      "first_seen": "2026-03-03T09:38:00",
+      "last_seen": "2026-08-25T15:31:00"
+    },
+    "Employer": {
+      "transactions": 6,
+      "total_amount": 569166.83,
+      "average_amount": 94861.14,
+      "first_seen": "2026-03-01T11:15:00",
+      "last_seen": "2026-08-01T11:31:00"
+    },
+    "Flipkart": {
+      "transactions": 38,
+      "total_amount": 287147.09,
+      "average_amount": 7556.5,
+      "first_seen": "2026-03-06T07:45:00",
+      "last_seen": "2026-08-21T22:16:00"
+    },
+    "FreshMart": {
+      "transactions": 48,
+      "total_amount": 122526.13,
+      "average_amount": 2552.63,
+      "first_seen": "2026-03-03T16:07:00",
+      "last_seen": "2026-08-26T15:00:00"
+    },
+    "Fuel Station": {
+      "transactions": 31,
+      "total_amount": 87226.41,
+      "average_amount": 2813.76,
+      "first_seen": "2026-03-01T12:56:00",
+      "last_seen": "2026-08-28T13:52:00"
+    },
+    "Grocery Store": {
+      "transactions": 36,
+      "total_amount": 99173.25,
+      "average_amount": 2754.81,
+      "first_seen": "2026-03-02T13:11:00",
+      "last_seen": "2026-08-20T12:34:00"
+    },
+    "Insurance": {
+      "transactions": 5,
+      "total_amount": 44512.9,
+      "average_amount": 8902.58,
+      "first_seen": "2026-03-26T19:31:00",
+      "last_seen": "2026-06-25T10:00:00"
+    },
+    "Internet Provider": {
+      "transactions": 4,
+      "total_amount": 12354.13,
+      "average_amount": 3088.53,
+      "first_seen": "2026-03-15T13:30:00",
+      "last_seen": "2026-08-27T15:07:00"
+    },
+    "Mobile Provider": {
+      "transactions": 19,
+      "total_amount": 106411.24,
+      "average_amount": 5600.59,
+      "first_seen": "2026-03-05T17:30:00",
+      "last_seen": "2026-08-20T19:19:00"
+    },
+    "Netflix": {
+      "transactions": 15,
+      "total_amount": 10064.28,
+      "average_amount": 670.95,
+      "first_seen": "2026-03-03T08:43:00",
+      "last_seen": "2026-08-23T15:37:00"
+    },
+    "Ola": {
+      "transactions": 21,
+      "total_amount": 97298.41,
+      "average_amount": 4633.26,
+      "first_seen": "2026-03-06T18:30:00",
+      "last_seen": "2026-08-21T17:06:00"
+    },
+    "Rent": {
+      "transactions": 6,
+      "total_amount": 166440.5,
+      "average_amount": 27740.08,
+      "first_seen": "2026-03-02T13:30:00",
+      "last_seen": "2026-08-02T14:26:00"
+    },
+    "Spotify": {
+      "transactions": 12,
+      "total_amount": 6539.59,
+      "average_amount": 544.97,
+      "first_seen": "2026-03-06T17:08:00",
+      "last_seen": "2026-08-30T20:49:00"
+    },
+    "Swiggy": {
+      "transactions": 34,
+      "total_amount": 50216.01,
+      "average_amount": 1476.94,
+      "first_seen": "2026-03-04T11:52:00",
+      "last_seen": "2026-08-28T23:27:00"
+    },
+    "Uber": {
+      "transactions": 8,
+      "total_amount": 27201.98,
+      "average_amount": 3400.25,
+      "first_seen": "2026-04-01T13:42:00",
+      "last_seen": "2026-08-12T22:39:00"
+    },
+    "Utility Payment": {
+      "transactions": 7,
+      "total_amount": 17794.03,
+      "average_amount": 2542.0,
+      "first_seen": "2026-04-01T18:58:00",
+      "last_seen": "2026-08-13T19:00:00"
+    },
+    "Zomato": {
+      "transactions": 37,
+      "total_amount": 61666.73,
+      "average_amount": 1666.67,
+      "first_seen": "2026-03-07T11:39:00",
+      "last_seen": "2026-08-31T19:02:00"
+    }
+  },
+  "C013": {
+    "ATM": {
+      "transactions": 17,
+      "total_amount": 166441.73,
+      "average_amount": 9790.69,
+      "first_seen": "2026-03-04T07:34:00",
+      "last_seen": "2026-08-29T14:24:00"
+    },
+    "Amazon": {
+      "transactions": 50,
+      "total_amount": 283768.07,
+      "average_amount": 5675.36,
+      "first_seen": "2026-03-01T18:06:00",
+      "last_seen": "2026-08-30T21:58:00"
+    },
+    "Bank Transfer": {
+      "transactions": 36,
+      "total_amount": 611218.94,
+      "average_amount": 16978.3,
+      "first_seen": "2026-03-06T17:38:00",
+      "last_seen": "2026-08-26T07:37:00"
+    },
+    "Education": {
+      "transactions": 7,
+      "total_amount": 45810.96,
+      "average_amount": 6544.42,
+      "first_seen": "2026-03-02T12:59:00",
+      "last_seen": "2026-07-23T09:01:00"
+    },
+    "Electricity Board": {
+      "transactions": 17,
+      "total_amount": 89959.82,
+      "average_amount": 5291.75,
+      "first_seen": "2026-03-17T16:28:00",
+      "last_seen": "2026-08-18T16:11:00"
+    },
+    "Employer": {
+      "transactions": 6,
+      "total_amount": 399697.94,
+      "average_amount": 66616.32,
+      "first_seen": "2026-03-01T11:59:00",
+      "last_seen": "2026-08-01T11:03:00"
+    },
+    "Flipkart": {
+      "transactions": 34,
+      "total_amount": 273096.92,
+      "average_amount": 8032.26,
+      "first_seen": "2026-03-02T14:27:00",
+      "last_seen": "2026-08-25T13:51:00"
+    },
+    "FreshMart": {
+      "transactions": 29,
+      "total_amount": 78339.87,
+      "average_amount": 2701.37,
+      "first_seen": "2026-03-02T16:25:00",
+      "last_seen": "2026-08-30T09:03:00"
+    },
+    "Fuel Station": {
+      "transactions": 34,
+      "total_amount": 97902.74,
+      "average_amount": 2879.49,
+      "first_seen": "2026-03-06T09:54:00",
+      "last_seen": "2026-08-28T15:30:00"
+    },
+    "Grocery Store": {
+      "transactions": 19,
+      "total_amount": 50530.96,
+      "average_amount": 2659.52,
+      "first_seen": "2026-03-14T12:47:00",
+      "last_seen": "2026-08-31T20:35:00"
+    },
+    "Insurance": {
+      "transactions": 6,
+      "total_amount": 40690.76,
+      "average_amount": 6781.79,
+      "first_seen": "2026-04-08T13:06:00",
+      "last_seen": "2026-08-06T11:00:00"
+    },
+    "Internet Provider": {
+      "transactions": 6,
+      "total_amount": 16498.98,
+      "average_amount": 2749.83,
+      "first_seen": "2026-03-16T20:58:00",
+      "last_seen": "2026-07-01T22:06:00"
+    },
+    "Mobile Provider": {
+      "transactions": 18,
+      "total_amount": 79217.44,
+      "average_amount": 4400.97,
+      "first_seen": "2026-03-12T14:28:00",
+      "last_seen": "2026-08-25T23:11:00"
+    },
+    "Netflix": {
+      "transactions": 12,
+      "total_amount": 7216.15,
+      "average_amount": 601.35,
+      "first_seen": "2026-03-07T12:16:00",
+      "last_seen": "2026-08-12T20:02:00"
+    },
+    "Ola": {
+      "transactions": 14,
+      "total_amount": 70308.39,
+      "average_amount": 5022.03,
+      "first_seen": "2026-03-18T05:47:00",
+      "last_seen": "2026-08-24T09:35:00"
+    },
+    "Rent": {
+      "transactions": 6,
+      "total_amount": 105295.18,
+      "average_amount": 17549.2,
+      "first_seen": "2026-03-03T11:08:00",
+      "last_seen": "2026-08-03T14:32:00"
+    },
+    "Spotify": {
+      "transactions": 12,
+      "total_amount": 5654.74,
+      "average_amount": 471.23,
+      "first_seen": "2026-04-08T18:56:00",
+      "last_seen": "2026-08-20T11:13:00"
+    },
+    "Swiggy": {
+      "transactions": 27,
+      "total_amount": 45778.73,
+      "average_amount": 1695.51,
+      "first_seen": "2026-03-05T13:10:00",
+      "last_seen": "2026-08-15T23:36:00"
+    },
+    "Uber": {
+      "transactions": 18,
+      "total_amount": 72500.92,
+      "average_amount": 4027.83,
+      "first_seen": "2026-03-03T13:46:00",
+      "last_seen": "2026-08-28T10:48:00"
+    },
+    "Utility Payment": {
+      "transactions": 10,
+      "total_amount": 38759.09,
+      "average_amount": 3875.91,
+      "first_seen": "2026-03-17T12:20:00",
+      "last_seen": "2026-07-31T20:06:00"
+    },
+    "Zomato": {
+      "transactions": 35,
+      "total_amount": 53884.11,
+      "average_amount": 1539.55,
+      "first_seen": "2026-03-14T14:16:00",
+      "last_seen": "2026-08-30T14:00:00"
+    }
+  },
+  "C014": {
+    "ATM": {
+      "transactions": 22,
+      "total_amount": 219708.97,
+      "average_amount": 9986.77,
+      "first_seen": "2026-03-01T21:41:00",
+      "last_seen": "2026-08-27T19:02:00"
+    },
+    "Amazon": {
+      "transactions": 21,
+      "total_amount": 139014.27,
+      "average_amount": 6619.73,
+      "first_seen": "2026-03-04T21:17:00",
+      "last_seen": "2026-08-09T14:46:00"
+    },
+    "Bank Transfer": {
+      "transactions": 29,
+      "total_amount": 475892.2,
+      "average_amount": 16410.08,
+      "first_seen": "2026-03-03T19:26:00",
+      "last_seen": "2026-08-24T21:18:00"
+    },
+    "Education": {
+      "transactions": 8,
+      "total_amount": 74288.2,
+      "average_amount": 9286.02,
+      "first_seen": "2026-03-13T13:11:00",
+      "last_seen": "2026-08-11T21:12:00"
+    },
+    "Electricity Board": {
+      "transactions": 10,
+      "total_amount": 44567.27,
+      "average_amount": 4456.73,
+      "first_seen": "2026-03-10T18:28:00",
+      "last_seen": "2026-08-16T13:24:00"
+    },
+    "Employer": {
+      "transactions": 6,
+      "total_amount": 635791.46,
+      "average_amount": 105965.24,
+      "first_seen": "2026-03-01T10:32:00",
+      "last_seen": "2026-08-01T11:10:00"
+    },
+    "Flipkart": {
+      "transactions": 36,
+      "total_amount": 243812.63,
+      "average_amount": 6772.57,
+      "first_seen": "2026-03-11T14:32:00",
+      "last_seen": "2026-08-29T13:14:00"
+    },
+    "FreshMart": {
+      "transactions": 23,
+      "total_amount": 70182.07,
+      "average_amount": 3051.39,
+      "first_seen": "2026-03-26T17:54:00",
+      "last_seen": "2026-08-16T18:40:00"
+    },
+    "Fuel Station": {
+      "transactions": 24,
+      "total_amount": 63445.28,
+      "average_amount": 2643.55,
+      "first_seen": "2026-03-01T19:57:00",
+      "last_seen": "2026-08-31T15:41:00"
+    },
+    "Grocery Store": {
+      "transactions": 21,
+      "total_amount": 61528.59,
+      "average_amount": 2929.93,
+      "first_seen": "2026-03-14T23:12:00",
+      "last_seen": "2026-08-31T17:05:00"
+    },
+    "Insurance": {
+      "transactions": 3,
+      "total_amount": 18291.34,
+      "average_amount": 6097.11,
+      "first_seen": "2026-04-23T15:13:00",
+      "last_seen": "2026-05-29T22:45:00"
+    },
+    "Internet Provider": {
+      "transactions": 2,
+      "total_amount": 10769.13,
+      "average_amount": 5384.57,
+      "first_seen": "2026-08-02T17:48:00",
+      "last_seen": "2026-08-21T20:36:00"
+    },
+    "Mobile Provider": {
+      "transactions": 10,
+      "total_amount": 22756.36,
+      "average_amount": 2275.64,
+      "first_seen": "2026-03-11T19:55:00",
+      "last_seen": "2026-08-15T15:16:00"
+    },
+    "Netflix": {
+      "transactions": 10,
+      "total_amount": 6186.43,
+      "average_amount": 618.64,
+      "first_seen": "2026-03-07T12:20:00",
+      "last_seen": "2026-08-11T11:08:00"
+    },
+    "Ola": {
+      "transactions": 16,
+      "total_amount": 69183.73,
+      "average_amount": 4323.98,
+      "first_seen": "2026-03-01T21:29:00",
+      "last_seen": "2026-08-28T10:38:00"
+    },
+    "Rent": {
+      "transactions": 6,
+      "total_amount": 129319.58,
+      "average_amount": 21553.26,
+      "first_seen": "2026-03-03T11:59:00",
+      "last_seen": "2026-08-04T13:41:00"
+    },
+    "Spotify": {
+      "transactions": 10,
+      "total_amount": 4989.2,
+      "average_amount": 498.92,
+      "first_seen": "2026-03-02T13:50:00",
+      "last_seen": "2026-07-28T20:24:00"
+    },
+    "Swiggy": {
+      "transactions": 23,
+      "total_amount": 31575.94,
+      "average_amount": 1372.87,
+      "first_seen": "2026-03-02T14:09:00",
+      "last_seen": "2026-08-26T10:05:00"
+    },
+    "Uber": {
+      "transactions": 17,
+      "total_amount": 70608.1,
+      "average_amount": 4153.42,
+      "first_seen": "2026-03-02T20:38:00",
+      "last_seen": "2026-08-29T20:50:00"
+    },
+    "Utility Payment": {
+      "transactions": 4,
+      "total_amount": 18761.88,
+      "average_amount": 4690.47,
+      "first_seen": "2026-06-12T15:23:00",
+      "last_seen": "2026-07-29T08:25:00"
+    },
+    "Zomato": {
+      "transactions": 22,
+      "total_amount": 33944.73,
+      "average_amount": 1542.94,
+      "first_seen": "2026-03-30T14:51:00",
+      "last_seen": "2026-08-26T16:29:00"
+    }
+  },
+  "C015": {
+    "ATM": {
+      "transactions": 27,
+      "total_amount": 318214.86,
+      "average_amount": 11785.74,
+      "first_seen": "2026-03-08T16:27:00",
+      "last_seen": "2026-08-26T18:35:00"
+    },
+    "Amazon": {
+      "transactions": 57,
+      "total_amount": 451084.05,
+      "average_amount": 7913.76,
+      "first_seen": "2026-03-01T13:28:00",
+      "last_seen": "2026-08-29T09:13:00"
+    },
+    "Bank Transfer": {
+      "transactions": 50,
+      "total_amount": 798809.87,
+      "average_amount": 15976.2,
+      "first_seen": "2026-03-01T12:20:00",
+      "last_seen": "2026-08-25T20:39:00"
+    },
+    "Education": {
+      "transactions": 7,
+      "total_amount": 63825.77,
+      "average_amount": 9117.97,
+      "first_seen": "2026-03-31T17:23:00",
+      "last_seen": "2026-07-20T10:29:00"
+    },
+    "Electricity Board": {
+      "transactions": 16,
+      "total_amount": 104388.13,
+      "average_amount": 6524.26,
+      "first_seen": "2026-03-12T12:03:00",
+      "last_seen": "2026-08-26T22:23:00"
+    },
+    "Employer": {
+      "transactions": 6,
+      "total_amount": 156684.42,
+      "average_amount": 26114.07,
+      "first_seen": "2026-03-01T11:19:00",
+      "last_seen": "2026-08-01T11:05:00"
+    },
+    "Flipkart": {
+      "transactions": 55,
+      "total_amount": 373512.56,
+      "average_amount": 6791.14,
+      "first_seen": "2026-03-02T16:00:00",
+      "last_seen": "2026-08-25T07:46:00"
+    },
+    "FreshMart": {
+      "transactions": 26,
+      "total_amount": 74271.84,
+      "average_amount": 2856.61,
+      "first_seen": "2026-03-07T21:18:00",
+      "last_seen": "2026-08-31T17:34:00"
+    },
+    "Fuel Station": {
+      "transactions": 35,
+      "total_amount": 86246.11,
+      "average_amount": 2464.17,
+      "first_seen": "2026-03-11T20:03:00",
+      "last_seen": "2026-08-29T08:25:00"
+    },
+    "Grocery Store": {
+      "transactions": 42,
+      "total_amount": 104740.45,
+      "average_amount": 2493.82,
+      "first_seen": "2026-03-11T06:44:00",
+      "last_seen": "2026-08-28T18:38:00"
+    },
+    "Insurance": {
+      "transactions": 12,
+      "total_amount": 85078.11,
+      "average_amount": 7089.84,
+      "first_seen": "2026-03-06T12:51:00",
+      "last_seen": "2026-08-17T16:41:00"
+    },
+    "Internet Provider": {
+      "transactions": 4,
+      "total_amount": 12739.47,
+      "average_amount": 3184.87,
+      "first_seen": "2026-04-07T19:11:00",
+      "last_seen": "2026-08-17T09:31:00"
+    },
+    "Mobile Provider": {
+      "transactions": 18,
+      "total_amount": 78536.38,
+      "average_amount": 4363.13,
+      "first_seen": "2026-03-16T09:04:00",
+      "last_seen": "2026-08-26T19:55:00"
+    },
+    "Netflix": {
+      "transactions": 11,
+      "total_amount": 7612.53,
+      "average_amount": 692.05,
+      "first_seen": "2026-03-10T16:51:00",
+      "last_seen": "2026-08-11T17:20:00"
+    },
+    "Ola": {
+      "transactions": 16,
+      "total_amount": 73603.49,
+      "average_amount": 4600.22,
+      "first_seen": "2026-03-04T11:18:00",
+      "last_seen": "2026-08-10T14:37:00"
+    },
+    "Rent": {
+      "transactions": 6,
+      "total_amount": 74677.06,
+      "average_amount": 12446.18,
+      "first_seen": "2026-03-04T13:06:00",
+      "last_seen": "2026-08-02T10:10:00"
+    },
+    "Spotify": {
+      "transactions": 11,
+      "total_amount": 4583.01,
+      "average_amount": 416.64,
+      "first_seen": "2026-04-08T19:35:00",
+      "last_seen": "2026-08-23T11:40:00"
+    },
+    "Swiggy": {
+      "transactions": 52,
+      "total_amount": 82183.39,
+      "average_amount": 1580.45,
+      "first_seen": "2026-03-03T21:49:00",
+      "last_seen": "2026-08-27T21:42:00"
+    },
+    "Uber": {
+      "transactions": 21,
+      "total_amount": 90531.48,
+      "average_amount": 4311.02,
+      "first_seen": "2026-03-03T15:36:00",
+      "last_seen": "2026-08-31T14:13:00"
+    },
+    "Utility Payment": {
+      "transactions": 7,
+      "total_amount": 37764.65,
+      "average_amount": 5394.95,
+      "first_seen": "2026-03-20T20:47:00",
+      "last_seen": "2026-07-26T13:28:00"
+    },
+    "Zomato": {
+      "transactions": 49,
+      "total_amount": 69257.15,
+      "average_amount": 1413.41,
+      "first_seen": "2026-03-02T20:20:00",
+      "last_seen": "2026-08-27T17:57:00"
+    }
+  },
+  "C016": {
+    "ATM": {
+      "transactions": 28,
+      "total_amount": 290190.22,
+      "average_amount": 10363.94,
+      "first_seen": "2026-03-05T09:47:00",
+      "last_seen": "2026-08-31T10:31:00"
+    },
+    "Amazon": {
+      "transactions": 46,
+      "total_amount": 325821.38,
+      "average_amount": 7083.07,
+      "first_seen": "2026-03-05T17:51:00",
+      "last_seen": "2026-08-28T19:39:00"
+    },
+    "Bank Transfer": {
+      "transactions": 42,
+      "total_amount": 622082.35,
+      "average_amount": 14811.48,
+      "first_seen": "2026-03-06T12:10:00",
+      "last_seen": "2026-08-28T18:00:00"
+    },
+    "Education": {
+      "transactions": 8,
+      "total_amount": 74167.84,
+      "average_amount": 9270.98,
+      "first_seen": "2026-03-10T08:05:00",
+      "last_seen": "2026-08-28T10:23:00"
+    },
+    "Electricity Board": {
+      "transactions": 22,
+      "total_amount": 101290.18,
+      "average_amount": 4604.1,
+      "first_seen": "2026-03-07T19:02:00",
+      "last_seen": "2026-08-11T10:18:00"
+    },
+    "Employer": {
+      "transactions": 6,
+      "total_amount": 306858.56,
+      "average_amount": 51143.09,
+      "first_seen": "2026-03-01T10:51:00",
+      "last_seen": "2026-08-01T10:45:00"
+    },
+    "Flipkart": {
+      "transactions": 54,
+      "total_amount": 402543.98,
+      "average_amount": 7454.52,
+      "first_seen": "2026-03-07T18:17:00",
+      "last_seen": "2026-08-24T10:38:00"
+    },
+    "FreshMart": {
+      "transactions": 50,
+      "total_amount": 138102.66,
+      "average_amount": 2762.05,
+      "first_seen": "2026-03-05T13:14:00",
+      "last_seen": "2026-08-20T12:07:00"
+    },
+    "Fuel Station": {
+      "transactions": 38,
+      "total_amount": 93612.54,
+      "average_amount": 2463.49,
+      "first_seen": "2026-03-04T13:21:00",
+      "last_seen": "2026-08-31T19:13:00"
+    },
+    "Grocery Store": {
+      "transactions": 37,
+      "total_amount": 92707.61,
+      "average_amount": 2505.61,
+      "first_seen": "2026-03-07T11:19:00",
+      "last_seen": "2026-08-23T16:10:00"
+    },
+    "Insurance": {
+      "transactions": 6,
+      "total_amount": 41004.64,
+      "average_amount": 6834.11,
+      "first_seen": "2026-03-30T18:23:00",
+      "last_seen": "2026-08-13T11:26:00"
+    },
+    "Internet Provider": {
+      "transactions": 8,
+      "total_amount": 28102.6,
+      "average_amount": 3512.82,
+      "first_seen": "2026-03-16T18:59:00",
+      "last_seen": "2026-08-10T17:37:00"
+    },
+    "Mobile Provider": {
+      "transactions": 15,
+      "total_amount": 58944.7,
+      "average_amount": 3929.65,
+      "first_seen": "2026-03-11T09:25:00",
+      "last_seen": "2026-08-18T17:25:00"
+    },
+    "Netflix": {
+      "transactions": 9,
+      "total_amount": 5820.65,
+      "average_amount": 646.74,
+      "first_seen": "2026-03-08T17:04:00",
+      "last_seen": "2026-08-10T18:40:00"
+    },
+    "Ola": {
+      "transactions": 22,
+      "total_amount": 96616.55,
+      "average_amount": 4391.66,
+      "first_seen": "2026-03-02T07:03:00",
+      "last_seen": "2026-08-31T09:20:00"
+    },
+    "Rent": {
+      "transactions": 6,
+      "total_amount": 97932.55,
+      "average_amount": 16322.09,
+      "first_seen": "2026-03-04T14:46:00",
+      "last_seen": "2026-08-04T14:29:00"
+    },
+    "Spotify": {
+      "transactions": 12,
+      "total_amount": 5916.9,
+      "average_amount": 493.08,
+      "first_seen": "2026-03-13T17:22:00",
+      "last_seen": "2026-08-10T17:44:00"
+    },
+    "Swiggy": {
+      "transactions": 41,
+      "total_amount": 68647.58,
+      "average_amount": 1674.33,
+      "first_seen": "2026-03-02T20:10:00",
+      "last_seen": "2026-08-30T16:22:00"
+    },
+    "Uber": {
+      "transactions": 23,
+      "total_amount": 82157.99,
+      "average_amount": 3572.09,
+      "first_seen": "2026-03-01T18:16:00",
+      "last_seen": "2026-08-26T11:40:00"
+    },
+    "Utility Payment": {
+      "transactions": 6,
+      "total_amount": 25930.58,
+      "average_amount": 4321.76,
+      "first_seen": "2026-03-26T13:31:00",
+      "last_seen": "2026-08-22T16:36:00"
+    },
+    "Zomato": {
+      "transactions": 39,
+      "total_amount": 65138.02,
+      "average_amount": 1670.21,
+      "first_seen": "2026-03-07T14:47:00",
+      "last_seen": "2026-08-31T23:22:00"
+    }
+  },
+  "C017": {
+    "ATM": {
+      "transactions": 27,
+      "total_amount": 279543.42,
+      "average_amount": 10353.46,
+      "first_seen": "2026-03-11T15:40:00",
+      "last_seen": "2026-08-22T08:37:00"
+    },
+    "Amazon": {
+      "transactions": 54,
+      "total_amount": 393770.67,
+      "average_amount": 7292.05,
+      "first_seen": "2026-03-04T13:43:00",
+      "last_seen": "2026-08-31T22:35:00"
+    },
+    "Bank Transfer": {
+      "transactions": 52,
+      "total_amount": 734704.58,
+      "average_amount": 14128.93,
+      "first_seen": "2026-03-01T19:46:00",
+      "last_seen": "2026-08-27T15:48:00"
+    },
+    "Education": {
+      "transactions": 4,
+      "total_amount": 27301.76,
+      "average_amount": 6825.44,
+      "first_seen": "2026-04-01T13:09:00",
+      "last_seen": "2026-06-05T15:17:00"
+    },
+    "Electricity Board": {
+      "transactions": 16,
+      "total_amount": 72707.92,
+      "average_amount": 4544.24,
+      "first_seen": "2026-03-06T11:29:00",
+      "last_seen": "2026-08-16T12:24:00"
+    },
+    "Employer": {
+      "transactions": 6,
+      "total_amount": 529702.98,
+      "average_amount": 88283.83,
+      "first_seen": "2026-03-01T11:50:00",
+      "last_seen": "2026-08-01T10:35:00"
+    },
+    "Flipkart": {
+      "transactions": 48,
+      "total_amount": 339735.49,
+      "average_amount": 7077.82,
+      "first_seen": "2026-03-06T12:43:00",
+      "last_seen": "2026-08-31T23:53:00"
+    },
+    "FreshMart": {
+      "transactions": 40,
+      "total_amount": 93479.14,
+      "average_amount": 2336.98,
+      "first_seen": "2026-03-08T13:49:00",
+      "last_seen": "2026-08-30T20:19:00"
+    },
+    "Fuel Station": {
+      "transactions": 34,
+      "total_amount": 86207.84,
+      "average_amount": 2535.52,
+      "first_seen": "2026-03-04T11:22:00",
+      "last_seen": "2026-08-30T20:25:00"
+    },
+    "Grocery Store": {
+      "transactions": 32,
+      "total_amount": 96105.68,
+      "average_amount": 3003.3,
+      "first_seen": "2026-03-03T08:39:00",
+      "last_seen": "2026-08-29T15:56:00"
+    },
+    "Insurance": {
+      "transactions": 7,
+      "total_amount": 53168.99,
+      "average_amount": 7595.57,
+      "first_seen": "2026-03-19T21:32:00",
+      "last_seen": "2026-08-30T16:07:00"
+    },
+    "Internet Provider": {
+      "transactions": 6,
+      "total_amount": 22432.95,
+      "average_amount": 3738.82,
+      "first_seen": "2026-04-05T19:44:00",
+      "last_seen": "2026-08-17T14:50:00"
+    },
+    "Mobile Provider": {
+      "transactions": 23,
+      "total_amount": 96924.77,
+      "average_amount": 4214.12,
+      "first_seen": "2026-03-11T17:23:00",
+      "last_seen": "2026-08-31T13:47:00"
+    },
+    "Netflix": {
+      "transactions": 16,
+      "total_amount": 9009.57,
+      "average_amount": 563.1,
+      "first_seen": "2026-03-05T18:41:00",
+      "last_seen": "2026-08-21T15:53:00"
+    },
+    "Ola": {
+      "transactions": 27,
+      "total_amount": 105269.72,
+      "average_amount": 3898.88,
+      "first_seen": "2026-03-04T20:35:00",
+      "last_seen": "2026-08-30T17:59:00"
+    },
+    "Rent": {
+      "transactions": 6,
+      "total_amount": 79268.06,
+      "average_amount": 13211.34,
+      "first_seen": "2026-03-02T11:33:00",
+      "last_seen": "2026-08-02T14:42:00"
+    },
+    "Spotify": {
+      "transactions": 11,
+      "total_amount": 3628.36,
+      "average_amount": 329.85,
+      "first_seen": "2026-03-08T10:43:00",
+      "last_seen": "2026-08-23T18:13:00"
+    },
+    "Swiggy": {
+      "transactions": 43,
+      "total_amount": 63471.29,
+      "average_amount": 1476.08,
+      "first_seen": "2026-03-05T12:21:00",
+      "last_seen": "2026-08-28T16:02:00"
+    },
+    "Uber": {
+      "transactions": 20,
+      "total_amount": 93591.54,
+      "average_amount": 4679.58,
+      "first_seen": "2026-03-07T09:31:00",
+      "last_seen": "2026-08-20T16:08:00"
+    },
+    "Utility Payment": {
+      "transactions": 6,
+      "total_amount": 26967.05,
+      "average_amount": 4494.51,
+      "first_seen": "2026-03-02T23:17:00",
+      "last_seen": "2026-08-21T06:36:00"
+    },
+    "Zomato": {
+      "transactions": 51,
+      "total_amount": 79072.91,
+      "average_amount": 1550.45,
+      "first_seen": "2026-03-03T11:24:00",
+      "last_seen": "2026-08-30T22:27:00"
+    }
+  },
+  "C018": {
+    "ATM": {
+      "transactions": 26,
+      "total_amount": 267376.59,
+      "average_amount": 10283.72,
+      "first_seen": "2026-03-08T13:03:00",
+      "last_seen": "2026-08-20T15:36:00"
+    },
+    "Amazon": {
+      "transactions": 40,
+      "total_amount": 333388.28,
+      "average_amount": 8334.71,
+      "first_seen": "2026-03-01T17:43:00",
+      "last_seen": "2026-08-29T19:20:00"
+    },
+    "Bank Transfer": {
+      "transactions": 30,
+      "total_amount": 491685.6,
+      "average_amount": 16389.52,
+      "first_seen": "2026-03-02T23:30:00",
+      "last_seen": "2026-08-31T21:05:00"
+    },
+    "Education": {
+      "transactions": 9,
+      "total_amount": 82255.57,
+      "average_amount": 9139.51,
+      "first_seen": "2026-03-13T06:35:00",
+      "last_seen": "2026-08-21T14:15:00"
+    },
+    "Electricity Board": {
+      "transactions": 14,
+      "total_amount": 65489.06,
+      "average_amount": 4677.79,
+      "first_seen": "2026-03-06T22:39:00",
+      "last_seen": "2026-08-18T18:41:00"
+    },
+    "Employer": {
+      "transactions": 6,
+      "total_amount": 106938.27,
+      "average_amount": 17823.05,
+      "first_seen": "2026-03-01T11:13:00",
+      "last_seen": "2026-08-01T10:05:00"
+    },
+    "Flipkart": {
+      "transactions": 39,
+      "total_amount": 274300.46,
+      "average_amount": 7033.35,
+      "first_seen": "2026-03-01T17:51:00",
+      "last_seen": "2026-08-31T16:46:00"
+    },
+    "FreshMart": {
+      "transactions": 31,
+      "total_amount": 94263.37,
+      "average_amount": 3040.75,
+      "first_seen": "2026-03-10T14:27:00",
+      "last_seen": "2026-08-25T11:47:00"
+    },
+    "Fuel Station": {
+      "transactions": 29,
+      "total_amount": 75760.86,
+      "average_amount": 2612.44,
+      "first_seen": "2026-03-02T19:44:00",
+      "last_seen": "2026-08-30T18:56:00"
+    },
+    "Grocery Store": {
+      "transactions": 38,
+      "total_amount": 106829.43,
+      "average_amount": 2811.3,
+      "first_seen": "2026-03-10T12:55:00",
+      "last_seen": "2026-08-29T12:59:00"
+    },
+    "Insurance": {
+      "transactions": 4,
+      "total_amount": 34182.91,
+      "average_amount": 8545.73,
+      "first_seen": "2026-03-29T14:35:00",
+      "last_seen": "2026-08-13T06:50:00"
+    },
+    "Internet Provider": {
+      "transactions": 3,
+      "total_amount": 13842.82,
+      "average_amount": 4614.27,
+      "first_seen": "2026-06-12T21:40:00",
+      "last_seen": "2026-08-27T15:14:00"
+    },
+    "Mobile Provider": {
+      "transactions": 17,
+      "total_amount": 56176.62,
+      "average_amount": 3304.51,
+      "first_seen": "2026-03-03T15:12:00",
+      "last_seen": "2026-08-25T14:08:00"
+    },
+    "Netflix": {
+      "transactions": 10,
+      "total_amount": 6717.06,
+      "average_amount": 671.71,
+      "first_seen": "2026-03-06T16:48:00",
+      "last_seen": "2026-08-05T14:22:00"
+    },
+    "Ola": {
+      "transactions": 18,
+      "total_amount": 73064.58,
+      "average_amount": 4059.14,
+      "first_seen": "2026-03-10T18:19:00",
+      "last_seen": "2026-08-31T21:39:00"
+    },
+    "Rent": {
+      "transactions": 6,
+      "total_amount": 37469.45,
+      "average_amount": 6244.91,
+      "first_seen": "2026-03-04T10:13:00",
+      "last_seen": "2026-08-03T11:09:00"
+    },
+    "Spotify": {
+      "transactions": 14,
+      "total_amount": 5593.62,
+      "average_amount": 399.54,
+      "first_seen": "2026-03-13T10:29:00",
+      "last_seen": "2026-08-07T18:43:00"
+    },
+    "Swiggy": {
+      "transactions": 25,
+      "total_amount": 38649.79,
+      "average_amount": 1545.99,
+      "first_seen": "2026-03-02T19:36:00",
+      "last_seen": "2026-08-27T10:47:00"
+    },
+    "Uber": {
+      "transactions": 20,
+      "total_amount": 80130.94,
+      "average_amount": 4006.55,
+      "first_seen": "2026-03-03T14:39:00",
+      "last_seen": "2026-08-08T19:53:00"
+    },
+    "Utility Payment": {
+      "transactions": 5,
+      "total_amount": 15949.96,
+      "average_amount": 3189.99,
+      "first_seen": "2026-03-23T20:22:00",
+      "last_seen": "2026-07-31T21:23:00"
+    },
+    "Zomato": {
+      "transactions": 34,
+      "total_amount": 56916.09,
+      "average_amount": 1674.0,
+      "first_seen": "2026-03-02T06:40:00",
+      "last_seen": "2026-08-28T21:32:00"
+    }
+  },
+  "C019": {
+    "ATM": {
+      "transactions": 16,
+      "total_amount": 187659.52,
+      "average_amount": 11728.72,
+      "first_seen": "2026-03-09T08:52:00",
+      "last_seen": "2026-08-16T09:24:00"
+    },
+    "Amazon": {
+      "transactions": 26,
+      "total_amount": 159059.94,
+      "average_amount": 6117.69,
+      "first_seen": "2026-03-08T16:23:00",
+      "last_seen": "2026-08-28T20:53:00"
+    },
+    "Bank Transfer": {
+      "transactions": 26,
+      "total_amount": 374026.1,
+      "average_amount": 14385.62,
+      "first_seen": "2026-03-12T19:55:00",
+      "last_seen": "2026-08-27T18:47:00"
+    },
+    "Education": {
+      "transactions": 7,
+      "total_amount": 53490.83,
+      "average_amount": 7641.55,
+      "first_seen": "2026-04-03T21:02:00",
+      "last_seen": "2026-07-24T15:17:00"
+    },
+    "Electricity Board": {
+      "transactions": 10,
+      "total_amount": 49880.21,
+      "average_amount": 4988.02,
+      "first_seen": "2026-03-10T15:11:00",
+      "last_seen": "2026-08-17T14:43:00"
+    },
+    "Employer": {
+      "transactions": 6,
+      "total_amount": 508102.82,
+      "average_amount": 84683.8,
+      "first_seen": "2026-03-01T09:03:00",
+      "last_seen": "2026-08-01T10:01:00"
+    },
+    "Flipkart": {
+      "transactions": 25,
+      "total_amount": 195698.88,
+      "average_amount": 7827.96,
+      "first_seen": "2026-03-06T11:39:00",
+      "last_seen": "2026-08-18T12:08:00"
+    },
+    "FreshMart": {
+      "transactions": 21,
+      "total_amount": 51900.26,
+      "average_amount": 2471.44,
+      "first_seen": "2026-03-04T18:37:00",
+      "last_seen": "2026-08-03T10:55:00"
+    },
+    "Fuel Station": {
+      "transactions": 30,
+      "total_amount": 80440.59,
+      "average_amount": 2681.35,
+      "first_seen": "2026-03-04T07:29:00",
+      "last_seen": "2026-08-30T09:18:00"
+    },
+    "Grocery Store": {
+      "transactions": 23,
+      "total_amount": 56704.97,
+      "average_amount": 2465.43,
+      "first_seen": "2026-03-01T19:50:00",
+      "last_seen": "2026-08-26T10:35:00"
+    },
+    "Insurance": {
+      "transactions": 4,
+      "total_amount": 27194.86,
+      "average_amount": 6798.72,
+      "first_seen": "2026-03-18T14:18:00",
+      "last_seen": "2026-08-09T07:23:00"
+    },
+    "Internet Provider": {
+      "transactions": 8,
+      "total_amount": 29179.85,
+      "average_amount": 3647.48,
+      "first_seen": "2026-03-06T11:08:00",
+      "last_seen": "2026-08-30T10:57:00"
+    },
+    "Mobile Provider": {
+      "transactions": 19,
+      "total_amount": 51915.82,
+      "average_amount": 2732.41,
+      "first_seen": "2026-03-05T10:16:00",
+      "last_seen": "2026-08-20T10:17:00"
+    },
+    "Netflix": {
+      "transactions": 12,
+      "total_amount": 7187.56,
+      "average_amount": 598.96,
+      "first_seen": "2026-03-07T13:52:00",
+      "last_seen": "2026-08-31T11:30:00"
+    },
+    "Ola": {
+      "transactions": 17,
+      "total_amount": 68262.77,
+      "average_amount": 4015.46,
+      "first_seen": "2026-03-04T06:20:00",
+      "last_seen": "2026-08-31T09:16:00"
+    },
+    "Rent": {
+      "transactions": 6,
+      "total_amount": 201477.54,
+      "average_amount": 33579.59,
+      "first_seen": "2026-03-02T13:47:00",
+      "last_seen": "2026-08-04T13:27:00"
+    },
+    "Spotify": {
+      "transactions": 7,
+      "total_amount": 1774.96,
+      "average_amount": 253.57,
+      "first_seen": "2026-03-08T15:51:00",
+      "last_seen": "2026-08-05T19:31:00"
+    },
+    "Swiggy": {
+      "transactions": 20,
+      "total_amount": 32339.51,
+      "average_amount": 1616.98,
+      "first_seen": "2026-03-18T04:34:00",
+      "last_seen": "2026-08-23T13:27:00"
+    },
+    "Uber": {
+      "transactions": 17,
+      "total_amount": 99407.68,
+      "average_amount": 5847.51,
+      "first_seen": "2026-03-05T21:41:00",
+      "last_seen": "2026-08-21T22:21:00"
+    },
+    "Utility Payment": {
+      "transactions": 6,
+      "total_amount": 33894.28,
+      "average_amount": 5649.05,
+      "first_seen": "2026-04-09T16:26:00",
+      "last_seen": "2026-08-21T20:42:00"
+    },
+    "Zomato": {
+      "transactions": 30,
+      "total_amount": 46766.7,
+      "average_amount": 1558.89,
+      "first_seen": "2026-03-05T10:49:00",
+      "last_seen": "2026-08-31T10:12:00"
+    }
+  },
+  "C020": {
+    "ATM": {
+      "transactions": 24,
+      "total_amount": 285144.33,
+      "average_amount": 11881.01,
+      "first_seen": "2026-03-10T13:38:00",
+      "last_seen": "2026-08-28T19:19:00"
+    },
+    "Amazon": {
+      "transactions": 35,
+      "total_amount": 278108.42,
+      "average_amount": 7945.95,
+      "first_seen": "2026-03-07T09:46:00",
+      "last_seen": "2026-08-22T21:48:00"
+    },
+    "Bank Transfer": {
+      "transactions": 49,
+      "total_amount": 671496.87,
+      "average_amount": 13704.02,
+      "first_seen": "2026-03-01T14:39:00",
+      "last_seen": "2026-08-28T20:03:00"
+    },
+    "Education": {
+      "transactions": 5,
+      "total_amount": 46804.86,
+      "average_amount": 9360.97,
+      "first_seen": "2026-03-11T13:56:00",
+      "last_seen": "2026-08-09T09:44:00"
+    },
+    "Electricity Board": {
+      "transactions": 20,
+      "total_amount": 91990.07,
+      "average_amount": 4599.5,
+      "first_seen": "2026-03-17T12:22:00",
+      "last_seen": "2026-08-31T16:33:00"
+    },
+    "Employer": {
+      "transactions": 6,
+      "total_amount": 333431.7,
+      "average_amount": 55571.95,
+      "first_seen": "2026-03-01T11:59:00",
+      "last_seen": "2026-08-01T10:44:00"
+    },
+    "Flipkart": {
+      "transactions": 44,
+      "total_amount": 274821.61,
+      "average_amount": 6245.95,
+      "first_seen": "2026-03-07T19:28:00",
+      "last_seen": "2026-08-31T18:05:00"
+    },
+    "FreshMart": {
+      "transactions": 29,
+      "total_amount": 93628.29,
+      "average_amount": 3228.56,
+      "first_seen": "2026-03-06T12:47:00",
+      "last_seen": "2026-08-18T21:02:00"
+    },
+    "Fuel Station": {
+      "transactions": 32,
+      "total_amount": 88935.14,
+      "average_amount": 2779.22,
+      "first_seen": "2026-03-01T15:32:00",
+      "last_seen": "2026-08-21T18:12:00"
+    },
+    "Grocery Store": {
+      "transactions": 25,
+      "total_amount": 71604.07,
+      "average_amount": 2864.16,
+      "first_seen": "2026-03-06T19:20:00",
+      "last_seen": "2026-08-21T14:38:00"
+    },
+    "Insurance": {
+      "transactions": 8,
+      "total_amount": 62763.71,
+      "average_amount": 7845.46,
+      "first_seen": "2026-04-24T09:49:00",
+      "last_seen": "2026-08-31T09:42:00"
+    },
+    "Internet Provider": {
+      "transactions": 7,
+      "total_amount": 28352.06,
+      "average_amount": 4050.29,
+      "first_seen": "2026-03-20T22:38:00",
+      "last_seen": "2026-08-31T17:12:00"
+    },
+    "Mobile Provider": {
+      "transactions": 23,
+      "total_amount": 117213.17,
+      "average_amount": 5096.22,
+      "first_seen": "2026-03-06T10:36:00",
+      "last_seen": "2026-08-13T10:39:00"
+    },
+    "Netflix": {
+      "transactions": 14,
+      "total_amount": 7111.46,
+      "average_amount": 507.96,
+      "first_seen": "2026-03-05T15:47:00",
+      "last_seen": "2026-08-30T17:24:00"
+    },
+    "Ola": {
+      "transactions": 21,
+      "total_amount": 90690.5,
+      "average_amount": 4318.6,
+      "first_seen": "2026-03-08T13:55:00",
+      "last_seen": "2026-08-20T10:28:00"
+    },
+    "Rent": {
+      "transactions": 6,
+      "total_amount": 110903.84,
+      "average_amount": 18483.97,
+      "first_seen": "2026-03-03T12:03:00",
+      "last_seen": "2026-08-02T10:32:00"
+    },
+    "Spotify": {
+      "transactions": 13,
+      "total_amount": 7875.86,
+      "average_amount": 605.84,
+      "first_seen": "2026-03-09T10:18:00",
+      "last_seen": "2026-08-26T08:01:00"
+    },
+    "Swiggy": {
+      "transactions": 39,
+      "total_amount": 55348.9,
+      "average_amount": 1419.2,
+      "first_seen": "2026-03-02T13:39:00",
+      "last_seen": "2026-08-19T05:35:00"
+    },
+    "Uber": {
+      "transactions": 17,
+      "total_amount": 63546.64,
+      "average_amount": 3738.04,
+      "first_seen": "2026-03-21T20:58:00",
+      "last_seen": "2026-08-25T19:28:00"
+    },
+    "Utility Payment": {
+      "transactions": 5,
+      "total_amount": 16403.93,
+      "average_amount": 3280.79,
+      "first_seen": "2026-04-09T15:53:00",
+      "last_seen": "2026-08-10T10:43:00"
+    },
+    "Zomato": {
+      "transactions": 43,
+      "total_amount": 64619.8,
+      "average_amount": 1502.79,
+      "first_seen": "2026-03-06T18:07:00",
+      "last_seen": "2026-08-27T11:59:00"
+    }
+  }
+}

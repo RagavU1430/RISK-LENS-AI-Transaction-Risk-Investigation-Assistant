@@ -1,0 +1,21 @@
+customer_id,customer_name,customer_type,primary_channel,typical_monthly_transactions,typical_monthly_amount
+C001,Aarav Mehta,professional,UPI,83,38283.9
+C002,Diya Sharma,salaried,UPI,71,76542.34
+C003,Kabir Singh,business_owner,CARD,81,75630.22
+C004,Ananya Iyer,professional,BANK_TRANSFER,61,43739.66
+C005,Vikram Rao,salaried,UPI,85,64750.56
+C006,Priya Nair,freelancer,UPI,80,90954.76
+C007,Arjun Patel,business_owner,UPI,76,86428.3
+C008,Sneha Kulkarni,professional,CARD,70,63477.38
+C009,Rohan Gupta,salaried,BANK_TRANSFER,56,97547.77
+C010,Ishita Verma,student,UPI,80,16642.81
+C011,Aditya Joshi,professional,UPI,91,69457.94
+C012,Kavya Reddy,freelancer,UPI,75,104146.97
+C013,Nikhil Menon,salaried,CARD,71,73285.25
+C014,Pooja Desai,business_owner,BANK_TRANSFER,54,98508.67
+C015,Suresh Kumar,retiree,UPI,88,26698.73
+C016,Meera Pillai,professional,UPI,87,58992.23
+C017,Rahul Chopra,salaried,UPI,88,83523.37
+C018,Tanvi Bose,student,CARD,69,16982.31
+C019,Karan Malhotra,business_owner,BANK_TRANSFER,56,86338.9
+C020,Divya Krishnan,professional,UPI,78,61217.73

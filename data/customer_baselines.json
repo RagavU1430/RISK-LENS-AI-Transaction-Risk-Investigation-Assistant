@@ -1,0 +1,3762 @@
+{
+  "C001": {
+    "total_transactions": 501,
+    "total_amount": 2895429.35,
+    "average_amount": 5779.3,
+    "median_amount": 3301.93,
+    "minimum_amount": 160.11,
+    "maximum_amount": 42108.6,
+    "standard_deviation": 6726.82,
+    "typical_transaction_count_per_day": 2.913,
+    "average_daily_amount": 16833.89,
+    "median_transactions_per_day": 3.0,
+    "max_transactions_per_day": 8,
+    "min_transactions_per_day": 1,
+    "median_daily_spend": 13194.52,
+    "most_common_payees": [
+      [
+        "Flipkart",
+        55
+      ],
+      [
+        "FreshMart",
+        43
+      ],
+      [
+        "Fuel Station",
+        42
+      ],
+      [
+        "Amazon",
+        40
+      ],
+      [
+        "Bank Transfer",
+        38
+      ],
+      [
+        "Zomato",
+        37
+      ],
+      [
+        "Grocery Store",
+        36
+      ],
+      [
+        "ATM",
+        36
+      ],
+      [
+        "Uber",
+        29
+      ],
+      [
+        "Electricity Board",
+        28
+      ]
+    ],
+    "most_common_channels": [
+      [
+        "UPI",
+        292
+      ],
+      [
+        "CARD",
+        94
+      ],
+      [
+        "BANK_TRANSFER",
+        68
+      ],
+      [
+        "ATM",
+        36
+      ],
+      [
+        "NET_BANKING",
+        11
+      ]
+    ],
+    "most_common_transaction_types": [
+      [
+        "PURCHASE",
+        82
+      ],
+      [
+        "GROCERY",
+        79
+      ],
+      [
+        "DINING",
+        62
+      ],
+      [
+        "TRAVEL",
+        48
+      ],
+      [
+        "UTILITY",
+        44
+      ],
+      [
+        "FUEL",
+        42
+      ],
+      [
+        "TRANSFER",
+        38
+      ],
+      [
+        "WITHDRAWAL",
+        36
+      ],
+      [
+        "SUBSCRIPTION",
+        24
+      ],
+      [
+        "BILL_PAYMENT",
+        21
+      ],
+      [
+        "REFUND",
+        13
+      ],
+      [
+        "SALARY",
+        6
+      ],
+      [
+        "RENT",
+        6
+      ]
+    ],
+    "channel_baseline": {
+      "UPI": {
+        "count": 292,
+        "percentage": 58.28,
+        "total_amount": 1319813.21
+      },
+      "BANK_TRANSFER": {
+        "count": 68,
+        "percentage": 13.57,
+        "total_amount": 578095.42
+      },
+      "NET_BANKING": {
+        "count": 11,
+        "percentage": 2.2,
+        "total_amount": 154107.91
+      },
+      "CARD": {
+        "count": 94,
+        "percentage": 18.76,
+        "total_amount": 399753.38
+      },
+      "ATM": {
+        "count": 36,
+        "percentage": 7.19,
+        "total_amount": 443659.43
+      }
+    },
+    "typical_transaction_hour": 11,
+    "median_transaction_hour": 15,
+    "time_distribution": {
+      "06:00-10:00": 14.57,
+      "10:00-14:00": 27.74,
+      "14:00-18:00": 22.16,
+      "18:00-22:00": 29.14,
+      "22:00-06:00": 6.39
+    },
+    "weekday_transaction_count": 352,
+    "weekend_transaction_count": 149,
+    "monthly_transaction_count": {
+      "2026-03": 83,
+      "2026-04": 80,
+      "2026-05": 86,
+      "2026-06": 82,
+      "2026-07": 86,
+      "2026-08": 84
+    },
+    "monthly_total_amount": {
+      "2026-03": 506238.34,
+      "2026-04": 440570.06,
+      "2026-05": 564733.94,
+      "2026-06": 464392.02,
+      "2026-07": 466167.57,
+      "2026-08": 453327.42
+    },
+    "active_days": 172
+  },
+  "C002": {
+    "total_transactions": 420,
+    "total_amount": 2900139.9,
+    "average_amount": 6905.09,
+    "median_amount": 3433.81,
+    "minimum_amount": 152.69,
+    "maximum_amount": 89711.97,
+    "standard_deviation": 11423.25,
+    "typical_transaction_count_per_day": 2.5,
+    "average_daily_amount": 17262.74,
+    "median_transactions_per_day": 2.0,
+    "max_transactions_per_day": 7,
+    "min_transactions_per_day": 1,
+    "median_daily_spend": 11628.3,
+    "most_common_payees": [
+      [
+        "Amazon",
+        47
+      ],
+      [
+        "Bank Transfer",
+        42
+      ],
+      [
+        "Swiggy",
+        37
+      ],
+      [
+        "FreshMart",
+        36
+      ],
+      [
+        "Flipkart",
+        34
+      ],
+      [
+        "Zomato",
+        32
+      ],
+      [
+        "Fuel Station",
+        32
+      ],
+      [
+        "Grocery Store",
+        30
+      ],
+      [
+        "Ola",
+        20
+      ],
+      [
+        "ATM",
+        18
+      ]
+    ],
+    "most_common_channels": [
+      [
+        "UPI",
+        151
+      ],
+      [
+        "BANK_TRANSFER",
+        127
+      ],
+      [
+        "CARD",
+        72
+      ],
+      [
+        "NET_BANKING",
+        52
+      ],
+      [
+        "ATM",
+        18
+      ]
+    ],
+    "most_common_transaction_types": [
+      [
+        "PURCHASE",
+        74
+      ],
+      [
+        "DINING",
+        69
+      ],
+      [
+        "GROCERY",
+        66
+      ],
+      [
+        "TRANSFER",
+        42
+      ],
+      [
+        "FUEL",
+        32
+      ],
+      [
+        "TRAVEL",
+        32
+      ],
+      [
+        "UTILITY",
+        27
+      ],
+      [
+        "SUBSCRIPTION",
+        23
+      ],
+      [
+        "BILL_PAYMENT",
+        18
+      ],
+      [
+        "WITHDRAWAL",
+        18
+      ],
+      [
+        "REFUND",
+        7
+      ],
+      [
+        "SALARY",
+        6
+      ],
+      [
+        "RENT",
+        6
+      ]
+    ],
+    "channel_baseline": {
+      "BANK_TRANSFER": {
+        "count": 127,
+        "percentage": 30.24,
+        "total_amount": 1300871.14
+      },
+      "UPI": {
+        "count": 151,
+        "percentage": 35.95,
+        "total_amount": 757422.07
+      },
+      "CARD": {
+        "count": 72,
+        "percentage": 17.14,
+        "total_amount": 283883.04
+      },
+      "NET_BANKING": {
+        "count": 52,
+        "percentage": 12.38,
+        "total_amount": 343026.34
+      },
+      "ATM": {
+        "count": 18,
+        "percentage": 4.29,
+        "total_amount": 214937.31
+      }
+    },
+    "typical_transaction_hour": 19,
+    "median_transaction_hour": 15,
+    "time_distribution": {
+      "06:00-10:00": 10.71,
+      "10:00-14:00": 28.57,
+      "14:00-18:00": 28.33,
+      "18:00-22:00": 27.86,
+      "22:00-06:00": 4.52
+    },
+    "weekday_transaction_count": 290,
+    "weekend_transaction_count": 130,
+    "monthly_transaction_count": {
+      "2026-03": 70,
+      "2026-04": 70,
+      "2026-05": 68,
+      "2026-06": 73,
+      "2026-07": 72,
+      "2026-08": 67
+    },
+    "monthly_total_amount": {
+      "2026-03": 501721.97,
+      "2026-04": 468454.94,
+      "2026-05": 533781.86,
+      "2026-06": 437234.61,
+      "2026-07": 550825.88,
+      "2026-08": 408120.64
+    },
+    "active_days": 168
+  },
+  "C003": {
+    "total_transactions": 483,
+    "total_amount": 3141686.34,
+    "average_amount": 6504.53,
+    "median_amount": 3471.03,
+    "minimum_amount": 149.85,
+    "maximum_amount": 83906.02,
+    "standard_deviation": 10327.53,
+    "typical_transaction_count_per_day": 2.776,
+    "average_daily_amount": 18055.67,
+    "median_transactions_per_day": 3.0,
+    "max_transactions_per_day": 8,
+    "min_transactions_per_day": 1,
+    "median_daily_spend": 12198.8,
+    "most_common_payees": [
+      [
+        "Bank Transfer",
+        58
+      ],
+      [
+        "Flipkart",
+        49
+      ],
+      [
+        "Amazon",
+        44
+      ],
+      [
+        "Zomato",
+        42
+      ],
+      [
+        "FreshMart",
+        34
+      ],
+      [
+        "Grocery Store",
+        30
+      ],
+      [
+        "Swiggy",
+        29
+      ],
+      [
+        "Fuel Station",
+        28
+      ],
+      [
+        "Uber",
+        26
+      ],
+      [
+        "Ola",
+        24
+      ]
+    ],
+    "most_common_channels": [
+      [
+        "CARD",
+        247
+      ],
+      [
+        "BANK_TRANSFER",
+        119
+      ],
+      [
+        "UPI",
+        86
+      ],
+      [
+        "ATM",
+        23
+      ],
+      [
+        "NET_BANKING",
+        8
+      ]
+    ],
+    "most_common_transaction_types": [
+      [
+        "PURCHASE",
+        78
+      ],
+      [
+        "DINING",
+        71
+      ],
+      [
+        "GROCERY",
+        64
+      ],
+      [
+        "TRANSFER",
+        58
+      ],
+      [
+        "TRAVEL",
+        50
+      ],
+      [
+        "UTILITY",
+        35
+      ],
+      [
+        "SUBSCRIPTION",
+        30
+      ],
+      [
+        "FUEL",
+        28
+      ],
+      [
+        "WITHDRAWAL",
+        23
+      ],
+      [
+        "BILL_PAYMENT",
+        19
+      ],
+      [
+        "REFUND",
+        15
+      ],
+      [
+        "SALARY",
+        6
+      ],
+      [
+        "RENT",
+        6
+      ]
+    ],
+    "channel_baseline": {
+      "BANK_TRANSFER": {
+        "count": 119,
+        "percentage": 24.64,
+        "total_amount": 1309961.37
+      },
+      "CARD": {
+        "count": 247,
+        "percentage": 51.14,
+        "total_amount": 1043206.43
+      },
+      "UPI": {
+        "count": 86,
+        "percentage": 17.81,
+        "total_amount": 429982.51
+      },
+      "ATM": {
+        "count": 23,
+        "percentage": 4.76,
+        "total_amount": 236641.65
+      },
+      "NET_BANKING": {
+        "count": 8,
+        "percentage": 1.66,
+        "total_amount": 121894.38
+      }
+    },
+    "typical_transaction_hour": 19,
+    "median_transaction_hour": 15,
+    "time_distribution": {
+      "06:00-10:00": 15.11,
+      "10:00-14:00": 26.29,
+      "14:00-18:00": 23.6,
+      "18:00-22:00": 26.29,
+      "22:00-06:00": 8.7
+    },
+    "weekday_transaction_count": 354,
+    "weekend_transaction_count": 129,
+    "monthly_transaction_count": {
+      "2026-03": 81,
+      "2026-04": 83,
+      "2026-05": 78,
+      "2026-06": 81,
+      "2026-07": 80,
+      "2026-08": 80
+    },
+    "monthly_total_amount": {
+      "2026-03": 529476.7,
+      "2026-04": 532422.71,
+      "2026-05": 463285.2,
+      "2026-06": 576037.48,
+      "2026-07": 503115.31,
+      "2026-08": 537348.94
+    },
+    "active_days": 174
+  },
+  "C004": {
+    "total_transactions": 362,
+    "total_amount": 2023725.55,
+    "average_amount": 5590.4,
+    "median_amount": 3132.15,
+    "minimum_amount": 152.87,
+    "maximum_amount": 42280.03,
+    "standard_deviation": 7090.23,
+    "typical_transaction_count_per_day": 2.306,
+    "average_daily_amount": 12889.97,
+    "median_transactions_per_day": 2.0,
+    "max_transactions_per_day": 7,
+    "min_transactions_per_day": 1,
+    "median_daily_spend": 9203.55,
+    "most_common_payees": [
+      [
+        "FreshMart",
+        35
+      ],
+      [
+        "Amazon",
+        35
+      ],
+      [
+        "Flipkart",
+        30
+      ],
+      [
+        "Zomato",
+        28
+      ],
+      [
+        "Fuel Station",
+        27
+      ],
+      [
+        "Grocery Store",
+        26
+      ],
+      [
+        "Swiggy",
+        26
+      ],
+      [
+        "ATM",
+        24
+      ],
+      [
+        "Bank Transfer",
+        23
+      ],
+      [
+        "Uber",
+        21
+      ]
+    ],
+    "most_common_channels": [
+      [
+        "CARD",
+        127
+      ],
+      [
+        "BANK_TRANSFER",
+        126
+      ],
+      [
+        "UPI",
+        71
+      ],
+      [
+        "ATM",
+        26
+      ],
+      [
+        "NET_BANKING",
+        12
+      ]
+    ],
+    "most_common_transaction_types": [
+      [
+        "GROCERY",
+        61
+      ],
+      [
+        "PURCHASE",
+        56
+      ],
+      [
+        "DINING",
+        54
+      ],
+      [
+        "TRAVEL",
+        36
+      ],
+      [
+        "FUEL",
+        27
+      ],
+      [
+        "WITHDRAWAL",
+        24
+      ],
+      [
+        "UTILITY",
+        24
+      ],
+      [
+        "TRANSFER",
+        23
+      ],
+      [
+        "SUBSCRIPTION",
+        22
+      ],
+      [
+        "BILL_PAYMENT",
+        14
+      ],
+      [
+        "REFUND",
+        9
+      ],
+      [
+        "SALARY",
+        6
+      ],
+      [
+        "RENT",
+        6
+      ]
+    ],
+    "channel_baseline": {
+      "BANK_TRANSFER": {
+        "count": 126,
+        "percentage": 34.81,
+        "total_amount": 730650.14
+      },
+      "UPI": {
+        "count": 71,
+        "percentage": 19.61,
+        "total_amount": 329686.42
+      },
+      "NET_BANKING": {
+        "count": 12,
+        "percentage": 3.31,
+        "total_amount": 189968.92
+      },
+      "ATM": {
+        "count": 26,
+        "percentage": 7.18,
+        "total_amount": 274741.0
+      },
+      "CARD": {
+        "count": 127,
+        "percentage": 35.08,
+        "total_amount": 498679.07
+      }
+    },
+    "typical_transaction_hour": 20,
+    "median_transaction_hour": 15,
+    "time_distribution": {
+      "06:00-10:00": 13.54,
+      "10:00-14:00": 28.45,
+      "14:00-18:00": 25.97,
+      "18:00-22:00": 28.73,
+      "22:00-06:00": 3.31
+    },
+    "weekday_transaction_count": 276,
+    "weekend_transaction_count": 86,
+    "monthly_transaction_count": {
+      "2026-03": 57,
+      "2026-04": 58,
+      "2026-05": 60,
+      "2026-06": 63,
+      "2026-07": 60,
+      "2026-08": 64
+    },
+    "monthly_total_amount": {
+      "2026-03": 311054.82,
+      "2026-04": 328241.7,
+      "2026-05": 305687.07,
+      "2026-06": 329301.3,
+      "2026-07": 338089.47,
+      "2026-08": 411351.19
+    },
+    "active_days": 157
+  },
+  "C005": {
+    "total_transactions": 520,
+    "total_amount": 3219789.35,
+    "average_amount": 6191.9,
+    "median_amount": 3491.66,
+    "minimum_amount": 150.77,
+    "maximum_amount": 70565.33,
+    "standard_deviation": 8741.87,
+    "typical_transaction_count_per_day": 3.023,
+    "average_daily_amount": 18719.71,
+    "median_transactions_per_day": 3.0,
+    "max_transactions_per_day": 9,
+    "min_transactions_per_day": 1,
+    "median_daily_spend": 13426.17,
+    "most_common_payees": [
+      [
+        "Amazon",
+        61
+      ],
+      [
+        "Flipkart",
+        47
+      ],
+      [
+        "Grocery Store",
+        43
+      ],
+      [
+        "Fuel Station",
+        38
+      ],
+      [
+        "Zomato",
+        37
+      ],
+      [
+        "Bank Transfer",
+        35
+      ],
+      [
+        "Swiggy",
+        33
+      ],
+      [
+        "FreshMart",
+        31
+      ],
+      [
+        "ATM",
+        26
+      ],
+      [
+        "Mobile Provider",
+        26
+      ]
+    ],
+    "most_common_channels": [
+      [
+        "UPI",
+        163
+      ],
+      [
+        "CARD",
+        159
+      ],
+      [
+        "BANK_TRANSFER",
+        112
+      ],
+      [
+        "NET_BANKING",
+        60
+      ],
+      [
+        "ATM",
+        26
+      ]
+    ],
+    "most_common_transaction_types": [
+      [
+        "PURCHASE",
+        99
+      ],
+      [
+        "GROCERY",
+        74
+      ],
+      [
+        "DINING",
+        70
+      ],
+      [
+        "TRAVEL",
+        50
+      ],
+      [
+        "UTILITY",
+        48
+      ],
+      [
+        "FUEL",
+        38
+      ],
+      [
+        "TRANSFER",
+        35
+      ],
+      [
+        "BILL_PAYMENT",
+        34
+      ],
+      [
+        "WITHDRAWAL",
+        26
+      ],
+      [
+        "SUBSCRIPTION",
+        25
+      ],
+      [
+        "REFUND",
+        9
+      ],
+      [
+        "SALARY",
+        6
+      ],
+      [
+        "RENT",
+        6
+      ]
+    ],
+    "channel_baseline": {
+      "BANK_TRANSFER": {
+        "count": 112,
+        "percentage": 21.54,
+        "total_amount": 1039594.16
+      },
+      "CARD": {
+        "count": 159,
+        "percentage": 30.58,
+        "total_amount": 687999.24
+      },
+      "NET_BANKING": {
+        "count": 60,
+        "percentage": 11.54,
+        "total_amount": 307035.5
+      },
+      "UPI": {
+        "count": 163,
+        "percentage": 31.35,
+        "total_amount": 880505.67
+      },
+      "ATM": {
+        "count": 26,
+        "percentage": 5.0,
+        "total_amount": 304654.78
+      }
+    },
+    "typical_transaction_hour": 10,
+    "median_transaction_hour": 14,
+    "time_distribution": {
+      "06:00-10:00": 15.58,
+      "10:00-14:00": 30.0,
+      "14:00-18:00": 21.92,
+      "18:00-22:00": 25.58,
+      "22:00-06:00": 6.92
+    },
+    "weekday_transaction_count": 385,
+    "weekend_transaction_count": 135,
+    "monthly_transaction_count": {
+      "2026-03": 87,
+      "2026-04": 85,
+      "2026-05": 88,
+      "2026-06": 84,
+      "2026-07": 88,
+      "2026-08": 88
+    },
+    "monthly_total_amount": {
+      "2026-03": 507316.35,
+      "2026-04": 562534.08,
+      "2026-05": 555489.04,
+      "2026-06": 515795.85,
+      "2026-07": 453172.24,
+      "2026-08": 625481.79
+    },
+    "active_days": 172
+  },
+  "C006": {
+    "total_transactions": 480,
+    "total_amount": 2875035.9,
+    "average_amount": 5989.66,
+    "median_amount": 3492.91,
+    "minimum_amount": 225.84,
+    "maximum_amount": 95651.1,
+    "standard_deviation": 11039.81,
+    "typical_transaction_count_per_day": 2.824,
+    "average_daily_amount": 16911.98,
+    "median_transactions_per_day": 2.5,
+    "max_transactions_per_day": 7,
+    "min_transactions_per_day": 1,
+    "median_daily_spend": 11707.87,
+    "most_common_payees": [
+      [
+        "Grocery Store",
+        46
+      ],
+      [
+        "Bank Transfer",
+        42
+      ],
+      [
+        "Flipkart",
+        41
+      ],
+      [
+        "Fuel Station",
+        38
+      ],
+      [
+        "Zomato",
+        38
+      ],
+      [
+        "FreshMart",
+        35
+      ],
+      [
+        "Amazon",
+        35
+      ],
+      [
+        "Swiggy",
+        30
+      ],
+      [
+        "ATM",
+        28
+      ],
+      [
+        "Uber",
+        27
+      ]
+    ],
+    "most_common_channels": [
+      [
+        "UPI",
+        263
+      ],
+      [
+        "CARD",
+        113
+      ],
+      [
+        "BANK_TRANSFER",
+        63
+      ],
+      [
+        "ATM",
+        28
+      ],
+      [
+        "NET_BANKING",
+        13
+      ]
+    ],
+    "most_common_transaction_types": [
+      [
+        "GROCERY",
+        81
+      ],
+      [
+        "PURCHASE",
+        71
+      ],
+      [
+        "DINING",
+        68
+      ],
+      [
+        "UTILITY",
+        45
+      ],
+      [
+        "TRAVEL",
+        44
+      ],
+      [
+        "TRANSFER",
+        42
+      ],
+      [
+        "FUEL",
+        38
+      ],
+      [
+        "SUBSCRIPTION",
+        30
+      ],
+      [
+        "WITHDRAWAL",
+        28
+      ],
+      [
+        "BILL_PAYMENT",
+        16
+      ],
+      [
+        "SALARY",
+        6
+      ],
+      [
+        "RENT",
+        6
+      ],
+      [
+        "REFUND",
+        5
+      ]
+    ],
+    "channel_baseline": {
+      "BANK_TRANSFER": {
+        "count": 63,
+        "percentage": 13.12,
+        "total_amount": 825020.45
+      },
+      "CARD": {
+        "count": 113,
+        "percentage": 23.54,
+        "total_amount": 517645.26
+      },
+      "UPI": {
+        "count": 263,
+        "percentage": 54.79,
+        "total_amount": 1097700.25
+      },
+      "ATM": {
+        "count": 28,
+        "percentage": 5.83,
+        "total_amount": 241721.08
+      },
+      "NET_BANKING": {
+        "count": 13,
+        "percentage": 2.71,
+        "total_amount": 192948.86
+      }
+    },
+    "typical_transaction_hour": 9,
+    "median_transaction_hour": 14,
+    "time_distribution": {
+      "06:00-10:00": 18.54,
+      "10:00-14:00": 25.0,
+      "14:00-18:00": 23.54,
+      "18:00-22:00": 26.25,
+      "22:00-06:00": 6.67
+    },
+    "weekday_transaction_count": 352,
+    "weekend_transaction_count": 128,
+    "monthly_transaction_count": {
+      "2026-03": 82,
+      "2026-04": 79,
+      "2026-05": 81,
+      "2026-06": 79,
+      "2026-07": 76,
+      "2026-08": 83
+    },
+    "monthly_total_amount": {
+      "2026-03": 448549.7,
+      "2026-04": 491354.8,
+      "2026-05": 472643.03,
+      "2026-06": 556527.25,
+      "2026-07": 355169.26,
+      "2026-08": 550791.86
+    },
+    "active_days": 170
+  },
+  "C007": {
+    "total_transactions": 457,
+    "total_amount": 3066379.39,
+    "average_amount": 6709.8,
+    "median_amount": 3224.84,
+    "minimum_amount": 152.21,
+    "maximum_amount": 92407.34,
+    "standard_deviation": 11548.6,
+    "typical_transaction_count_per_day": 2.77,
+    "average_daily_amount": 18584.12,
+    "median_transactions_per_day": 3.0,
+    "max_transactions_per_day": 7,
+    "min_transactions_per_day": 1,
+    "median_daily_spend": 12367.17,
+    "most_common_payees": [
+      [
+        "Amazon",
+        46
+      ],
+      [
+        "Swiggy",
+        45
+      ],
+      [
+        "Bank Transfer",
+        43
+      ],
+      [
+        "Flipkart",
+        41
+      ],
+      [
+        "FreshMart",
+        36
+      ],
+      [
+        "Grocery Store",
+        33
+      ],
+      [
+        "Fuel Station",
+        28
+      ],
+      [
+        "Uber",
+        25
+      ],
+      [
+        "Zomato",
+        24
+      ],
+      [
+        "Electricity Board",
+        19
+      ]
+    ],
+    "most_common_channels": [
+      [
+        "UPI",
+        205
+      ],
+      [
+        "BANK_TRANSFER",
+        117
+      ],
+      [
+        "CARD",
+        76
+      ],
+      [
+        "NET_BANKING",
+        40
+      ],
+      [
+        "ATM",
+        19
+      ]
+    ],
+    "most_common_transaction_types": [
+      [
+        "PURCHASE",
+        77
+      ],
+      [
+        "GROCERY",
+        69
+      ],
+      [
+        "DINING",
+        69
+      ],
+      [
+        "TRANSFER",
+        43
+      ],
+      [
+        "UTILITY",
+        41
+      ],
+      [
+        "TRAVEL",
+        37
+      ],
+      [
+        "BILL_PAYMENT",
+        29
+      ],
+      [
+        "FUEL",
+        28
+      ],
+      [
+        "SUBSCRIPTION",
+        23
+      ],
+      [
+        "WITHDRAWAL",
+        19
+      ],
+      [
+        "REFUND",
+        10
+      ],
+      [
+        "SALARY",
+        6
+      ],
+      [
+        "RENT",
+        6
+      ]
+    ],
+    "channel_baseline": {
+      "UPI": {
+        "count": 205,
+        "percentage": 44.86,
+        "total_amount": 963899.3
+      },
+      "BANK_TRANSFER": {
+        "count": 117,
+        "percentage": 25.6,
+        "total_amount": 1201118.02
+      },
+      "NET_BANKING": {
+        "count": 40,
+        "percentage": 8.75,
+        "total_amount": 326215.41
+      },
+      "CARD": {
+        "count": 76,
+        "percentage": 16.63,
+        "total_amount": 326328.36
+      },
+      "ATM": {
+        "count": 19,
+        "percentage": 4.16,
+        "total_amount": 248818.3
+      }
+    },
+    "typical_transaction_hour": 10,
+    "median_transaction_hour": 14,
+    "time_distribution": {
+      "06:00-10:00": 11.82,
+      "10:00-14:00": 33.92,
+      "14:00-18:00": 25.6,
+      "18:00-22:00": 23.41,
+      "22:00-06:00": 5.25
+    },
+    "weekday_transaction_count": 315,
+    "weekend_transaction_count": 142,
+    "monthly_transaction_count": {
+      "2026-03": 79,
+      "2026-04": 74,
+      "2026-05": 74,
+      "2026-06": 75,
+      "2026-07": 78,
+      "2026-08": 77
+    },
+    "monthly_total_amount": {
+      "2026-03": 427403.74,
+      "2026-04": 513480.22,
+      "2026-05": 465367.26,
+      "2026-06": 612415.21,
+      "2026-07": 525512.01,
+      "2026-08": 522200.95
+    },
+    "active_days": 165
+  },
+  "C008": {
+    "total_transactions": 416,
+    "total_amount": 2524326.27,
+    "average_amount": 6068.09,
+    "median_amount": 3240.19,
+    "minimum_amount": 161.64,
+    "maximum_amount": 68230.74,
+    "standard_deviation": 9230.83,
+    "typical_transaction_count_per_day": 2.552,
+    "average_daily_amount": 15486.66,
+    "median_transactions_per_day": 2.0,
+    "max_transactions_per_day": 6,
+    "min_transactions_per_day": 1,
+    "median_daily_spend": 8740.94,
+    "most_common_payees": [
+      [
+        "Bank Transfer",
+        43
+      ],
+      [
+        "Amazon",
+        41
+      ],
+      [
+        "Flipkart",
+        40
+      ],
+      [
+        "Swiggy",
+        37
+      ],
+      [
+        "Zomato",
+        35
+      ],
+      [
+        "Grocery Store",
+        33
+      ],
+      [
+        "Fuel Station",
+        30
+      ],
+      [
+        "FreshMart",
+        26
+      ],
+      [
+        "Uber",
+        18
+      ],
+      [
+        "Mobile Provider",
+        17
+      ]
+    ],
+    "most_common_channels": [
+      [
+        "CARD",
+        236
+      ],
+      [
+        "BANK_TRANSFER",
+        90
+      ],
+      [
+        "UPI",
+        69
+      ],
+      [
+        "ATM",
+        16
+      ],
+      [
+        "NET_BANKING",
+        5
+      ]
+    ],
+    "most_common_transaction_types": [
+      [
+        "DINING",
+        72
+      ],
+      [
+        "PURCHASE",
+        70
+      ],
+      [
+        "GROCERY",
+        59
+      ],
+      [
+        "TRANSFER",
+        43
+      ],
+      [
+        "UTILITY",
+        35
+      ],
+      [
+        "TRAVEL",
+        35
+      ],
+      [
+        "FUEL",
+        30
+      ],
+      [
+        "SUBSCRIPTION",
+        20
+      ],
+      [
+        "WITHDRAWAL",
+        16
+      ],
+      [
+        "BILL_PAYMENT",
+        13
+      ],
+      [
+        "REFUND",
+        11
+      ],
+      [
+        "SALARY",
+        6
+      ],
+      [
+        "RENT",
+        6
+      ]
+    ],
+    "channel_baseline": {
+      "BANK_TRANSFER": {
+        "count": 90,
+        "percentage": 21.63,
+        "total_amount": 786212.82
+      },
+      "CARD": {
+        "count": 236,
+        "percentage": 56.73,
+        "total_amount": 1092923.41
+      },
+      "ATM": {
+        "count": 16,
+        "percentage": 3.85,
+        "total_amount": 182871.61
+      },
+      "UPI": {
+        "count": 69,
+        "percentage": 16.59,
+        "total_amount": 368704.34
+      },
+      "NET_BANKING": {
+        "count": 5,
+        "percentage": 1.2,
+        "total_amount": 93614.09
+      }
+    },
+    "typical_transaction_hour": 20,
+    "median_transaction_hour": 15,
+    "time_distribution": {
+      "06:00-10:00": 15.14,
+      "10:00-14:00": 24.76,
+      "14:00-18:00": 27.4,
+      "18:00-22:00": 26.68,
+      "22:00-06:00": 6.01
+    },
+    "weekday_transaction_count": 290,
+    "weekend_transaction_count": 126,
+    "monthly_transaction_count": {
+      "2026-03": 73,
+      "2026-04": 67,
+      "2026-05": 68,
+      "2026-06": 70,
+      "2026-07": 69,
+      "2026-08": 69
+    },
+    "monthly_total_amount": {
+      "2026-03": 455283.5,
+      "2026-04": 486190.41,
+      "2026-05": 401905.63,
+      "2026-06": 368040.72,
+      "2026-07": 410755.84,
+      "2026-08": 402150.17
+    },
+    "active_days": 163
+  },
+  "C009": {
+    "total_transactions": 329,
+    "total_amount": 2350596.94,
+    "average_amount": 7144.67,
+    "median_amount": 3484.46,
+    "minimum_amount": 150.6,
+    "maximum_amount": 98821.15,
+    "standard_deviation": 13359.92,
+    "typical_transaction_count_per_day": 2.15,
+    "average_daily_amount": 15363.38,
+    "median_transactions_per_day": 2.0,
+    "max_transactions_per_day": 6,
+    "min_transactions_per_day": 1,
+    "median_daily_spend": 8312.34,
+    "most_common_payees": [
+      [
+        "Flipkart",
+        35
+      ],
+      [
+        "Zomato",
+        32
+      ],
+      [
+        "Grocery Store",
+        30
+      ],
+      [
+        "Bank Transfer",
+        26
+      ],
+      [
+        "FreshMart",
+        26
+      ],
+      [
+        "Amazon",
+        25
+      ],
+      [
+        "Fuel Station",
+        23
+      ],
+      [
+        "Swiggy",
+        20
+      ],
+      [
+        "ATM",
+        19
+      ],
+      [
+        "Netflix",
+        12
+      ]
+    ],
+    "most_common_channels": [
+      [
+        "BANK_TRANSFER",
+        126
+      ],
+      [
+        "CARD",
+        121
+      ],
+      [
+        "UPI",
+        58
+      ],
+      [
+        "ATM",
+        20
+      ],
+      [
+        "NET_BANKING",
+        4
+      ]
+    ],
+    "most_common_transaction_types": [
+      [
+        "GROCERY",
+        56
+      ],
+      [
+        "PURCHASE",
+        55
+      ],
+      [
+        "DINING",
+        52
+      ],
+      [
+        "TRANSFER",
+        26
+      ],
+      [
+        "UTILITY",
+        24
+      ],
+      [
+        "FUEL",
+        23
+      ],
+      [
+        "TRAVEL",
+        21
+      ],
+      [
+        "SUBSCRIPTION",
+        20
+      ],
+      [
+        "WITHDRAWAL",
+        19
+      ],
+      [
+        "BILL_PAYMENT",
+        16
+      ],
+      [
+        "SALARY",
+        6
+      ],
+      [
+        "RENT",
+        6
+      ],
+      [
+        "REFUND",
+        5
+      ]
+    ],
+    "channel_baseline": {
+      "BANK_TRANSFER": {
+        "count": 126,
+        "percentage": 38.3,
+        "total_amount": 1294082.35
+      },
+      "CARD": {
+        "count": 121,
+        "percentage": 36.78,
+        "total_amount": 467870.01
+      },
+      "UPI": {
+        "count": 58,
+        "percentage": 17.63,
+        "total_amount": 285299.32
+      },
+      "ATM": {
+        "count": 20,
+        "percentage": 6.08,
+        "total_amount": 228981.06
+      },
+      "NET_BANKING": {
+        "count": 4,
+        "percentage": 1.22,
+        "total_amount": 74364.2
+      }
+    },
+    "typical_transaction_hour": 11,
+    "median_transaction_hour": 14,
+    "time_distribution": {
+      "06:00-10:00": 18.24,
+      "10:00-14:00": 28.27,
+      "14:00-18:00": 21.28,
+      "18:00-22:00": 24.92,
+      "22:00-06:00": 7.29
+    },
+    "weekday_transaction_count": 243,
+    "weekend_transaction_count": 86,
+    "monthly_transaction_count": {
+      "2026-03": 53,
+      "2026-04": 58,
+      "2026-05": 54,
+      "2026-06": 55,
+      "2026-07": 56,
+      "2026-08": 53
+    },
+    "monthly_total_amount": {
+      "2026-03": 417676.36,
+      "2026-04": 392483.91,
+      "2026-05": 334346.17,
+      "2026-06": 342231.9,
+      "2026-07": 442661.32,
+      "2026-08": 421197.28
+    },
+    "active_days": 153
+  },
+  "C010": {
+    "total_transactions": 477,
+    "total_amount": 2576701.5,
+    "average_amount": 5401.89,
+    "median_amount": 3670.36,
+    "minimum_amount": 153.02,
+    "maximum_amount": 29739.96,
+    "standard_deviation": 5396.81,
+    "typical_transaction_count_per_day": 2.757,
+    "average_daily_amount": 14894.23,
+    "median_transactions_per_day": 3.0,
+    "max_transactions_per_day": 8,
+    "min_transactions_per_day": 1,
+    "median_daily_spend": 12749.42,
+    "most_common_payees": [
+      [
+        "Amazon",
+        44
+      ],
+      [
+        "Grocery Store",
+        44
+      ],
+      [
+        "Bank Transfer",
+        41
+      ],
+      [
+        "Fuel Station",
+        40
+      ],
+      [
+        "FreshMart",
+        34
+      ],
+      [
+        "Zomato",
+        33
+      ],
+      [
+        "Swiggy",
+        32
+      ],
+      [
+        "Flipkart",
+        32
+      ],
+      [
+        "ATM",
+        26
+      ],
+      [
+        "Ola",
+        24
+      ]
+    ],
+    "most_common_channels": [
+      [
+        "UPI",
+        152
+      ],
+      [
+        "CARD",
+        149
+      ],
+      [
+        "BANK_TRANSFER",
+        99
+      ],
+      [
+        "NET_BANKING",
+        51
+      ],
+      [
+        "ATM",
+        26
+      ]
+    ],
+    "most_common_transaction_types": [
+      [
+        "GROCERY",
+        78
+      ],
+      [
+        "PURCHASE",
+        68
+      ],
+      [
+        "DINING",
+        65
+      ],
+      [
+        "TRAVEL",
+        45
+      ],
+      [
+        "TRANSFER",
+        41
+      ],
+      [
+        "FUEL",
+        40
+      ],
+      [
+        "UTILITY",
+        39
+      ],
+      [
+        "SUBSCRIPTION",
+        29
+      ],
+      [
+        "WITHDRAWAL",
+        26
+      ],
+      [
+        "BILL_PAYMENT",
+        26
+      ],
+      [
+        "REFUND",
+        8
+      ],
+      [
+        "SALARY",
+        6
+      ],
+      [
+        "RENT",
+        6
+      ]
+    ],
+    "channel_baseline": {
+      "ATM": {
+        "count": 26,
+        "percentage": 5.45,
+        "total_amount": 288280.37
+      },
+      "BANK_TRANSFER": {
+        "count": 99,
+        "percentage": 20.75,
+        "total_amount": 624226.31
+      },
+      "CARD": {
+        "count": 149,
+        "percentage": 31.24,
+        "total_amount": 650481.59
+      },
+      "NET_BANKING": {
+        "count": 51,
+        "percentage": 10.69,
+        "total_amount": 265964.0
+      },
+      "UPI": {
+        "count": 152,
+        "percentage": 31.87,
+        "total_amount": 747749.23
+      }
+    },
+    "typical_transaction_hour": 10,
+    "median_transaction_hour": 14,
+    "time_distribution": {
+      "06:00-10:00": 12.79,
+      "10:00-14:00": 30.4,
+      "14:00-18:00": 22.64,
+      "18:00-22:00": 27.88,
+      "22:00-06:00": 6.29
+    },
+    "weekday_transaction_count": 344,
+    "weekend_transaction_count": 133,
+    "monthly_transaction_count": {
+      "2026-03": 80,
+      "2026-04": 79,
+      "2026-05": 78,
+      "2026-06": 80,
+      "2026-07": 77,
+      "2026-08": 83
+    },
+    "monthly_total_amount": {
+      "2026-03": 378954.99,
+      "2026-04": 392016.76,
+      "2026-05": 430805.72,
+      "2026-06": 538755.68,
+      "2026-07": 363407.0,
+      "2026-08": 472761.35
+    },
+    "active_days": 173
+  },
+  "C011": {
+    "total_transactions": 540,
+    "total_amount": 3196502.59,
+    "average_amount": 5919.45,
+    "median_amount": 3371.85,
+    "minimum_amount": 155.01,
+    "maximum_amount": 82507.55,
+    "standard_deviation": 9506.54,
+    "typical_transaction_count_per_day": 2.983,
+    "average_daily_amount": 17660.24,
+    "median_transactions_per_day": 3.0,
+    "max_transactions_per_day": 8,
+    "min_transactions_per_day": 1,
+    "median_daily_spend": 12701.83,
+    "most_common_payees": [
+      [
+        "Amazon",
+        64
+      ],
+      [
+        "Zomato",
+        59
+      ],
+      [
+        "FreshMart",
+        42
+      ],
+      [
+        "Flipkart",
+        41
+      ],
+      [
+        "Swiggy",
+        38
+      ],
+      [
+        "Fuel Station",
+        37
+      ],
+      [
+        "Bank Transfer",
+        35
+      ],
+      [
+        "Grocery Store",
+        33
+      ],
+      [
+        "ATM",
+        31
+      ],
+      [
+        "Ola",
+        28
+      ]
+    ],
+    "most_common_channels": [
+      [
+        "UPI",
+        292
+      ],
+      [
+        "CARD",
+        140
+      ],
+      [
+        "BANK_TRANSFER",
+        70
+      ],
+      [
+        "ATM",
+        31
+      ],
+      [
+        "NET_BANKING",
+        7
+      ]
+    ],
+    "most_common_transaction_types": [
+      [
+        "DINING",
+        97
+      ],
+      [
+        "PURCHASE",
+        91
+      ],
+      [
+        "GROCERY",
+        75
+      ],
+      [
+        "TRAVEL",
+        56
+      ],
+      [
+        "FUEL",
+        37
+      ],
+      [
+        "TRANSFER",
+        35
+      ],
+      [
+        "UTILITY",
+        32
+      ],
+      [
+        "BILL_PAYMENT",
+        32
+      ],
+      [
+        "WITHDRAWAL",
+        31
+      ],
+      [
+        "SUBSCRIPTION",
+        28
+      ],
+      [
+        "REFUND",
+        14
+      ],
+      [
+        "SALARY",
+        6
+      ],
+      [
+        "RENT",
+        6
+      ]
+    ],
+    "channel_baseline": {
+      "BANK_TRANSFER": {
+        "count": 70,
+        "percentage": 12.96,
+        "total_amount": 895277.54
+      },
+      "CARD": {
+        "count": 140,
+        "percentage": 25.93,
+        "total_amount": 472887.4
+      },
+      "UPI": {
+        "count": 292,
+        "percentage": 54.07,
+        "total_amount": 1410374.78
+      },
+      "NET_BANKING": {
+        "count": 7,
+        "percentage": 1.3,
+        "total_amount": 118672.08
+      },
+      "ATM": {
+        "count": 31,
+        "percentage": 5.74,
+        "total_amount": 299290.79
+      }
+    },
+    "typical_transaction_hour": 19,
+    "median_transaction_hour": 15,
+    "time_distribution": {
+      "06:00-10:00": 13.52,
+      "10:00-14:00": 28.7,
+      "14:00-18:00": 22.41,
+      "18:00-22:00": 28.33,
+      "22:00-06:00": 7.04
+    },
+    "weekday_transaction_count": 381,
+    "weekend_transaction_count": 159,
+    "monthly_transaction_count": {
+      "2026-03": 88,
+      "2026-04": 92,
+      "2026-05": 89,
+      "2026-06": 89,
+      "2026-07": 88,
+      "2026-08": 94
+    },
+    "monthly_total_amount": {
+      "2026-03": 540773.71,
+      "2026-04": 544194.87,
+      "2026-05": 547897.78,
+      "2026-06": 515234.42,
+      "2026-07": 569057.11,
+      "2026-08": 479344.7
+    },
+    "active_days": 181
+  },
+  "C012": {
+    "total_transactions": 451,
+    "total_amount": 3033008.12,
+    "average_amount": 6725.07,
+    "median_amount": 3648.33,
+    "minimum_amount": 178.17,
+    "maximum_amount": 96414.32,
+    "standard_deviation": 11782.57,
+    "typical_transaction_count_per_day": 2.607,
+    "average_daily_amount": 17531.84,
+    "median_transactions_per_day": 2.0,
+    "max_transactions_per_day": 9,
+    "min_transactions_per_day": 1,
+    "median_daily_spend": 11395.39,
+    "most_common_payees": [
+      [
+        "FreshMart",
+        48
+      ],
+      [
+        "Flipkart",
+        38
+      ],
+      [
+        "Zomato",
+        37
+      ],
+      [
+        "Grocery Store",
+        36
+      ],
+      [
+        "Bank Transfer",
+        36
+      ],
+      [
+        "Swiggy",
+        34
+      ],
+      [
+        "Amazon",
+        33
+      ],
+      [
+        "Fuel Station",
+        31
+      ],
+      [
+        "ATM",
+        29
+      ],
+      [
+        "Ola",
+        21
+      ]
+    ],
+    "most_common_channels": [
+      [
+        "UPI",
+        176
+      ],
+      [
+        "BANK_TRANSFER",
+        115
+      ],
+      [
+        "CARD",
+        87
+      ],
+      [
+        "NET_BANKING",
+        44
+      ],
+      [
+        "ATM",
+        29
+      ]
+    ],
+    "most_common_transaction_types": [
+      [
+        "GROCERY",
+        84
+      ],
+      [
+        "DINING",
+        71
+      ],
+      [
+        "PURCHASE",
+        65
+      ],
+      [
+        "TRANSFER",
+        36
+      ],
+      [
+        "UTILITY",
+        32
+      ],
+      [
+        "FUEL",
+        31
+      ],
+      [
+        "BILL_PAYMENT",
+        29
+      ],
+      [
+        "TRAVEL",
+        29
+      ],
+      [
+        "WITHDRAWAL",
+        29
+      ],
+      [
+        "SUBSCRIPTION",
+        27
+      ],
+      [
+        "SALARY",
+        6
+      ],
+      [
+        "RENT",
+        6
+      ],
+      [
+        "REFUND",
+        6
+      ]
+    ],
+    "channel_baseline": {
+      "UPI": {
+        "count": 176,
+        "percentage": 39.02,
+        "total_amount": 787513.98
+      },
+      "BANK_TRANSFER": {
+        "count": 115,
+        "percentage": 25.5,
+        "total_amount": 1193651.78
+      },
+      "CARD": {
+        "count": 87,
+        "percentage": 19.29,
+        "total_amount": 347464.77
+      },
+      "NET_BANKING": {
+        "count": 44,
+        "percentage": 9.76,
+        "total_amount": 384462.31
+      },
+      "ATM": {
+        "count": 29,
+        "percentage": 6.43,
+        "total_amount": 319915.28
+      }
+    },
+    "typical_transaction_hour": 13,
+    "median_transaction_hour": 14,
+    "time_distribution": {
+      "06:00-10:00": 13.3,
+      "10:00-14:00": 31.04,
+      "14:00-18:00": 23.95,
+      "18:00-22:00": 25.5,
+      "22:00-06:00": 6.21
+    },
+    "weekday_transaction_count": 322,
+    "weekend_transaction_count": 129,
+    "monthly_transaction_count": {
+      "2026-03": 75,
+      "2026-04": 76,
+      "2026-05": 74,
+      "2026-06": 76,
+      "2026-07": 72,
+      "2026-08": 78
+    },
+    "monthly_total_amount": {
+      "2026-03": 479961.61,
+      "2026-04": 500916.08,
+      "2026-05": 525314.63,
+      "2026-06": 524450.7,
+      "2026-07": 487017.83,
+      "2026-08": 515347.27
+    },
+    "active_days": 173
+  },
+  "C013": {
+    "total_transactions": 413,
+    "total_amount": 2632572.44,
+    "average_amount": 6374.27,
+    "median_amount": 3582.21,
+    "minimum_amount": 157.12,
+    "maximum_amount": 68321.17,
+    "standard_deviation": 9332.11,
+    "typical_transaction_count_per_day": 2.488,
+    "average_daily_amount": 15858.87,
+    "median_transactions_per_day": 2.0,
+    "max_transactions_per_day": 7,
+    "min_transactions_per_day": 1,
+    "median_daily_spend": 11590.4,
+    "most_common_payees": [
+      [
+        "Amazon",
+        50
+      ],
+      [
+        "Bank Transfer",
+        36
+      ],
+      [
+        "Zomato",
+        35
+      ],
+      [
+        "Flipkart",
+        34
+      ],
+      [
+        "Fuel Station",
+        34
+      ],
+      [
+        "FreshMart",
+        29
+      ],
+      [
+        "Swiggy",
+        27
+      ],
+      [
+        "Grocery Store",
+        19
+      ],
+      [
+        "Uber",
+        18
+      ],
+      [
+        "Mobile Provider",
+        18
+      ]
+    ],
+    "most_common_channels": [
+      [
+        "CARD",
+        202
+      ],
+      [
+        "BANK_TRANSFER",
+        104
+      ],
+      [
+        "UPI",
+        83
+      ],
+      [
+        "ATM",
+        17
+      ],
+      [
+        "NET_BANKING",
+        7
+      ]
+    ],
+    "most_common_transaction_types": [
+      [
+        "PURCHASE",
+        78
+      ],
+      [
+        "DINING",
+        62
+      ],
+      [
+        "GROCERY",
+        48
+      ],
+      [
+        "UTILITY",
+        38
+      ],
+      [
+        "TRANSFER",
+        36
+      ],
+      [
+        "FUEL",
+        34
+      ],
+      [
+        "TRAVEL",
+        32
+      ],
+      [
+        "BILL_PAYMENT",
+        26
+      ],
+      [
+        "SUBSCRIPTION",
+        24
+      ],
+      [
+        "WITHDRAWAL",
+        17
+      ],
+      [
+        "SALARY",
+        6
+      ],
+      [
+        "RENT",
+        6
+      ],
+      [
+        "REFUND",
+        6
+      ]
+    ],
+    "channel_baseline": {
+      "BANK_TRANSFER": {
+        "count": 104,
+        "percentage": 25.18,
+        "total_amount": 943913.77
+      },
+      "CARD": {
+        "count": 202,
+        "percentage": 48.91,
+        "total_amount": 873644.69
+      },
+      "UPI": {
+        "count": 83,
+        "percentage": 20.1,
+        "total_amount": 543549.84
+      },
+      "ATM": {
+        "count": 17,
+        "percentage": 4.12,
+        "total_amount": 166441.73
+      },
+      "NET_BANKING": {
+        "count": 7,
+        "percentage": 1.69,
+        "total_amount": 105022.41
+      }
+    },
+    "typical_transaction_hour": 19,
+    "median_transaction_hour": 14,
+    "time_distribution": {
+      "06:00-10:00": 13.32,
+      "10:00-14:00": 29.54,
+      "14:00-18:00": 23.24,
+      "18:00-22:00": 27.12,
+      "22:00-06:00": 6.78
+    },
+    "weekday_transaction_count": 289,
+    "weekend_transaction_count": 124,
+    "monthly_transaction_count": {
+      "2026-03": 67,
+      "2026-04": 68,
+      "2026-05": 67,
+      "2026-06": 69,
+      "2026-07": 69,
+      "2026-08": 73
+    },
+    "monthly_total_amount": {
+      "2026-03": 396853.9,
+      "2026-04": 444641.13,
+      "2026-05": 390545.89,
+      "2026-06": 443873.5,
+      "2026-07": 490794.61,
+      "2026-08": 465863.41
+    },
+    "active_days": 166
+  },
+  "C014": {
+    "total_transactions": 323,
+    "total_amount": 2444617.36,
+    "average_amount": 7568.47,
+    "median_amount": 3667.96,
+    "minimum_amount": 209.55,
+    "maximum_amount": 108968.15,
+    "standard_deviation": 14818.23,
+    "typical_transaction_count_per_day": 2.197,
+    "average_daily_amount": 16630.05,
+    "median_transactions_per_day": 2.0,
+    "max_transactions_per_day": 7,
+    "min_transactions_per_day": 1,
+    "median_daily_spend": 9728.86,
+    "most_common_payees": [
+      [
+        "Flipkart",
+        36
+      ],
+      [
+        "Bank Transfer",
+        29
+      ],
+      [
+        "Fuel Station",
+        24
+      ],
+      [
+        "Swiggy",
+        23
+      ],
+      [
+        "FreshMart",
+        23
+      ],
+      [
+        "ATM",
+        22
+      ],
+      [
+        "Zomato",
+        22
+      ],
+      [
+        "Amazon",
+        21
+      ],
+      [
+        "Grocery Store",
+        21
+      ],
+      [
+        "Uber",
+        17
+      ]
+    ],
+    "most_common_channels": [
+      [
+        "CARD",
+        120
+      ],
+      [
+        "BANK_TRANSFER",
+        115
+      ],
+      [
+        "UPI",
+        57
+      ],
+      [
+        "ATM",
+        24
+      ],
+      [
+        "NET_BANKING",
+        7
+      ]
+    ],
+    "most_common_transaction_types": [
+      [
+        "PURCHASE",
+        50
+      ],
+      [
+        "DINING",
+        45
+      ],
+      [
+        "GROCERY",
+        44
+      ],
+      [
+        "TRAVEL",
+        33
+      ],
+      [
+        "TRANSFER",
+        29
+      ],
+      [
+        "FUEL",
+        24
+      ],
+      [
+        "UTILITY",
+        23
+      ],
+      [
+        "WITHDRAWAL",
+        22
+      ],
+      [
+        "SUBSCRIPTION",
+        20
+      ],
+      [
+        "BILL_PAYMENT",
+        14
+      ],
+      [
+        "REFUND",
+        7
+      ],
+      [
+        "SALARY",
+        6
+      ],
+      [
+        "RENT",
+        6
+      ]
+    ],
+    "channel_baseline": {
+      "BANK_TRANSFER": {
+        "count": 115,
+        "percentage": 35.6,
+        "total_amount": 1297891.24
+      },
+      "UPI": {
+        "count": 57,
+        "percentage": 17.65,
+        "total_amount": 223193.8
+      },
+      "CARD": {
+        "count": 120,
+        "percentage": 37.15,
+        "total_amount": 546442.08
+      },
+      "ATM": {
+        "count": 24,
+        "percentage": 7.43,
+        "total_amount": 224106.74
+      },
+      "NET_BANKING": {
+        "count": 7,
+        "percentage": 2.17,
+        "total_amount": 152983.5
+      }
+    },
+    "typical_transaction_hour": 12,
+    "median_transaction_hour": 14,
+    "time_distribution": {
+      "06:00-10:00": 15.17,
+      "10:00-14:00": 31.58,
+      "14:00-18:00": 26.01,
+      "18:00-22:00": 23.22,
+      "22:00-06:00": 4.02
+    },
+    "weekday_transaction_count": 247,
+    "weekend_transaction_count": 76,
+    "monthly_transaction_count": {
+      "2026-03": 57,
+      "2026-04": 54,
+      "2026-05": 55,
+      "2026-06": 52,
+      "2026-07": 52,
+      "2026-08": 53
+    },
+    "monthly_total_amount": {
+      "2026-03": 449383.17,
+      "2026-04": 483025.28,
+      "2026-05": 428200.21,
+      "2026-06": 404795.39,
+      "2026-07": 347180.92,
+      "2026-08": 332032.39
+    },
+    "active_days": 147
+  },
+  "C015": {
+    "total_transactions": 528,
+    "total_amount": 3148344.78,
+    "average_amount": 5962.77,
+    "median_amount": 3678.11,
+    "minimum_amount": 169.95,
+    "maximum_amount": 29835.77,
+    "standard_deviation": 6244.05,
+    "typical_transaction_count_per_day": 2.917,
+    "average_daily_amount": 17394.17,
+    "median_transactions_per_day": 3.0,
+    "max_transactions_per_day": 9,
+    "min_transactions_per_day": 1,
+    "median_daily_spend": 12980.83,
+    "most_common_payees": [
+      [
+        "Amazon",
+        57
+      ],
+      [
+        "Flipkart",
+        55
+      ],
+      [
+        "Swiggy",
+        52
+      ],
+      [
+        "Bank Transfer",
+        50
+      ],
+      [
+        "Zomato",
+        49
+      ],
+      [
+        "Grocery Store",
+        42
+      ],
+      [
+        "Fuel Station",
+        35
+      ],
+      [
+        "ATM",
+        27
+      ],
+      [
+        "FreshMart",
+        26
+      ],
+      [
+        "Uber",
+        21
+      ]
+    ],
+    "most_common_channels": [
+      [
+        "UPI",
+        175
+      ],
+      [
+        "CARD",
+        157
+      ],
+      [
+        "BANK_TRANSFER",
+        114
+      ],
+      [
+        "NET_BANKING",
+        55
+      ],
+      [
+        "ATM",
+        27
+      ]
+    ],
+    "most_common_transaction_types": [
+      [
+        "DINING",
+        101
+      ],
+      [
+        "PURCHASE",
+        96
+      ],
+      [
+        "GROCERY",
+        68
+      ],
+      [
+        "TRANSFER",
+        50
+      ],
+      [
+        "TRAVEL",
+        37
+      ],
+      [
+        "FUEL",
+        35
+      ],
+      [
+        "BILL_PAYMENT",
+        32
+      ],
+      [
+        "UTILITY",
+        32
+      ],
+      [
+        "WITHDRAWAL",
+        27
+      ],
+      [
+        "SUBSCRIPTION",
+        22
+      ],
+      [
+        "REFUND",
+        16
+      ],
+      [
+        "SALARY",
+        6
+      ],
+      [
+        "RENT",
+        6
+      ]
+    ],
+    "channel_baseline": {
+      "BANK_TRANSFER": {
+        "count": 114,
+        "percentage": 21.59,
+        "total_amount": 806176.23
+      },
+      "UPI": {
+        "count": 175,
+        "percentage": 33.14,
+        "total_amount": 848082.54
+      },
+      "NET_BANKING": {
+        "count": 55,
+        "percentage": 10.42,
+        "total_amount": 454074.04
+      },
+      "CARD": {
+        "count": 157,
+        "percentage": 29.73,
+        "total_amount": 721797.11
+      },
+      "ATM": {
+        "count": 27,
+        "percentage": 5.11,
+        "total_amount": 318214.86
+      }
+    },
+    "typical_transaction_hour": 12,
+    "median_transaction_hour": 14,
+    "time_distribution": {
+      "06:00-10:00": 14.39,
+      "10:00-14:00": 30.3,
+      "14:00-18:00": 21.59,
+      "18:00-22:00": 27.27,
+      "22:00-06:00": 6.44
+    },
+    "weekday_transaction_count": 392,
+    "weekend_transaction_count": 136,
+    "monthly_transaction_count": {
+      "2026-03": 87,
+      "2026-04": 87,
+      "2026-05": 90,
+      "2026-06": 86,
+      "2026-07": 91,
+      "2026-08": 87
+    },
+    "monthly_total_amount": {
+      "2026-03": 557756.78,
+      "2026-04": 467002.85,
+      "2026-05": 547087.53,
+      "2026-06": 626055.76,
+      "2026-07": 503833.89,
+      "2026-08": 446607.97
+    },
+    "active_days": 181
+  },
+  "C016": {
+    "total_transactions": 518,
+    "total_amount": 3023590.08,
+    "average_amount": 5837.05,
+    "median_amount": 3515.64,
+    "minimum_amount": 200.56,
+    "maximum_amount": 52489.13,
+    "standard_deviation": 7313.44,
+    "typical_transaction_count_per_day": 3.012,
+    "average_daily_amount": 17579.01,
+    "median_transactions_per_day": 3.0,
+    "max_transactions_per_day": 7,
+    "min_transactions_per_day": 1,
+    "median_daily_spend": 13757.58,
+    "most_common_payees": [
+      [
+        "Flipkart",
+        54
+      ],
+      [
+        "FreshMart",
+        50
+      ],
+      [
+        "Amazon",
+        46
+      ],
+      [
+        "Bank Transfer",
+        42
+      ],
+      [
+        "Swiggy",
+        41
+      ],
+      [
+        "Zomato",
+        39
+      ],
+      [
+        "Fuel Station",
+        38
+      ],
+      [
+        "Grocery Store",
+        37
+      ],
+      [
+        "ATM",
+        28
+      ],
+      [
+        "Uber",
+        23
+      ]
+    ],
+    "most_common_channels": [
+      [
+        "UPI",
+        315
+      ],
+      [
+        "CARD",
+        105
+      ],
+      [
+        "BANK_TRANSFER",
+        57
+      ],
+      [
+        "ATM",
+        28
+      ],
+      [
+        "NET_BANKING",
+        13
+      ]
+    ],
+    "most_common_transaction_types": [
+      [
+        "PURCHASE",
+        93
+      ],
+      [
+        "GROCERY",
+        87
+      ],
+      [
+        "DINING",
+        80
+      ],
+      [
+        "TRAVEL",
+        45
+      ],
+      [
+        "UTILITY",
+        44
+      ],
+      [
+        "TRANSFER",
+        42
+      ],
+      [
+        "FUEL",
+        38
+      ],
+      [
+        "WITHDRAWAL",
+        28
+      ],
+      [
+        "SUBSCRIPTION",
+        21
+      ],
+      [
+        "BILL_PAYMENT",
+        21
+      ],
+      [
+        "REFUND",
+        7
+      ],
+      [
+        "SALARY",
+        6
+      ],
+      [
+        "RENT",
+        6
+      ]
+    ],
+    "channel_baseline": {
+      "BANK_TRANSFER": {
+        "count": 57,
+        "percentage": 11.0,
+        "total_amount": 600250.09
+      },
+      "UPI": {
+        "count": 315,
+        "percentage": 60.81,
+        "total_amount": 1549383.86
+      },
+      "NET_BANKING": {
+        "count": 13,
+        "percentage": 2.51,
+        "total_amount": 207598.78
+      },
+      "ATM": {
+        "count": 28,
+        "percentage": 5.41,
+        "total_amount": 290190.22
+      },
+      "CARD": {
+        "count": 105,
+        "percentage": 20.27,
+        "total_amount": 376167.13
+      }
+    },
+    "typical_transaction_hour": 10,
+    "median_transaction_hour": 14,
+    "time_distribution": {
+      "06:00-10:00": 12.36,
+      "10:00-14:00": 31.85,
+      "14:00-18:00": 25.1,
+      "18:00-22:00": 26.06,
+      "22:00-06:00": 4.63
+    },
+    "weekday_transaction_count": 349,
+    "weekend_transaction_count": 169,
+    "monthly_transaction_count": {
+      "2026-03": 87,
+      "2026-04": 86,
+      "2026-05": 88,
+      "2026-06": 85,
+      "2026-07": 88,
+      "2026-08": 84
+    },
+    "monthly_total_amount": {
+      "2026-03": 507330.16,
+      "2026-04": 571031.31,
+      "2026-05": 424983.11,
+      "2026-06": 459499.89,
+      "2026-07": 532470.58,
+      "2026-08": 528275.03
+    },
+    "active_days": 172
+  },
+  "C017": {
+    "total_transactions": 529,
+    "total_amount": 3286064.69,
+    "average_amount": 6211.84,
+    "median_amount": 3226.15,
+    "minimum_amount": 165.29,
+    "maximum_amount": 90305.7,
+    "standard_deviation": 10356.41,
+    "typical_transaction_count_per_day": 3.006,
+    "average_daily_amount": 18670.82,
+    "median_transactions_per_day": 3.0,
+    "max_transactions_per_day": 7,
+    "min_transactions_per_day": 1,
+    "median_daily_spend": 13481.93,
+    "most_common_payees": [
+      [
+        "Amazon",
+        54
+      ],
+      [
+        "Bank Transfer",
+        52
+      ],
+      [
+        "Zomato",
+        51
+      ],
+      [
+        "Flipkart",
+        48
+      ],
+      [
+        "Swiggy",
+        43
+      ],
+      [
+        "FreshMart",
+        40
+      ],
+      [
+        "Fuel Station",
+        34
+      ],
+      [
+        "Grocery Store",
+        32
+      ],
+      [
+        "Ola",
+        27
+      ],
+      [
+        "ATM",
+        27
+      ]
+    ],
+    "most_common_channels": [
+      [
+        "UPI",
+        189
+      ],
+      [
+        "BANK_TRANSFER",
+        150
+      ],
+      [
+        "CARD",
+        92
+      ],
+      [
+        "NET_BANKING",
+        71
+      ],
+      [
+        "ATM",
+        27
+      ]
+    ],
+    "most_common_transaction_types": [
+      [
+        "DINING",
+        94
+      ],
+      [
+        "PURCHASE",
+        92
+      ],
+      [
+        "GROCERY",
+        72
+      ],
+      [
+        "TRANSFER",
+        52
+      ],
+      [
+        "TRAVEL",
+        47
+      ],
+      [
+        "UTILITY",
+        43
+      ],
+      [
+        "FUEL",
+        34
+      ],
+      [
+        "SUBSCRIPTION",
+        27
+      ],
+      [
+        "WITHDRAWAL",
+        27
+      ],
+      [
+        "BILL_PAYMENT",
+        19
+      ],
+      [
+        "REFUND",
+        10
+      ],
+      [
+        "SALARY",
+        6
+      ],
+      [
+        "RENT",
+        6
+      ]
+    ],
+    "channel_baseline": {
+      "BANK_TRANSFER": {
+        "count": 150,
+        "percentage": 28.36,
+        "total_amount": 1190296.46
+      },
+      "UPI": {
+        "count": 189,
+        "percentage": 35.73,
+        "total_amount": 892915.33
+      },
+      "NET_BANKING": {
+        "count": 71,
+        "percentage": 13.42,
+        "total_amount": 499043.75
+      },
+      "CARD": {
+        "count": 92,
+        "percentage": 17.39,
+        "total_amount": 424265.73
+      },
+      "ATM": {
+        "count": 27,
+        "percentage": 5.1,
+        "total_amount": 279543.42
+      }
+    },
+    "typical_transaction_hour": 12,
+    "median_transaction_hour": 14,
+    "time_distribution": {
+      "06:00-10:00": 15.5,
+      "10:00-14:00": 28.92,
+      "14:00-18:00": 23.06,
+      "18:00-22:00": 25.14,
+      "22:00-06:00": 7.37
+    },
+    "weekday_transaction_count": 393,
+    "weekend_transaction_count": 136,
+    "monthly_transaction_count": {
+      "2026-03": 89,
+      "2026-04": 86,
+      "2026-05": 89,
+      "2026-06": 87,
+      "2026-07": 87,
+      "2026-08": 91
+    },
+    "monthly_total_amount": {
+      "2026-03": 619965.18,
+      "2026-04": 512196.29,
+      "2026-05": 527163.41,
+      "2026-06": 525765.6,
+      "2026-07": 606152.86,
+      "2026-08": 494821.35
+    },
+    "active_days": 176
+  },
+  "C018": {
+    "total_transactions": 418,
+    "total_amount": 2316981.33,
+    "average_amount": 5543.02,
+    "median_amount": 3584.93,
+    "minimum_amount": 227.32,
+    "maximum_amount": 28508.25,
+    "standard_deviation": 5454.76,
+    "typical_transaction_count_per_day": 2.503,
+    "average_daily_amount": 13874.14,
+    "median_transactions_per_day": 2.0,
+    "max_transactions_per_day": 6,
+    "min_transactions_per_day": 1,
+    "median_daily_spend": 10701.71,
+    "most_common_payees": [
+      [
+        "Amazon",
+        40
+      ],
+      [
+        "Flipkart",
+        39
+      ],
+      [
+        "Grocery Store",
+        38
+      ],
+      [
+        "Zomato",
+        34
+      ],
+      [
+        "FreshMart",
+        31
+      ],
+      [
+        "Bank Transfer",
+        30
+      ],
+      [
+        "Fuel Station",
+        29
+      ],
+      [
+        "ATM",
+        26
+      ],
+      [
+        "Swiggy",
+        25
+      ],
+      [
+        "Uber",
+        20
+      ]
+    ],
+    "most_common_channels": [
+      [
+        "CARD",
+        206
+      ],
+      [
+        "UPI",
+        88
+      ],
+      [
+        "BANK_TRANSFER",
+        87
+      ],
+      [
+        "ATM",
+        26
+      ],
+      [
+        "NET_BANKING",
+        11
+      ]
+    ],
+    "most_common_transaction_types": [
+      [
+        "PURCHASE",
+        70
+      ],
+      [
+        "GROCERY",
+        69
+      ],
+      [
+        "DINING",
+        59
+      ],
+      [
+        "TRAVEL",
+        38
+      ],
+      [
+        "UTILITY",
+        33
+      ],
+      [
+        "TRANSFER",
+        30
+      ],
+      [
+        "FUEL",
+        29
+      ],
+      [
+        "WITHDRAWAL",
+        26
+      ],
+      [
+        "SUBSCRIPTION",
+        24
+      ],
+      [
+        "BILL_PAYMENT",
+        19
+      ],
+      [
+        "REFUND",
+        9
+      ],
+      [
+        "SALARY",
+        6
+      ],
+      [
+        "RENT",
+        6
+      ]
+    ],
+    "channel_baseline": {
+      "BANK_TRANSFER": {
+        "count": 87,
+        "percentage": 20.81,
+        "total_amount": 612627.02
+      },
+      "UPI": {
+        "count": 88,
+        "percentage": 21.05,
+        "total_amount": 378066.39
+      },
+      "CARD": {
+        "count": 206,
+        "percentage": 49.28,
+        "total_amount": 961575.03
+      },
+      "NET_BANKING": {
+        "count": 11,
+        "percentage": 2.63,
+        "total_amount": 97336.3
+      },
+      "ATM": {
+        "count": 26,
+        "percentage": 6.22,
+        "total_amount": 267376.59
+      }
+    },
+    "typical_transaction_hour": 10,
+    "median_transaction_hour": 14,
+    "time_distribution": {
+      "06:00-10:00": 12.2,
+      "10:00-14:00": 30.38,
+      "14:00-18:00": 24.16,
+      "18:00-22:00": 27.75,
+      "22:00-06:00": 5.5
+    },
+    "weekday_transaction_count": 309,
+    "weekend_transaction_count": 109,
+    "monthly_transaction_count": {
+      "2026-03": 71,
+      "2026-04": 70,
+      "2026-05": 67,
+      "2026-06": 72,
+      "2026-07": 70,
+      "2026-08": 68
+    },
+    "monthly_total_amount": {
+      "2026-03": 362036.38,
+      "2026-04": 299560.39,
+      "2026-05": 411010.21,
+      "2026-06": 410399.88,
+      "2026-07": 412852.34,
+      "2026-08": 421122.13
+    },
+    "active_days": 167
+  },
+  "C019": {
+    "total_transactions": 336,
+    "total_amount": 2316365.65,
+    "average_amount": 6893.95,
+    "median_amount": 3376.94,
+    "minimum_amount": 159.65,
+    "maximum_amount": 87071.1,
+    "standard_deviation": 12213.9,
+    "typical_transaction_count_per_day": 2.1,
+    "average_daily_amount": 14477.29,
+    "median_transactions_per_day": 2.0,
+    "max_transactions_per_day": 6,
+    "min_transactions_per_day": 1,
+    "median_daily_spend": 8345.28,
+    "most_common_payees": [
+      [
+        "Fuel Station",
+        30
+      ],
+      [
+        "Zomato",
+        30
+      ],
+      [
+        "Amazon",
+        26
+      ],
+      [
+        "Bank Transfer",
+        26
+      ],
+      [
+        "Flipkart",
+        25
+      ],
+      [
+        "Grocery Store",
+        23
+      ],
+      [
+        "FreshMart",
+        21
+      ],
+      [
+        "Swiggy",
+        20
+      ],
+      [
+        "Mobile Provider",
+        19
+      ],
+      [
+        "Ola",
+        17
+      ]
+    ],
+    "most_common_channels": [
+      [
+        "BANK_TRANSFER",
+        136
+      ],
+      [
+        "CARD",
+        106
+      ],
+      [
+        "UPI",
+        73
+      ],
+      [
+        "ATM",
+        16
+      ],
+      [
+        "NET_BANKING",
+        5
+      ]
+    ],
+    "most_common_transaction_types": [
+      [
+        "DINING",
+        50
+      ],
+      [
+        "PURCHASE",
+        48
+      ],
+      [
+        "GROCERY",
+        44
+      ],
+      [
+        "UTILITY",
+        37
+      ],
+      [
+        "TRAVEL",
+        34
+      ],
+      [
+        "FUEL",
+        30
+      ],
+      [
+        "TRANSFER",
+        26
+      ],
+      [
+        "SUBSCRIPTION",
+        19
+      ],
+      [
+        "BILL_PAYMENT",
+        17
+      ],
+      [
+        "WITHDRAWAL",
+        16
+      ],
+      [
+        "SALARY",
+        6
+      ],
+      [
+        "RENT",
+        6
+      ],
+      [
+        "REFUND",
+        3
+      ]
+    ],
+    "channel_baseline": {
+      "BANK_TRANSFER": {
+        "count": 136,
+        "percentage": 40.48,
+        "total_amount": 1207349.03
+      },
+      "UPI": {
+        "count": 73,
+        "percentage": 21.73,
+        "total_amount": 404855.58
+      },
+      "CARD": {
+        "count": 106,
+        "percentage": 31.55,
+        "total_amount": 426306.73
+      },
+      "ATM": {
+        "count": 16,
+        "percentage": 4.76,
+        "total_amount": 187659.52
+      },
+      "NET_BANKING": {
+        "count": 5,
+        "percentage": 1.49,
+        "total_amount": 90194.79
+      }
+    },
+    "typical_transaction_hour": 11,
+    "median_transaction_hour": 14,
+    "time_distribution": {
+      "06:00-10:00": 15.48,
+      "10:00-14:00": 31.25,
+      "14:00-18:00": 18.45,
+      "18:00-22:00": 29.17,
+      "22:00-06:00": 5.65
+    },
+    "weekday_transaction_count": 236,
+    "weekend_transaction_count": 100,
+    "monthly_transaction_count": {
+      "2026-03": 59,
+      "2026-04": 55,
+      "2026-05": 56,
+      "2026-06": 54,
+      "2026-07": 55,
+      "2026-08": 57
+    },
+    "monthly_total_amount": {
+      "2026-03": 363168.68,
+      "2026-04": 362754.41,
+      "2026-05": 392411.96,
+      "2026-06": 387839.99,
+      "2026-07": 415066.84,
+      "2026-08": 395123.77
+    },
+    "active_days": 160
+  },
+  "C020": {
+    "total_transactions": 465,
+    "total_amount": 2860795.23,
+    "average_amount": 6152.25,
+    "median_amount": 3343.45,
+    "minimum_amount": 151.22,
+    "maximum_amount": 56249.09,
+    "standard_deviation": 8105.16,
+    "typical_transaction_count_per_day": 2.784,
+    "average_daily_amount": 17130.51,
+    "median_transactions_per_day": 2.0,
+    "max_transactions_per_day": 9,
+    "min_transactions_per_day": 1,
+    "median_daily_spend": 14337.77,
+    "most_common_payees": [
+      [
+        "Bank Transfer",
+        49
+      ],
+      [
+        "Flipkart",
+        44
+      ],
+      [
+        "Zomato",
+        43
+      ],
+      [
+        "Swiggy",
+        39
+      ],
+      [
+        "Amazon",
+        35
+      ],
+      [
+        "Fuel Station",
+        32
+      ],
+      [
+        "FreshMart",
+        29
+      ],
+      [
+        "Grocery Store",
+        25
+      ],
+      [
+        "ATM",
+        24
+      ],
+      [
+        "Mobile Provider",
+        23
+      ]
+    ],
+    "most_common_channels": [
+      [
+        "UPI",
+        152
+      ],
+      [
+        "CARD",
+        123
+      ],
+      [
+        "BANK_TRANSFER",
+        106
+      ],
+      [
+        "NET_BANKING",
+        60
+      ],
+      [
+        "ATM",
+        24
+      ]
+    ],
+    "most_common_transaction_types": [
+      [
+        "DINING",
+        82
+      ],
+      [
+        "PURCHASE",
+        70
+      ],
+      [
+        "GROCERY",
+        54
+      ],
+      [
+        "TRANSFER",
+        49
+      ],
+      [
+        "UTILITY",
+        41
+      ],
+      [
+        "TRAVEL",
+        38
+      ],
+      [
+        "FUEL",
+        32
+      ],
+      [
+        "SUBSCRIPTION",
+        27
+      ],
+      [
+        "BILL_PAYMENT",
+        27
+      ],
+      [
+        "WITHDRAWAL",
+        24
+      ],
+      [
+        "REFUND",
+        9
+      ],
+      [
+        "SALARY",
+        6
+      ],
+      [
+        "RENT",
+        6
+      ]
+    ],
+    "channel_baseline": {
+      "BANK_TRANSFER": {
+        "count": 106,
+        "percentage": 22.8,
+        "total_amount": 912268.37
+      },
+      "UPI": {
+        "count": 152,
+        "percentage": 32.69,
+        "total_amount": 768911.52
+      },
+      "CARD": {
+        "count": 123,
+        "percentage": 26.45,
+        "total_amount": 539060.96
+      },
+      "NET_BANKING": {
+        "count": 60,
+        "percentage": 12.9,
+        "total_amount": 355410.05
+      },
+      "ATM": {
+        "count": 24,
+        "percentage": 5.16,
+        "total_amount": 285144.33
+      }
+    },
+    "typical_transaction_hour": 19,
+    "median_transaction_hour": 14,
+    "time_distribution": {
+      "06:00-10:00": 15.27,
+      "10:00-14:00": 27.74,
+      "14:00-18:00": 26.24,
+      "18:00-22:00": 24.3,
+      "22:00-06:00": 6.45
+    },
+    "weekday_transaction_count": 330,
+    "weekend_transaction_count": 135,
+    "monthly_transaction_count": {
+      "2026-03": 75,
+      "2026-04": 76,
+      "2026-05": 81,
+      "2026-06": 76,
+      "2026-07": 76,
+      "2026-08": 81
+    },
+    "monthly_total_amount": {
+      "2026-03": 471020.12,
+      "2026-04": 444141.92,
+      "2026-05": 519296.12,
+      "2026-06": 502733.38,
+      "2026-07": 446479.93,
+      "2026-08": 477123.76
+    },
+    "active_days": 167
+  }
+}

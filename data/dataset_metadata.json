@@ -1,0 +1,32 @@
+{
+  "dataset_version": "1.0",
+  "random_seed": 42,
+  "customers": 20,
+  "transactions": 8966,
+  "date_start": "2026-03-01",
+  "date_end": "2026-08-31",
+  "channels": [
+    "UPI",
+    "CARD",
+    "BANK_TRANSFER",
+    "NET_BANKING",
+    "ATM",
+    "CASH"
+  ],
+  "transaction_types": [
+    "PURCHASE",
+    "BILL_PAYMENT",
+    "TRANSFER",
+    "SALARY",
+    "RENT",
+    "WITHDRAWAL",
+    "SUBSCRIPTION",
+    "REFUND",
+    "UTILITY",
+    "FUEL",
+    "GROCERY",
+    "DINING",
+    "TRAVEL"
+  ],
+  "generated_at": "2026-09-05T05:39:01.389402Z"
+}
